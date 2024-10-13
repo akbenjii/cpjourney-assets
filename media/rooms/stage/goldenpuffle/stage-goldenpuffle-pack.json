@@ -1,0 +1,94 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-bgboulder.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-bgboulder"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-bigboulder.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-bigboulder"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-bridgecollapse.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-bridgecollapse"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-cart.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-cart"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-hiss.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-hiss"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-mummy.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-mummy"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-smallbridge.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-smallbridge"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-snowball.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-snowball"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-sphinx1.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-sphinx1"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/goldenpuffle/goldenpuffle-sphinx2.mp3"
+                ],
+                "type": "audio",
+                "key": "goldenpuffle-sphinx2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/goldenpuffle/stage-goldenpuffle.json",
+                "path": "assets/media/rooms/stage/goldenpuffle",
+                "key": "stage-goldenpuffle"
+            },
+            {
+                "url": "assets/media/rooms/stage/goldenpuffle/stage-goldenpuffle-physics.json",
+                "type": "json",
+                "key": "stage-goldenpuffle-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

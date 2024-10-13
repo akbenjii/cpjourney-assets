@@ -1,0 +1,25 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+<<<<<<<< HEAD:media/rooms/_fair/beacon/fair-beacon-pack.json
+                "url": "assets/media/rooms/_fair/beacon/fair-beacon.json",
+                "path": "assets/media/rooms/_fair/beacon",
+                "key": "fair-beacon"
+========
+                "url": "assets/media/rooms/_prefair/beach/prefair-beach.json",
+                "path": "assets/media/rooms/_prefair/beach",
+                "key": "prefair-beach"
+>>>>>>>> master:media/rooms/_prefair/beach/prefair-beach-pack.json
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/newspaper/issue21/EmeraldElias.png",
+                "type": "image",
+                "key": "EmeraldElias"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue21/hachi.png",
+                "type": "image",
+                "key": "hachi"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/issue21/issue21.json",
+                "path": "assets/media/interface/game/newspaper/issue21",
+                "key": "issue21"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue21/Nero.png",
+                "type": "image",
+                "key": "Nero"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/common/newspaper-common.json",
+                "path": "assets/media/interface/game/newspaper/common",
+                "key": "newspaper-common"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue21/Quackashi.png",
+                "type": "image",
+                "key": "Quackashi"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

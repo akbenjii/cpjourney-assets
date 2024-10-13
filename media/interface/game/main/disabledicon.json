@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "disabledicon-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 36,
+				"h": 71
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "emote-disabled",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "chat-disabled",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 31
+					},
+					"frame": {
+						"x": 2,
+						"y": 38,
+						"w": 32,
+						"h": 31
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c53dd5bf97a01bc87519d48d398bd163:5d673dc3841afc78e79d72427aa3a39c:71bf662c1acd78d7b6341508eb22a993$"
+	}
+}

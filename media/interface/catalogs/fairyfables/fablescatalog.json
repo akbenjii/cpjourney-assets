@@ -1,0 +1,525 @@
+{
+	"textures": [
+		{
+			"image": "fablescatalog-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2011,
+				"h": 1900
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pages/page2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 814
+					}
+				},
+				{
+					"filename": "pages/page1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 33,
+						"w": 600,
+						"h": 814
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 600,
+						"h": 814
+					}
+				},
+				{
+					"filename": "turns/left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 436,
+						"h": 764
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 299,
+						"w": 226,
+						"h": 464
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1,
+						"w": 226,
+						"h": 464
+					}
+				},
+				{
+					"filename": "turns/close-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 267,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 1,
+						"w": 226,
+						"h": 461
+					},
+					"frame": {
+						"x": 1784,
+						"y": 467,
+						"w": 226,
+						"h": 461
+					}
+				},
+				{
+					"filename": "pages/page6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 33,
+						"w": 600,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 600,
+						"h": 814
+					}
+				},
+				{
+					"filename": "misc/outline",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 266,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 266,
+						"h": 266
+					},
+					"frame": {
+						"x": 1,
+						"y": 1633,
+						"w": 266,
+						"h": 266
+					}
+				},
+				{
+					"filename": "misc/bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 253,
+						"h": 251
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 253,
+						"h": 251
+					},
+					"frame": {
+						"x": 269,
+						"y": 1633,
+						"w": 253,
+						"h": 251
+					}
+				},
+				{
+					"filename": "misc/hat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 274,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 274,
+						"h": 157
+					},
+					"frame": {
+						"x": 524,
+						"y": 1633,
+						"w": 274,
+						"h": 157
+					}
+				},
+				{
+					"filename": "misc/book-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 872,
+						"h": 770
+					},
+					"spriteSourceSize": {
+						"x": 188,
+						"y": 78,
+						"w": 468,
+						"h": 596
+					},
+					"frame": {
+						"x": 603,
+						"y": 817,
+						"w": 468,
+						"h": 596
+					}
+				},
+				{
+					"filename": "turns/right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 436,
+						"h": 764
+					},
+					"spriteSourceSize": {
+						"x": 209,
+						"y": 299,
+						"w": 227,
+						"h": 464
+					},
+					"frame": {
+						"x": 800,
+						"y": 1415,
+						"w": 227,
+						"h": 464
+					}
+				},
+				{
+					"filename": "turns/close-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 267,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 1,
+						"w": 226,
+						"h": 461
+					},
+					"frame": {
+						"x": 1029,
+						"y": 1415,
+						"w": 226,
+						"h": 461
+					}
+				},
+				{
+					"filename": "misc/book",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 872,
+						"h": 770
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 90,
+						"w": 451,
+						"h": 565
+					},
+					"frame": {
+						"x": 1073,
+						"y": 817,
+						"w": 451,
+						"h": 565
+					}
+				},
+				{
+					"filename": "turns/right-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 436,
+						"h": 764
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 238,
+						"w": 242,
+						"h": 525
+					},
+					"frame": {
+						"x": 1526,
+						"y": 817,
+						"w": 242,
+						"h": 525
+					}
+				},
+				{
+					"filename": "turns/right-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 436,
+						"h": 764
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 238,
+						"w": 242,
+						"h": 525
+					},
+					"frame": {
+						"x": 1526,
+						"y": 817,
+						"w": 242,
+						"h": 525
+					}
+				},
+				{
+					"filename": "turns/left_close-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 267,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 226,
+						"h": 461
+					},
+					"frame": {
+						"x": 1770,
+						"y": 930,
+						"w": 226,
+						"h": 461
+					}
+				},
+				{
+					"filename": "turns/left-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 436,
+						"h": 764
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 239,
+						"w": 241,
+						"h": 524
+					},
+					"frame": {
+						"x": 1526,
+						"y": 1344,
+						"w": 241,
+						"h": 524
+					}
+				},
+				{
+					"filename": "turns/left-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 436,
+						"h": 764
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 239,
+						"w": 241,
+						"h": 524
+					},
+					"frame": {
+						"x": 1526,
+						"y": 1344,
+						"w": 241,
+						"h": 524
+					}
+				},
+				{
+					"filename": "turns/left_close-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 267,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 226,
+						"h": 461
+					},
+					"frame": {
+						"x": 1769,
+						"y": 1393,
+						"w": 226,
+						"h": 461
+					}
+				},
+				{
+					"filename": "turns/close",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 267,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 1,
+						"w": 96,
+						"h": 289
+					},
+					"frame": {
+						"x": 1257,
+						"y": 1384,
+						"w": 96,
+						"h": 289
+					}
+				},
+				{
+					"filename": "turns/left_close",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 267,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 96,
+						"h": 289
+					},
+					"frame": {
+						"x": 1355,
+						"y": 1384,
+						"w": 96,
+						"h": 289
+					}
+				}
+			]
+		},
+		{
+			"image": "fablescatalog-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1181,
+				"h": 1632
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pages/page3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 814
+					}
+				},
+				{
+					"filename": "pages/page4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 1179,
+						"h": 814
+					}
+				}
+			]
+		},
+		{
+			"image": "fablescatalog-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1181,
+				"h": 816
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pages/page5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 814
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f4a6f33fd2226c11376a99ab4034c5da:ad333ef53332041fe791c2a650f60464:b16245a19c717fa5c10be901136efc4d$"
+	}
+}

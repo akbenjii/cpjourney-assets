@@ -1,0 +1,34 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/town/fair-town.json",
+                "path": "assets/media/rooms/_fair/town",
+                "key": "fair-town"
+            },
+            {
+                "url": "assets/media/rooms/_fair/town/Symbol 236.png",
+                "type": "image",
+                "key": "Symbol 236"
+            },
+            {
+                "url": "assets/media/rooms/_fair/coaster/town_tracks.webp",
+                "type": "image",
+                "key": "town_tracks"
+            },
+            {
+                "url": "assets/media/rooms/_fair/town/town-physics.json",
+                "type": "json",
+                "key": "town-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

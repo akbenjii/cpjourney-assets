@@ -1,0 +1,62 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/coffee_solo/coffee_solo.json",
+                "path": "assets/media/rooms/coffee_solo/",
+                "key": "coffee_solo"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/coffee_solo/coffee_solo_jobs.json",
+                "path": "assets/media/rooms/coffee_solo",
+                "key": "coffee_solo_jobs"
+            },
+            {
+                "url": "assets/media/rooms/coffee_solo/coffee_solo-anims.json",
+                "type": "animation",
+                "key": "coffee_solo-anims"
+            },
+            {
+                "url": "assets/media/rooms/coffee_solo/coffee_solo-physics.json",
+                "type": "json",
+                "key": "coffee_solo-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/coffee_solo/coffee_tutorial.json",
+                "path": "assets/media/rooms/coffee_solo",
+                "key": "coffee_tutorial"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/coffee_solo/order_bell.mp3"
+                ],
+                "type": "audio",
+                "key": "order_bell"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/coffee_solo/job_coffee_done.mp3"
+                ],
+                "type": "audio",
+                "key": "job_coffee_done"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/coffee_solo/next.mp3"
+                ],
+                "type": "audio",
+                "key": "next"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

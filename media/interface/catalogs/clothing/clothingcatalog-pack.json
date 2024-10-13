@@ -1,0 +1,42 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/clothing/aug-24/aug24ps.json",
+                "path": "assets/media/interface/catalogs/clothing/aug-24",
+                "key": "aug24ps"
+            },
+            {
+                "url": "assets/media/interface/catalogs/clothing/catalog-backgrounds.json",
+                "type": "json",
+                "key": "catalog-backgrounds"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/clothing/clothingcatv2.json",
+                "path": "assets/media/interface/catalogs/clothing",
+                "key": "clothingcatv2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/clothing/jul-24/jul24ps.json",
+                "path": "assets/media/interface/catalogs/clothing/jul-24",
+                "key": "jul24ps"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/clothing/sept-24/sept24ps.json",
+                "path": "assets/media/interface/catalogs/clothing/sept-24",
+                "key": "sept24ps"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

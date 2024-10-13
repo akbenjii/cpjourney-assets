@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/loginprompt/psa_softlaunch/arrow.png",
+                "type": "image",
+                "key": "arrow"
+            },
+            {
+                "url": "assets/media/interface/game/loginprompt/psa_softlaunch/loginprompt-forts.png",
+                "type": "image",
+                "key": "loginprompt-forts"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/loginprompt/psa_softlaunch/psa_softlaunch.json",
+                "path": "assets/media/interface/game/loginprompt/psa_softlaunch",
+                "key": "psa_softlaunch"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "msicons-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 312,
+				"h": 84
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "googleicon-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 98,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 84,
+						"h": 84
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					}
+				},
+				{
+					"filename": "udicon-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 98,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 84,
+						"h": 84
+					},
+					"frame": {
+						"x": 84,
+						"y": 0,
+						"w": 84,
+						"h": 84
+					}
+				},
+				{
+					"filename": "googleicon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 98,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 72,
+						"h": 72
+					},
+					"frame": {
+						"x": 168,
+						"y": 0,
+						"w": 72,
+						"h": 72
+					}
+				},
+				{
+					"filename": "udicon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 98,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 72,
+						"h": 72
+					},
+					"frame": {
+						"x": 240,
+						"y": 0,
+						"w": 72,
+						"h": 72
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:30f9965d01575a9587a9a59cae2f03f4:4c54a14b941a661ff84ab4f10b41e51a:9f3bf8649a00fb268fc007e18514c674$"
+	}
+}

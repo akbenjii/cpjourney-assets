@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/beach/622.png",
+                "type": "image",
+                "key": "622"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/beach/beach.json",
+                "path": "assets/media/rooms/beach/",
+                "key": "beach"
+            },
+            {
+                "url": "assets/media/rooms/beach/beach-anims.json",
+                "type": "animation",
+                "key": "beach-anims"
+            },
+            {
+                "url": "assets/media/rooms/beach/beach-physics.json",
+                "type": "json",
+                "key": "beach-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/beach/migrator_docked.json",
+                "path": "assets/media/rooms/beach",
+                "key": "migrator_docked"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

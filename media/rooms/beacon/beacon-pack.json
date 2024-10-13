@@ -1,0 +1,41 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/beacon/beacon_inner_two.json",
+                "path": "assets/media/rooms/beacon",
+                "key": "beacon_inner_two"
+            },
+            {
+                "url": "assets/media/rooms/beacon/beacon-anims.json",
+                "type": "animation",
+                "key": "beacon-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/beacon/beacon-jetpack.json",
+                "path": "assets/media/rooms/beacon",
+                "key": "beacon-jetpack"
+            },
+            {
+                "url": "assets/media/rooms/beacon/beacon-physics.json",
+                "type": "json",
+                "key": "beacon-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/beacon/lttop.json",
+                "path": "assets/media/rooms/beacon",
+                "key": "lttop"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

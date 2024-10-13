@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "mission11-supercornrecipe.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1556,
+				"h": 962
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "directions",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1523,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1523,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a9c811c8f2f3b22f2bc2789a614e1010:41ef6d17ad4ff3a6ffe5b50c51882ea2:91ebae9749d28eb3c24d531453159446$"
+	}
+}

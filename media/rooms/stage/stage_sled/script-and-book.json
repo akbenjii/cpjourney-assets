@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "script-and-book-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 298,
+				"h": 232
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "script-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 91,
+						"h": 171
+					}
+				},
+				{
+					"filename": "script-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 91,
+						"h": 171
+					}
+				},
+				{
+					"filename": "costume_trunk-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 94,
+						"y": 1,
+						"w": 153,
+						"h": 115
+					}
+				},
+				{
+					"filename": "costume_trunk-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 94,
+						"y": 1,
+						"w": 153,
+						"h": 115
+					}
+				},
+				{
+					"filename": "costume_trunk",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 0,
+						"w": 113,
+						"h": 113
+					},
+					"frame": {
+						"x": 94,
+						"y": 118,
+						"w": 113,
+						"h": 113
+					}
+				},
+				{
+					"filename": "script",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 62,
+						"w": 88,
+						"h": 109
+					},
+					"frame": {
+						"x": 209,
+						"y": 118,
+						"w": 88,
+						"h": 109
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:67595d0e11bba08aaf502e3f9622e5a0:7397feb134a9190cb1e42e7375451453:c606b40114444ba9131a6cfe8c8e98a0$"
+	}
+}

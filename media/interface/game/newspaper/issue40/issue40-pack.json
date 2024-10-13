@@ -1,0 +1,25 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/issue40/issue40.json",
+                "path": "assets/media/interface/game/newspaper/issue40",
+                "key": "issue40"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/common/news-common.json",
+                "path": "assets/media/interface/game/newspaper/common",
+                "key": "news-common"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

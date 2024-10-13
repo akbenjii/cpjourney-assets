@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "communityevents.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1390,
+				"h": 1071
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "noticeboard",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1295,
+						"h": 1069
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1295,
+						"h": 1069
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1295,
+						"h": 1069
+					}
+				},
+				{
+					"filename": "ce-pageturn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 212
+					},
+					"frame": {
+						"x": 1298,
+						"y": 1,
+						"w": 91,
+						"h": 212
+					}
+				},
+				{
+					"filename": "ce-pageturn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 91,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 79,
+						"w": 55,
+						"h": 133
+					},
+					"frame": {
+						"x": 1298,
+						"y": 215,
+						"w": 55,
+						"h": 133
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ce0e829f6070fb574f9b6bd324d043c1:b515ea7adbd526d3d545d79fdd4c2690:c426826554fc2e7037a82de522715e45$"
+	}
+}

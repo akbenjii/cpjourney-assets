@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "cjninjaprogress-cards-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1336,
+				"h": 662
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1168,
+						"h": 586
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1168,
+						"h": 586
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1168,
+						"h": 586
+					}
+				},
+				{
+					"filename": "toolbar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1334,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1334,
+						"h": 72
+					},
+					"frame": {
+						"x": 1,
+						"y": 589,
+						"w": 1334,
+						"h": 72
+					}
+				},
+				{
+					"filename": "scrollbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 424
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 424
+					},
+					"frame": {
+						"x": 1171,
+						"y": 1,
+						"w": 40,
+						"h": 424
+					}
+				},
+				{
+					"filename": "btndown-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1171,
+						"y": 427,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "btndown-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1171,
+						"y": 479,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "btndown",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1171,
+						"y": 531,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "btnup-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "btnup-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1213,
+						"y": 53,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "btnup",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1213,
+						"y": 105,
+						"w": 50,
+						"h": 50
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a814c320307b2626dfb30cd7a9421e97:5694ace4daffc9a4a6b92221e15b5d00:e982950ca1f0526dc52f6d7d74f35950$"
+	}
+}

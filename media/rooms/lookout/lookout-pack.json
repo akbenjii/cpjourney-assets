@@ -1,0 +1,41 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/lookout/dome.png",
+                "type": "image",
+                "key": "dome"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/lookout/lookout.json",
+                "path": "assets/media/rooms/lookout",
+                "key": "lookout"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/lookout/lookout-baseball.json",
+                "path": "assets/media/rooms/lookout",
+                "key": "lookout-baseball"
+            },
+            {
+                "url": "assets/media/rooms/lookout/lookout-physics.json",
+                "type": "json",
+                "key": "lookout-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/lookout/lookout-stadium.json",
+                "path": "assets/media/rooms/lookout",
+                "key": "lookout-stadium"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

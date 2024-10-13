@@ -1,0 +1,640 @@
+{
+	"textures": [
+		{
+			"image": "rubyandruby-catalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1781,
+				"h": 1972
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pageThree",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1178,
+						"h": 812
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1178,
+						"h": 812
+					}
+				},
+				{
+					"filename": "pageOne",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 477,
+						"y": 34,
+						"w": 599,
+						"h": 811
+					},
+					"frame": {
+						"x": 1181,
+						"y": 1,
+						"w": 599,
+						"h": 811
+					}
+				},
+				{
+					"filename": "pageSix",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 598,
+						"h": 811
+					},
+					"frame": {
+						"x": 1181,
+						"y": 814,
+						"w": 598,
+						"h": 811
+					}
+				},
+				{
+					"filename": "pageFive",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1178,
+						"h": 811
+					},
+					"frame": {
+						"x": 1,
+						"y": 815,
+						"w": 1178,
+						"h": 811
+					}
+				},
+				{
+					"filename": "textBox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 520,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 520,
+						"h": 344
+					},
+					"frame": {
+						"x": 1181,
+						"y": 1627,
+						"w": 520,
+						"h": 344
+					}
+				},
+				{
+					"filename": "closeButton",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 0,
+						"w": 47,
+						"h": 140
+					},
+					"frame": {
+						"x": 1703,
+						"y": 1627,
+						"w": 47,
+						"h": 140
+					}
+				},
+				{
+					"filename": "leftButton",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 82,
+						"w": 47,
+						"h": 138
+					},
+					"frame": {
+						"x": 1703,
+						"y": 1769,
+						"w": 47,
+						"h": 138
+					}
+				},
+				{
+					"filename": "background_base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 243
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 243
+					},
+					"frame": {
+						"x": 1,
+						"y": 1628,
+						"w": 242,
+						"h": 243
+					}
+				},
+				{
+					"filename": "BuyTagGreyOne-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 1873,
+						"w": 178,
+						"h": 98
+					}
+				},
+				{
+					"filename": "BuyTagGreyOne-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 98
+					},
+					"frame": {
+						"x": 181,
+						"y": 1873,
+						"w": 178,
+						"h": 98
+					}
+				},
+				{
+					"filename": "bg-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 160
+					},
+					"frame": {
+						"x": 245,
+						"y": 1628,
+						"w": 152,
+						"h": 160
+					}
+				},
+				{
+					"filename": "bg-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 160
+					},
+					"frame": {
+						"x": 245,
+						"y": 1628,
+						"w": 152,
+						"h": 160
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 160
+					},
+					"frame": {
+						"x": 245,
+						"y": 1628,
+						"w": 152,
+						"h": 160
+					}
+				},
+				{
+					"filename": "BuyButton-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 81
+					},
+					"frame": {
+						"x": 245,
+						"y": 1790,
+						"w": 145,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BuyTagGreyOne",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 98
+					},
+					"frame": {
+						"x": 361,
+						"y": 1873,
+						"w": 178,
+						"h": 98
+					}
+				},
+				{
+					"filename": "BuyButton-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 81
+					},
+					"frame": {
+						"x": 392,
+						"y": 1790,
+						"w": 145,
+						"h": 81
+					}
+				},
+				{
+					"filename": "BuyTagGreyTwo-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 220,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 179,
+						"h": 99
+					},
+					"frame": {
+						"x": 399,
+						"y": 1628,
+						"w": 179,
+						"h": 99
+					}
+				},
+				{
+					"filename": "BuyTagGreyTwo-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 220,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 179,
+						"h": 99
+					},
+					"frame": {
+						"x": 539,
+						"y": 1729,
+						"w": 179,
+						"h": 99
+					}
+				},
+				{
+					"filename": "BuyTagGreyTwo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 220,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 179,
+						"h": 99
+					},
+					"frame": {
+						"x": 580,
+						"y": 1628,
+						"w": 179,
+						"h": 99
+					}
+				},
+				{
+					"filename": "BuyButton",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 81
+					},
+					"frame": {
+						"x": 541,
+						"y": 1830,
+						"w": 145,
+						"h": 81
+					}
+				},
+				{
+					"filename": "rightButton",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 82,
+						"w": 47,
+						"h": 138
+					},
+					"frame": {
+						"x": 688,
+						"y": 1830,
+						"w": 47,
+						"h": 138
+					}
+				},
+				{
+					"filename": "closeButton-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 109,
+						"h": 222
+					},
+					"frame": {
+						"x": 737,
+						"y": 1729,
+						"w": 109,
+						"h": 222
+					}
+				},
+				{
+					"filename": "closeButton-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 109,
+						"h": 222
+					},
+					"frame": {
+						"x": 848,
+						"y": 1628,
+						"w": 109,
+						"h": 222
+					}
+				},
+				{
+					"filename": "leftButton-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 959,
+						"y": 1628,
+						"w": 109,
+						"h": 221
+					}
+				},
+				{
+					"filename": "leftButton-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 959,
+						"y": 1628,
+						"w": 109,
+						"h": 221
+					}
+				},
+				{
+					"filename": "rightButton-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 1070,
+						"y": 1628,
+						"w": 109,
+						"h": 221
+					}
+				},
+				{
+					"filename": "rightButton-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 109,
+						"h": 221
+					},
+					"frame": {
+						"x": 1070,
+						"y": 1628,
+						"w": 109,
+						"h": 221
+					}
+				}
+			]
+		},
+		{
+			"image": "rubyandruby-catalog-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1180,
+				"h": 1626
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pageFour",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1178,
+						"h": 811
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1178,
+						"h": 811
+					}
+				},
+				{
+					"filename": "pageTwo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1178,
+						"h": 811
+					},
+					"frame": {
+						"x": 1,
+						"y": 814,
+						"w": 1178,
+						"h": 811
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e86cf9d0a311fb7dfa72a80354d5dfc9:7e3e4ad00f4bcb8238efa8ec331008d1:413ffbf7ff1f855473ff605f5b9b670e$"
+	}
+}

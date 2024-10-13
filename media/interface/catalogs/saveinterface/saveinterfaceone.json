@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "saveinterfaceone-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 795,
+				"h": 923
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "interface_one",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 386,
+						"y": 11,
+						"w": 793,
+						"h": 921
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 793,
+						"h": 921
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d5c9fdc15963016ebc13fc4cf37c97e6:1e97871c5e4815da9753dc8a82d9f432:cefd5bf7f6c37947b6b593a098902014$"
+	}
+}

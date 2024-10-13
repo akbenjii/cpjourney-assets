@@ -1,0 +1,75 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/plaza/fair_plaza.json",
+                "path": "assets/media/rooms/_fair/plaza",
+                "key": "fair_plaza"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/town/fair-town.json",
+                "path": "assets/media/rooms/_fair/town",
+                "key": "fair-town"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/gong1.mp3"
+                ],
+                "type": "audio",
+                "key": "gong1"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/gong2.mp3"
+                ],
+                "type": "audio",
+                "key": "gong2"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/gong3.mp3"
+                ],
+                "type": "audio",
+                "key": "gong3"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/gong4.mp3"
+                ],
+                "type": "audio",
+                "key": "gong4"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/hideout/hideout.json",
+                "path": "assets/media/rooms/hideout",
+                "key": "hideout"
+            },
+            {
+                "url": "assets/media/rooms/hideout/hideout-animations.json",
+                "type": "animation",
+                "key": "hideout-animations"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/hideout/hideout-martial.json",
+                "path": "assets/media/rooms/hideout",
+                "key": "hideout-martial"
+            },
+            {
+                "url": "assets/media/rooms/hideout/hideout-physics.json",
+                "type": "json",
+                "key": "hideout-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

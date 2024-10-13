@@ -1,0 +1,46 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/stage_sled/script-and-book.json",
+                "path": "assets/media/rooms/stage/stage_sled",
+                "key": "script-and-book"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/stage_sled/stage.json",
+                "path": "assets/media/rooms/stage/stage_sled",
+                "key": "stage"
+            },
+            {
+                "url": "assets/media/rooms/old/stage/stage-anims.json",
+                "type": "animation",
+                "key": "stage-anims"
+            },
+            {
+                "url": "assets/media/rooms/stage/stage_sled/stage-physics.json",
+                "type": "json",
+                "key": "stage-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/stage_sled/stage-sled/stage-sled.json",
+                "path": "assets/media/rooms/stage/stage_sled/stage-sled",
+                "key": "stage-sled"
+            },
+            {
+                "url": "assets/media/rooms/stage/stage_sled/Symbol_136.png",
+                "type": "image",
+                "key": "Symbol_136"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/cjcardbuy/cjcardbuy.json",
+                "path": "assets/media/interface/game/cjcardbuy",
+                "key": "cjcardbuy"
+            },
+            {
+                "url": "assets/media/interface/game/cjcardbuy/cjcardbuy-anims.json",
+                "type": "animation",
+                "key": "cjcardbuy-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/cjcardbuy/cjcardbuy-card2.json",
+                "path": "assets/media/interface/game/cjcardbuy",
+                "key": "cjcardbuy-card2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/cjcardbuy/cjcardbuy-card3.json",
+                "path": "assets/media/interface/game/cjcardbuy",
+                "key": "cjcardbuy-card3"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

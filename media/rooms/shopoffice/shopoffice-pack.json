@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/shopoffice/hatjingle.mp3"
+                ],
+                "type": "audio",
+                "key": "hatjingle"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shopoffice/shopoffice.json",
+                "path": "assets/media/rooms/shopoffice",
+                "key": "shopoffice"
+            },
+            {
+                "url": "assets/media/rooms/shopoffice/shopoffice-anims.json",
+                "type": "animation",
+                "key": "shopoffice-anims"
+            },
+            {
+                "url": "assets/media/rooms/shopoffice/shopoffice-physics.json",
+                "type": "json",
+                "key": "shopoffice-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

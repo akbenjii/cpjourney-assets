@@ -1,0 +1,25 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/penguintalestwo/bookinside.json",
+                "path": "assets/media/interface/books/penguintalestwo",
+                "key": "bookinside"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/penguintalestwo/bookoutside.json",
+                "path": "assets/media/interface/books/penguintalestwo",
+                "key": "bookoutside"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

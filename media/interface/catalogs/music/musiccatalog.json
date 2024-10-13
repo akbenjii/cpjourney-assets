@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "musiccatalog.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1185,
+				"h": 1493
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1129,
+						"h": 832
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1129,
+						"h": 832
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1129,
+						"h": 832
+					}
+				},
+				{
+					"filename": "instruments",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1047,
+						"h": 657
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1047,
+						"h": 657
+					},
+					"frame": {
+						"x": 1,
+						"y": 835,
+						"w": 1047,
+						"h": 657
+					}
+				},
+				{
+					"filename": "buybtn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 134,
+						"h": 75
+					},
+					"frame": {
+						"x": 1050,
+						"y": 835,
+						"w": 134,
+						"h": 75
+					}
+				},
+				{
+					"filename": "buybtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 134,
+						"h": 75
+					},
+					"frame": {
+						"x": 1050,
+						"y": 912,
+						"w": 134,
+						"h": 75
+					}
+				},
+				{
+					"filename": "buybtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 134,
+						"h": 75
+					},
+					"frame": {
+						"x": 1050,
+						"y": 989,
+						"w": 134,
+						"h": 75
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 0,
+						"w": 47,
+						"h": 140
+					},
+					"frame": {
+						"x": 1132,
+						"y": 1,
+						"w": 47,
+						"h": 140
+					}
+				},
+				{
+					"filename": "closebtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 109,
+						"h": 222
+					},
+					"frame": {
+						"x": 1050,
+						"y": 1066,
+						"w": 109,
+						"h": 222
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:86bdab10f75301a8928bde60f9123038:8c4e48a0d3e06fda777d7901f6ea7103:74c9cf9b501a2c748d7f1c311d0c0013$"
+	}
+}

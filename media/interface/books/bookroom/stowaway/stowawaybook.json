@@ -1,0 +1,431 @@
+{
+	"textures": [
+		{
+			"image": "stowawaybook-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 1786
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "stowawaypg2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "stowawaypg3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "stowawaypg1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 39,
+						"w": 604,
+						"h": 835
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1,
+						"w": 604,
+						"h": 835
+					}
+				},
+				{
+					"filename": "stowawaypg9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 502,
+						"y": 39,
+						"w": 604,
+						"h": 835
+					},
+					"frame": {
+						"x": 1222,
+						"y": 838,
+						"w": 604,
+						"h": 835
+					}
+				},
+				{
+					"filename": "bracelet-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 317,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 317,
+						"h": 148
+					},
+					"frame": {
+						"x": 1,
+						"y": 1637,
+						"w": 317,
+						"h": 148
+					}
+				},
+				{
+					"filename": "bracelet-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 317,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 317,
+						"h": 148
+					},
+					"frame": {
+						"x": 1,
+						"y": 1637,
+						"w": 317,
+						"h": 148
+					}
+				},
+				{
+					"filename": "bracelet",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 317,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 8,
+						"w": 279,
+						"h": 132
+					},
+					"frame": {
+						"x": 320,
+						"y": 1637,
+						"w": 279,
+						"h": 132
+					}
+				},
+				{
+					"filename": "backPageLeft-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "backPageLeft-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "frontPageRight-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 228,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "frontPageRight-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 228,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "backPageLeft",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 56,
+						"w": 88,
+						"h": 193
+					},
+					"frame": {
+						"x": 1828,
+						"y": 455,
+						"w": 88,
+						"h": 193
+					}
+				},
+				{
+					"filename": "frontPageRight",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 56,
+						"w": 88,
+						"h": 193
+					},
+					"frame": {
+						"x": 1828,
+						"y": 650,
+						"w": 88,
+						"h": 193
+					}
+				}
+			]
+		},
+		{
+			"image": "stowawaybook-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 1636
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "stowawaypg4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "stowawaypg5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		},
+		{
+			"image": "stowawaybook-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 1636
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "stowawaypg6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "stowawaypg7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		},
+		{
+			"image": "stowawaybook-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 818
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "stowawaypg8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7db46df412315a09fe1b60223b5b0006:a31007738979da205bdfe76df28b8072:6ac139cab2380d674e17c4b581606d04$"
+	}
+}

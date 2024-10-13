@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/village/fair-village.json",
+                "path": "assets/media/rooms/_fair/village",
+                "key": "fair-village"
+            },
+            {
+                "url": "assets/media/rooms/_fair/village/newVillage.png",
+                "type": "image",
+                "key": "newVillage"
+            },
+            {
+                "url": "assets/media/rooms/_fair/coaster/village_tracks.webp",
+                "type": "image",
+                "key": "village_tracks"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

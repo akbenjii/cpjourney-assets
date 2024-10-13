@@ -1,0 +1,113 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/cart.mp3"
+                ],
+                "type": "audio",
+                "key": "cart"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/cartFinal.mp3"
+                ],
+                "type": "audio",
+                "key": "cartFinal"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/crab.mp3"
+                ],
+                "type": "audio",
+                "key": "crab"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/crabFinal.mp3"
+                ],
+                "type": "audio",
+                "key": "crabFinal"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/party7/fair-party7.json",
+                "path": "assets/media/rooms/_fair/party7",
+                "key": "fair-party7"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party7/fair-party7-anims.json",
+                "type": "animation",
+                "key": "fair-party7-anims"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party7/fair-party7-physics.json",
+                "type": "json",
+                "key": "fair-party7-physics"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/herbertDoorClose.mp3"
+                ],
+                "type": "audio",
+                "key": "herbertDoorClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/herbertDoorOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "herbertDoorOpen"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/herberthit.mp3"
+                ],
+                "type": "audio",
+                "key": "herberthit"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/herberttaunt.mp3"
+                ],
+                "type": "audio",
+                "key": "herberttaunt"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/scrollCrabSfx.mp3"
+                ],
+                "type": "audio",
+                "key": "scrollCrabSfx"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/windmill.mp3"
+                ],
+                "type": "audio",
+                "key": "windmill"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/windowClose.mp3"
+                ],
+                "type": "audio",
+                "key": "windowClose"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party7/sounds/windowOpen.mp3"
+                ],
+                "type": "audio",
+                "key": "windowOpen"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "blue_btn_large.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1680,
+				"h": 107
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blue_btn_large-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 558,
+						"h": 105
+					}
+				},
+				{
+					"filename": "blue_btn_large-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 105
+					},
+					"frame": {
+						"x": 561,
+						"y": 1,
+						"w": 558,
+						"h": 105
+					}
+				},
+				{
+					"filename": "blue_btn_large",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 105
+					},
+					"frame": {
+						"x": 1121,
+						"y": 1,
+						"w": 558,
+						"h": 105
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:437b7a57ae7bda91dcc6a7bc27dcbd46:4f6efc32ca026b8f190f38137c496144:000b87d7f9cef9595a80370e88e06ca1$"
+	}
+}

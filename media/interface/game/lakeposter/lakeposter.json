@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "lakeposter-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 788,
+				"h": 952
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "poster",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 786,
+						"h": 894
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 786,
+						"h": 894
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 786,
+						"h": 894
+					}
+				},
+				{
+					"filename": "closebutton-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 897,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "closebutton-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 57,
+						"y": 897,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "closebutton",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 113,
+						"y": 897,
+						"w": 54,
+						"h": 54
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b3d571bd95f4f24d24be9e86c5537474:d33b925c7d745c91f7928de342d3fcdc:5c85102ed97a3172426a6780a9f82e4c$"
+	}
+}

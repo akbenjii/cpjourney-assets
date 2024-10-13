@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "mission11-agentstatus.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 158,
+				"h": 249
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "agentstatus-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 127
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 156,
+						"h": 127
+					}
+				},
+				{
+					"filename": "agentstatus",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 118
+					},
+					"frame": {
+						"x": 1,
+						"y": 130,
+						"w": 145,
+						"h": 118
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3b851a3020e416058b25de41e7d680fd:3486a6654aae99a6e8d23231520acbed:01b82ec40574ab619e5e2d372458f77b$"
+	}
+}

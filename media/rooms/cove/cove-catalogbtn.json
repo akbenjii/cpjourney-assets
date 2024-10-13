@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "cove-catalogbtn-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 246,
+				"h": 163
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalogbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 125,
+						"h": 108
+					}
+				},
+				{
+					"filename": "catalogbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 125,
+						"h": 108
+					}
+				},
+				{
+					"filename": "catalogbtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 128,
+						"y": 1,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "catalogirl0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 56
+					},
+					"frame": {
+						"x": 128,
+						"y": 104,
+						"w": 57,
+						"h": 56
+					}
+				},
+				{
+					"filename": "catalogirl0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 56
+					},
+					"frame": {
+						"x": 187,
+						"y": 104,
+						"w": 54,
+						"h": 56
+					}
+				},
+				{
+					"filename": "catalogirl0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 56
+					},
+					"frame": {
+						"x": 187,
+						"y": 104,
+						"w": 54,
+						"h": 56
+					}
+				},
+				{
+					"filename": "catalogirl0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 111,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "catalogirl0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 111,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "catalogirl0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 49
+					},
+					"frame": {
+						"x": 60,
+						"y": 111,
+						"w": 50,
+						"h": 49
+					}
+				},
+				{
+					"filename": "catalogirl0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 49
+					},
+					"frame": {
+						"x": 60,
+						"y": 111,
+						"w": 50,
+						"h": 49
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f120f9719993a97118ad81e9301f331b:92004752774f0d865502d3d06904cf5f:a64803791cb56d2ceb10854b0b48a1b5$"
+	}
+}

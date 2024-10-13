@@ -1,0 +1,3779 @@
+{
+	"textures": [
+		{
+			"image": "cjwaiting.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1459,
+				"h": 1398
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "border",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 811,
+						"h": 703
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 811,
+						"h": 703
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 811,
+						"h": 703
+					}
+				},
+				{
+					"filename": "bg2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 740,
+						"h": 554
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 740,
+						"h": 554
+					},
+					"frame": {
+						"x": 1,
+						"y": 706,
+						"w": 740,
+						"h": 554
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 715,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 715,
+						"h": 536
+					},
+					"frame": {
+						"x": 743,
+						"y": 706,
+						"w": 715,
+						"h": 536
+					}
+				},
+				{
+					"filename": "penguin/tintedpeng",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 273
+					},
+					"frame": {
+						"x": 814,
+						"y": 1,
+						"w": 250,
+						"h": 273
+					}
+				},
+				{
+					"filename": "tintedpeng",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 273
+					},
+					"frame": {
+						"x": 814,
+						"y": 1,
+						"w": 250,
+						"h": 273
+					}
+				},
+				{
+					"filename": "penguin/tintedbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 265
+					},
+					"frame": {
+						"x": 814,
+						"y": 276,
+						"w": 239,
+						"h": 265
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 1262,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 133,
+						"y": 1262,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 265,
+						"y": 1262,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 397,
+						"y": 1262,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 529,
+						"y": 1262,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 661,
+						"y": 1262,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "penguin/angrypenguinfront",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 146,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 146,
+						"h": 133
+					},
+					"frame": {
+						"x": 1066,
+						"y": 1,
+						"w": 146,
+						"h": 133
+					}
+				},
+				{
+					"filename": "penguin/angrypenguin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 131
+					},
+					"frame": {
+						"x": 814,
+						"y": 543,
+						"w": 140,
+						"h": 131
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1066,
+						"y": 136,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 793,
+						"y": 1244,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 925,
+						"y": 1244,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1244,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1189,
+						"y": 1244,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1321,
+						"y": 1244,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1198,
+						"y": 138,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 956,
+						"y": 543,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "penguin/eyes0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0040",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0041",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0042",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0043",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0044",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0045",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0046",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0047",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0048",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0049",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0050",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0051",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0052",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0053",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0054",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0055",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0056",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0057",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0058",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0059",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0060",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0061",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0062",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0063",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0064",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1055,
+						"y": 276,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1187,
+						"y": 275,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "penguinbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 98
+					},
+					"frame": {
+						"x": 1055,
+						"y": 413,
+						"w": 133,
+						"h": 98
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1190,
+						"y": 412,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1088,
+						"y": 549,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blackedout/blackedout0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 135
+					},
+					"frame": {
+						"x": 1220,
+						"y": 549,
+						"w": 130,
+						"h": 135
+					}
+				},
+				{
+					"filename": "penguin/eyes0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 103,
+						"h": 59
+					},
+					"frame": {
+						"x": 1346,
+						"y": 97,
+						"w": 103,
+						"h": 59
+					}
+				},
+				{
+					"filename": "penguin/eyes0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 103,
+						"h": 59
+					},
+					"frame": {
+						"x": 1346,
+						"y": 97,
+						"w": 103,
+						"h": 59
+					}
+				},
+				{
+					"filename": "penguin/eyes0070",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0071",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0072",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0073",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0074",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0075",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0076",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0077",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0078",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0079",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0080",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0081",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0082",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0107",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0108",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0109",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0110",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0111",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0112",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0113",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0114",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0115",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0116",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0117",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0118",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0141",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0142",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0143",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0144",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0145",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0146",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0147",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 94
+					},
+					"frame": {
+						"x": 1330,
+						"y": 158,
+						"w": 103,
+						"h": 94
+					}
+				},
+				{
+					"filename": "penguin/eyes0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 1330,
+						"y": 254,
+						"w": 103,
+						"h": 92
+					}
+				},
+				{
+					"filename": "penguin/eyes0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "penguin/eyes0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 103,
+						"h": 87
+					},
+					"frame": {
+						"x": 1322,
+						"y": 348,
+						"w": 103,
+						"h": 87
+					}
+				},
+				{
+					"filename": "close-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1322,
+						"y": 437,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "close-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1380,
+						"y": 437,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "penguin/eyes0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 38,
+						"w": 76,
+						"h": 23
+					},
+					"frame": {
+						"x": 814,
+						"y": 676,
+						"w": 76,
+						"h": 23
+					}
+				},
+				{
+					"filename": "penguin/eyes0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 38,
+						"w": 76,
+						"h": 23
+					},
+					"frame": {
+						"x": 814,
+						"y": 676,
+						"w": 76,
+						"h": 23
+					}
+				},
+				{
+					"filename": "penguin/eyes0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 103,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 38,
+						"w": 76,
+						"h": 23
+					},
+					"frame": {
+						"x": 814,
+						"y": 676,
+						"w": 76,
+						"h": 23
+					}
+				},
+				{
+					"filename": "close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1352,
+						"y": 495,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fb60cb6af7c1287c2235f98e9503d3ed:1251b571d182a34912c50d0efa45209f:113eccb57adc63dadaf06612ab1dd883$"
+	}
+}

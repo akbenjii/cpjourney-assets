@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "library-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1887,
+				"h": 1466
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1569,
+						"h": 1020
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1569,
+						"h": 1020
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1569,
+						"h": 1020
+					}
+				},
+				{
+					"filename": "shelf",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1254,
+						"h": 442
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1254,
+						"h": 442
+					},
+					"frame": {
+						"x": 1,
+						"y": 1023,
+						"w": 1254,
+						"h": 442
+					}
+				},
+				{
+					"filename": "buttons/rh-journal-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 392
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 314,
+						"h": 371
+					},
+					"frame": {
+						"x": 1572,
+						"y": 1,
+						"w": 314,
+						"h": 371
+					}
+				},
+				{
+					"filename": "buttons/rh-journal-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 392
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 314,
+						"h": 371
+					},
+					"frame": {
+						"x": 1572,
+						"y": 1,
+						"w": 314,
+						"h": 371
+					}
+				},
+				{
+					"filename": "buttons/rh-journal",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 392
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 21,
+						"w": 314,
+						"h": 371
+					},
+					"frame": {
+						"x": 1572,
+						"y": 374,
+						"w": 314,
+						"h": 371
+					}
+				},
+				{
+					"filename": "left_candle_holder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 296,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 241
+					},
+					"frame": {
+						"x": 1572,
+						"y": 747,
+						"w": 296,
+						"h": 241
+					}
+				},
+				{
+					"filename": "right_candle_holder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 296,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 241
+					},
+					"frame": {
+						"x": 1572,
+						"y": 990,
+						"w": 296,
+						"h": 241
+					}
+				},
+				{
+					"filename": "purple_book",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 46
+					},
+					"frame": {
+						"x": 1257,
+						"y": 1023,
+						"w": 240,
+						"h": 46
+					}
+				},
+				{
+					"filename": "buttons/close_btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1499,
+						"y": 1023,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "right_candle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 358
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 358
+					},
+					"frame": {
+						"x": 1257,
+						"y": 1081,
+						"w": 148,
+						"h": 358
+					}
+				},
+				{
+					"filename": "left_candle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 273
+					},
+					"frame": {
+						"x": 1407,
+						"y": 1081,
+						"w": 138,
+						"h": 273
+					}
+				},
+				{
+					"filename": "buttons/close_btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1407,
+						"y": 1356,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close_btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1465,
+						"y": 1356,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:08f8961281802eaac08c267b71b82879:e5931248a796c4bd6bfe02064255f2dd:20491dbc2b4ad3c8cc9eaca09f165d99$"
+	}
+}

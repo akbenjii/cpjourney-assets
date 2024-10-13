@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "hideout-martial.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 271,
+				"h": 120
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalogbtn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 153,
+						"h": 118
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 153,
+						"h": 118
+					}
+				},
+				{
+					"filename": "catalogbtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 153,
+						"h": 118
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 153,
+						"h": 118
+					}
+				},
+				{
+					"filename": "catalogbtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 2,
+						"w": 114,
+						"h": 114
+					},
+					"frame": {
+						"x": 156,
+						"y": 1,
+						"w": 114,
+						"h": 114
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7b7bab9ee105075b3115c6669bcc2cb9:1eb80fbe4ca05d00f739dad52dbbf714:00367e4233c6115967372dc3cfe62a5a$"
+	}
+}

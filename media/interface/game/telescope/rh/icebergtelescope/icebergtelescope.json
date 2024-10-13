@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "icebergtelescope-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 237,
+				"h": 585
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 235,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 235,
+						"h": 127
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 235,
+						"h": 127
+					}
+				},
+				{
+					"filename": "water0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 234,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 234,
+						"h": 126
+					},
+					"frame": {
+						"x": 1,
+						"y": 130,
+						"w": 234,
+						"h": 126
+					}
+				},
+				{
+					"filename": "water0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 132
+					},
+					"frame": {
+						"x": 1,
+						"y": 258,
+						"w": 230,
+						"h": 132
+					}
+				},
+				{
+					"filename": "icebergtelescope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 226,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 192
+					},
+					"frame": {
+						"x": 1,
+						"y": 392,
+						"w": 226,
+						"h": 192
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6a0d28ee93200bb6b413ff6bc1f78c6c:b70393b00e9c1323ad413437cf5bef96:f4be40366988783f765e569022730903$"
+	}
+}

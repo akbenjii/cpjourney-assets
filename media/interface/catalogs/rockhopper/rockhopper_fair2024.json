@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "rockhopper_fair2024.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1696,
+				"h": 923
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1439,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1439,
+						"h": 921
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1439,
+						"h": 921
+					}
+				},
+				{
+					"filename": "receive0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 253,
+						"h": 138
+					},
+					"frame": {
+						"x": 1442,
+						"y": 1,
+						"w": 253,
+						"h": 138
+					}
+				},
+				{
+					"filename": "receive0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 253,
+						"h": 138
+					},
+					"frame": {
+						"x": 1442,
+						"y": 141,
+						"w": 253,
+						"h": 138
+					}
+				},
+				{
+					"filename": "receive0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 253,
+						"h": 138
+					},
+					"frame": {
+						"x": 1442,
+						"y": 281,
+						"w": 253,
+						"h": 138
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b2f6f94e6b0b1f052a6e97f967132f35:9bf0536698c7f4849bfd2623d10e6861:6170d858328984cdf2ac275f60fe3e17$"
+	}
+}

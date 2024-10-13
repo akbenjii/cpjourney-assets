@@ -1,0 +1,252 @@
+{
+	"textures": [
+		{
+			"image": "franky-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 1674
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frankypg2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "frankypg3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "frankypg1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 39,
+						"w": 604,
+						"h": 835
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1,
+						"w": 604,
+						"h": 835
+					}
+				},
+				{
+					"filename": "frankypg7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 502,
+						"y": 39,
+						"w": 604,
+						"h": 835
+					},
+					"frame": {
+						"x": 1222,
+						"y": 838,
+						"w": 604,
+						"h": 835
+					}
+				},
+				{
+					"filename": "backPageLeft-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "backPageLeft-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "backPageLeft",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 56,
+						"w": 88,
+						"h": 193
+					},
+					"frame": {
+						"x": 1828,
+						"y": 228,
+						"w": 88,
+						"h": 193
+					}
+				}
+			]
+		},
+		{
+			"image": "franky-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 1636
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frankypg4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "frankypg5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		},
+		{
+			"image": "franky-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 818
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "frankypg6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6932f2375468d7022e5a348ec34efa7c:4072828b0b55d0e9eaf2f85f092dca09:e992bc16a5a4e7dabf9f9f1fbfec8081$"
+	}
+}

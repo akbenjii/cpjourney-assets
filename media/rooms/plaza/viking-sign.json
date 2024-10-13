@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "viking-sign-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 237,
+				"h": 77
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "haunting_sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 235,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 235,
+						"h": 75
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 235,
+						"h": 75
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b8d40dbbf3a9a56132bb6cf31a92404f:3fe21383d470f2c78768f80555fb6384:3edde94f7eb4a0bdcba3e4a9b78b1438$"
+	}
+}

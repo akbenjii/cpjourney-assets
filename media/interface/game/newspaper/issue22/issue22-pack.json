@@ -1,0 +1,45 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/newspaper/issue22/Allaska.png",
+                "type": "image",
+                "key": "Allaska"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/issue22/issue22.json",
+                "path": "assets/media/interface/game/newspaper/issue22",
+                "key": "issue22"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue22/Melondude.png",
+                "type": "image",
+                "key": "Melondude"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue22/MochiMochi.png",
+                "type": "image",
+                "key": "MochiMochi"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/common/newspaper-common.json",
+                "path": "assets/media/interface/game/newspaper/common",
+                "key": "newspaper-common"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue22/spoder.png",
+                "type": "image",
+                "key": "spoder"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

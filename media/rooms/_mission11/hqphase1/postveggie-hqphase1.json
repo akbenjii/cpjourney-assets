@@ -1,0 +1,189 @@
+{
+	"textures": [
+		{
+			"image": "postveggie-hqphase1-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1596,
+				"h": 1466
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ref",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1594,
+						"h": 1366
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1594,
+						"h": 1366
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1594,
+						"h": 1366
+					}
+				},
+				{
+					"filename": "popcornpile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 376,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 376,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1369,
+						"w": 376,
+						"h": 96
+					}
+				},
+				{
+					"filename": "redscreen",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 92
+					},
+					"frame": {
+						"x": 379,
+						"y": 1369,
+						"w": 236,
+						"h": 92
+					}
+				}
+			]
+		},
+		{
+			"image": "postveggie-hqphase1-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1560,
+				"h": 1788
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1558,
+						"h": 1042
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1558,
+						"h": 1042
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1558,
+						"h": 1042
+					}
+				},
+				{
+					"filename": "screens",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1546,
+						"h": 742
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1546,
+						"h": 742
+					},
+					"frame": {
+						"x": 1,
+						"y": 1045,
+						"w": 1546,
+						"h": 742
+					}
+				}
+			]
+		},
+		{
+			"image": "postveggie-hqphase1-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1548,
+				"h": 1938
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1546,
+						"h": 968
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1546,
+						"h": 968
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1546,
+						"h": 968
+					}
+				},
+				{
+					"filename": "bg_bottom",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1536,
+						"h": 966
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1536,
+						"h": 966
+					},
+					"frame": {
+						"x": 1,
+						"y": 971,
+						"w": 1536,
+						"h": 966
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b0395b51c488bfa9461102f272edae12:5d08760bbcdb24f4460cff560b68c3df:c7542ec1696bf454a6c7979361d5fa68$"
+	}
+}

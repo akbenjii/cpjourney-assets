@@ -1,0 +1,44 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/mtn/631.png",
+                "type": "image",
+                "key": "631"
+            },
+            {
+                "url": "assets/media/rooms/mtn/boxOne.png",
+                "type": "image",
+                "key": "boxOne"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/mtn/mtn.json",
+                "path": "assets/media/rooms/mtn/",
+                "key": "mtn"
+            },
+            {
+                "url": "assets/media/rooms/mtn/mtn-catalog.json",
+                "type": "animation",
+                "key": "mtn-catalog"
+            },
+            {
+                "url": "assets/media/rooms/mtn/mtn-physics.json",
+                "type": "json",
+                "key": "mtn-physics"
+            },
+            {
+                "url": "assets/media/rooms/mtn/skyaprilfools.png",
+                "type": "image",
+                "key": "skyaprilfools"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

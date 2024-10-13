@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "giftfive-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1894,
+				"h": 1333
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "boxL",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 574,
+						"h": 841
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 574,
+						"h": 841
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 574,
+						"h": 841
+					}
+				},
+				{
+					"filename": "boxR",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 574,
+						"h": 841
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 574,
+						"h": 841
+					},
+					"frame": {
+						"x": 577,
+						"y": 1,
+						"w": 574,
+						"h": 841
+					}
+				},
+				{
+					"filename": "note_paper",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 740,
+						"h": 655
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 740,
+						"h": 655
+					},
+					"frame": {
+						"x": 1153,
+						"y": 1,
+						"w": 740,
+						"h": 655
+					}
+				},
+				{
+					"filename": "pizzaslices0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 835,
+						"h": 177
+					},
+					"frame": {
+						"x": 1,
+						"y": 844,
+						"w": 835,
+						"h": 177
+					}
+				},
+				{
+					"filename": "pizzaslices0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 835,
+						"h": 177
+					},
+					"frame": {
+						"x": 1,
+						"y": 1023,
+						"w": 835,
+						"h": 177
+					}
+				},
+				{
+					"filename": "pizzaslices0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 570,
+						"h": 177
+					},
+					"frame": {
+						"x": 1153,
+						"y": 658,
+						"w": 570,
+						"h": 177
+					}
+				},
+				{
+					"filename": "pizzaslices0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 50,
+						"w": 536,
+						"h": 127
+					},
+					"frame": {
+						"x": 1,
+						"y": 1202,
+						"w": 536,
+						"h": 127
+					}
+				},
+				{
+					"filename": "note_text",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 505,
+						"h": 323
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 490,
+						"h": 309
+					},
+					"frame": {
+						"x": 838,
+						"y": 844,
+						"w": 490,
+						"h": 309
+					}
+				},
+				{
+					"filename": "pizzaslices0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 536,
+						"h": 171
+					},
+					"frame": {
+						"x": 1330,
+						"y": 837,
+						"w": 536,
+						"h": 171
+					}
+				},
+				{
+					"filename": "pizzaslices0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 106,
+						"w": 535,
+						"h": 71
+					},
+					"frame": {
+						"x": 1330,
+						"y": 1010,
+						"w": 535,
+						"h": 71
+					}
+				},
+				{
+					"filename": "pizzaslices0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 784,
+						"h": 177
+					},
+					"frame": {
+						"x": 838,
+						"y": 1155,
+						"w": 784,
+						"h": 177
+					}
+				},
+				{
+					"filename": "pizzaslices0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 835,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 309,
+						"y": 109,
+						"w": 227,
+						"h": 68
+					},
+					"frame": {
+						"x": 539,
+						"y": 1202,
+						"w": 227,
+						"h": 68
+					}
+				},
+				{
+					"filename": "closebutton-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1725,
+						"y": 658,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebutton-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1330,
+						"y": 1083,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebutton",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 539,
+						"y": 1272,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:09bfa48513d2ca87bd4012df2266f110:e8560b865c5ca350c12e756373882a6b:6772f2ee46da9961ab4ecf34ea0557f2$"
+	}
+}

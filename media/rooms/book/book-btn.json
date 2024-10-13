@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "book-btn-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 99,
+				"h": 263
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bookbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 97,
+						"h": 135
+					}
+				},
+				{
+					"filename": "bookbtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 97,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 95,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 138,
+						"w": 95,
+						"h": 124
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8c0b5da5077859feaf21b7fd093e4ee5:8f79ccc047a377b6d046e9e1109fdadf:a1be388d0da204dfef7b8ea9515746d2$"
+	}
+}

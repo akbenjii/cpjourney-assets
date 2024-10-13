@@ -1,0 +1,2120 @@
+{
+	"textures": [
+		{
+			"image": "fair_plaza.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1977,
+				"h": 1697
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fair_plaza_bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1670,
+						"h": 989
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1670,
+						"h": 989
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1670,
+						"h": 989
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzaroof",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 338,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 338,
+						"h": 269
+					},
+					"frame": {
+						"x": 1,
+						"y": 992,
+						"w": 338,
+						"h": 269
+					}
+				},
+				{
+					"filename": "fair_plaza_stagesign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 430,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 430,
+						"h": 170
+					},
+					"frame": {
+						"x": 341,
+						"y": 992,
+						"w": 430,
+						"h": 170
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1263,
+						"w": 337,
+						"h": 206
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1263,
+						"w": 337,
+						"h": 206
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1263,
+						"w": 337,
+						"h": 206
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1263,
+						"w": 337,
+						"h": 206
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 337,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1263,
+						"w": 337,
+						"h": 206
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 333,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1471,
+						"w": 333,
+						"h": 201
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 333,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1471,
+						"w": 333,
+						"h": 201
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 333,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1471,
+						"w": 333,
+						"h": 201
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 333,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1471,
+						"w": 333,
+						"h": 201
+					}
+				},
+				{
+					"filename": "fair_plaza_pizzalights0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 337,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 333,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1471,
+						"w": 333,
+						"h": 201
+					}
+				},
+				{
+					"filename": "lamp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 325
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 202,
+						"h": 325
+					}
+				},
+				{
+					"filename": "stage_lights_back0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 773,
+						"y": 992,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 773,
+						"y": 992,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1200,
+						"y": 992,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1200,
+						"y": 992,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 341,
+						"y": 1164,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 341,
+						"y": 1164,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 340,
+						"y": 1264,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 340,
+						"y": 1264,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 340,
+						"y": 1364,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 340,
+						"y": 1364,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 773,
+						"y": 1092,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 773,
+						"y": 1092,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1200,
+						"y": 1092,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 1200,
+						"y": 1092,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 768,
+						"y": 1192,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "stage_lights_back0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 98
+					},
+					"frame": {
+						"x": 768,
+						"y": 1192,
+						"w": 425,
+						"h": 98
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 341,
+						"h": 174
+					},
+					"frame": {
+						"x": 767,
+						"y": 1292,
+						"w": 341,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 341,
+						"h": 174
+					},
+					"frame": {
+						"x": 767,
+						"y": 1292,
+						"w": 341,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 341,
+						"h": 174
+					},
+					"frame": {
+						"x": 767,
+						"y": 1292,
+						"w": 341,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 341,
+						"h": 174
+					},
+					"frame": {
+						"x": 767,
+						"y": 1292,
+						"w": 341,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 341,
+						"h": 174
+					},
+					"frame": {
+						"x": 767,
+						"y": 1292,
+						"w": 341,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 341,
+						"h": 178
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1192,
+						"w": 341,
+						"h": 178
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 341,
+						"h": 178
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1192,
+						"w": 341,
+						"h": 178
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 341,
+						"h": 178
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1192,
+						"w": 341,
+						"h": 178
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 341,
+						"h": 178
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1192,
+						"w": 341,
+						"h": 178
+					}
+				},
+				{
+					"filename": "fair_plaza_stagelights0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 343,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 341,
+						"h": 178
+					},
+					"frame": {
+						"x": 1195,
+						"y": 1192,
+						"w": 341,
+						"h": 178
+					}
+				},
+				{
+					"filename": "fair_plaza_foodstand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 233,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 190
+					},
+					"frame": {
+						"x": 1673,
+						"y": 328,
+						"w": 233,
+						"h": 190
+					}
+				},
+				{
+					"filename": "fair_plaza_circusposter-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 226
+					},
+					"frame": {
+						"x": 1673,
+						"y": 520,
+						"w": 154,
+						"h": 226
+					}
+				},
+				{
+					"filename": "stage_lights_front0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 340,
+						"y": 1464,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 340,
+						"y": 1464,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1498,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1498,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1532,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1532,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1566,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1566,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1600,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1600,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1634,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 336,
+						"y": 1634,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fair_plaza_circusposter",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 141,
+						"h": 208
+					},
+					"frame": {
+						"x": 1673,
+						"y": 748,
+						"w": 141,
+						"h": 208
+					}
+				},
+				{
+					"filename": "stage_lights_front0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 704,
+						"y": 1468,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 704,
+						"y": 1468,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 700,
+						"y": 1502,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "stage_lights_front0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 362,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 362,
+						"h": 32
+					},
+					"frame": {
+						"x": 700,
+						"y": 1502,
+						"w": 362,
+						"h": 32
+					}
+				},
+				{
+					"filename": "fair_plaza_fenceR",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 209,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 209,
+						"h": 110
+					},
+					"frame": {
+						"x": 700,
+						"y": 1536,
+						"w": 209,
+						"h": 110
+					}
+				},
+				{
+					"filename": "fair_plaza_tickets0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 186
+					},
+					"frame": {
+						"x": 1538,
+						"y": 1192,
+						"w": 129,
+						"h": 186
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 5,
+						"w": 89,
+						"h": 169
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1,
+						"w": 89,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 5,
+						"w": 89,
+						"h": 169
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1,
+						"w": 89,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_fenceL",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 106
+					},
+					"frame": {
+						"x": 911,
+						"y": 1536,
+						"w": 165,
+						"h": 106
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 3,
+						"w": 127,
+						"h": 171
+					},
+					"frame": {
+						"x": 1829,
+						"y": 520,
+						"w": 127,
+						"h": 171
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 3,
+						"w": 127,
+						"h": 171
+					},
+					"frame": {
+						"x": 1829,
+						"y": 520,
+						"w": 127,
+						"h": 171
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 5,
+						"w": 74,
+						"h": 169
+					},
+					"frame": {
+						"x": 1110,
+						"y": 1292,
+						"w": 74,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 5,
+						"w": 74,
+						"h": 169
+					},
+					"frame": {
+						"x": 1110,
+						"y": 1292,
+						"w": 74,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 174
+					},
+					"frame": {
+						"x": 1186,
+						"y": 1372,
+						"w": 190,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 174
+					},
+					"frame": {
+						"x": 1186,
+						"y": 1372,
+						"w": 190,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 2,
+						"w": 152,
+						"h": 172
+					},
+					"frame": {
+						"x": 1378,
+						"y": 1372,
+						"w": 152,
+						"h": 172
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 2,
+						"w": 152,
+						"h": 172
+					},
+					"frame": {
+						"x": 1378,
+						"y": 1372,
+						"w": 152,
+						"h": 172
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 175,
+						"h": 174
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1380,
+						"w": 175,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 175,
+						"h": 174
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1380,
+						"w": 175,
+						"h": 174
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 5,
+						"w": 68,
+						"h": 169
+					},
+					"frame": {
+						"x": 1908,
+						"y": 172,
+						"w": 68,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 5,
+						"w": 68,
+						"h": 169
+					},
+					"frame": {
+						"x": 1908,
+						"y": 172,
+						"w": 68,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 5,
+						"w": 67,
+						"h": 169
+					},
+					"frame": {
+						"x": 1908,
+						"y": 343,
+						"w": 67,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 5,
+						"w": 67,
+						"h": 169
+					},
+					"frame": {
+						"x": 1908,
+						"y": 343,
+						"w": 67,
+						"h": 169
+					}
+				},
+				{
+					"filename": "stage_door_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 150
+					},
+					"frame": {
+						"x": 1378,
+						"y": 1546,
+						"w": 109,
+						"h": 150
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 170,
+						"h": 173
+					},
+					"frame": {
+						"x": 1627,
+						"y": 992,
+						"w": 170,
+						"h": 173
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 170,
+						"h": 173
+					},
+					"frame": {
+						"x": 1627,
+						"y": 992,
+						"w": 170,
+						"h": 173
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 2,
+						"w": 148,
+						"h": 172
+					},
+					"frame": {
+						"x": 1669,
+						"y": 1167,
+						"w": 148,
+						"h": 172
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 2,
+						"w": 148,
+						"h": 172
+					},
+					"frame": {
+						"x": 1669,
+						"y": 1167,
+						"w": 148,
+						"h": 172
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 126,
+						"h": 170
+					},
+					"frame": {
+						"x": 1709,
+						"y": 1341,
+						"w": 126,
+						"h": 170
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 4,
+						"w": 126,
+						"h": 170
+					},
+					"frame": {
+						"x": 1709,
+						"y": 1341,
+						"w": 126,
+						"h": 170
+					}
+				},
+				{
+					"filename": "cave_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 133,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 115
+					},
+					"frame": {
+						"x": 1489,
+						"y": 1556,
+						"w": 118,
+						"h": 115
+					}
+				},
+				{
+					"filename": "pet_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 92,
+						"w": 94,
+						"h": 98
+					},
+					"frame": {
+						"x": 1609,
+						"y": 1556,
+						"w": 94,
+						"h": 98
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 5,
+						"w": 100,
+						"h": 169
+					},
+					"frame": {
+						"x": 1816,
+						"y": 748,
+						"w": 100,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 5,
+						"w": 100,
+						"h": 169
+					},
+					"frame": {
+						"x": 1816,
+						"y": 748,
+						"w": 100,
+						"h": 169
+					}
+				},
+				{
+					"filename": "cave_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 133,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 73,
+						"w": 109,
+						"h": 42
+					},
+					"frame": {
+						"x": 1829,
+						"y": 693,
+						"w": 109,
+						"h": 42
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 5,
+						"w": 64,
+						"h": 169
+					},
+					"frame": {
+						"x": 1799,
+						"y": 958,
+						"w": 64,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 5,
+						"w": 64,
+						"h": 169
+					},
+					"frame": {
+						"x": 1799,
+						"y": 958,
+						"w": 64,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 5,
+						"w": 73,
+						"h": 169
+					},
+					"frame": {
+						"x": 1865,
+						"y": 919,
+						"w": 73,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 5,
+						"w": 73,
+						"h": 169
+					},
+					"frame": {
+						"x": 1865,
+						"y": 919,
+						"w": 73,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 5,
+						"w": 109,
+						"h": 169
+					},
+					"frame": {
+						"x": 1819,
+						"y": 1129,
+						"w": 109,
+						"h": 169
+					}
+				},
+				{
+					"filename": "fair_plaza_petsign0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 5,
+						"w": 109,
+						"h": 169
+					},
+					"frame": {
+						"x": 1819,
+						"y": 1129,
+						"w": 109,
+						"h": 169
+					}
+				},
+				{
+					"filename": "stage_door_1-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 162
+					},
+					"frame": {
+						"x": 1837,
+						"y": 1300,
+						"w": 109,
+						"h": 162
+					}
+				},
+				{
+					"filename": "stage_door_2-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 162
+					},
+					"frame": {
+						"x": 1837,
+						"y": 1464,
+						"w": 109,
+						"h": 162
+					}
+				},
+				{
+					"filename": "stage_door_2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 150
+					},
+					"frame": {
+						"x": 1709,
+						"y": 1513,
+						"w": 109,
+						"h": 150
+					}
+				},
+				{
+					"filename": "pet_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 186,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 92,
+						"w": 93,
+						"h": 96
+					},
+					"frame": {
+						"x": 1078,
+						"y": 1548,
+						"w": 93,
+						"h": 96
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5175d872a0ea7458447e1b360beb566d:5ab744aac40c234a7645dc5ae0a62b08:e6a6ad87d00e1cdfb47d1ea66ccc1275$"
+	}
+}

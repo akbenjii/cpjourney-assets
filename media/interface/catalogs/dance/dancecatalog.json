@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "dancecatalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 711,
+				"h": 903
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dj3kcatalog",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 709,
+						"h": 843
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 709,
+						"h": 843
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 709,
+						"h": 843
+					}
+				},
+				{
+					"filename": "closebtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 846,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 846,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 846,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7c31edc6a95b750417e384a6dbbc9e4c:c1b5e2cdc3900cbdb36cb09aee29ad4a:9734c1e67be6a06706042bd01015ddf1$"
+	}
+}

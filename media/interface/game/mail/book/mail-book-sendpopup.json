@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "mail-book-sendpopup.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2006,
+				"h": 888
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1033,
+						"h": 886
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1033,
+						"h": 886
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1033,
+						"h": 886
+					}
+				},
+				{
+					"filename": "impostorcard",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 969,
+						"h": 704
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 969,
+						"h": 704
+					},
+					"frame": {
+						"x": 1036,
+						"y": 1,
+						"w": 969,
+						"h": 704
+					}
+				},
+				{
+					"filename": "yesno",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 564,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 12,
+						"w": 394,
+						"h": 32
+					},
+					"frame": {
+						"x": 1036,
+						"y": 707,
+						"w": 394,
+						"h": 32
+					}
+				},
+				{
+					"filename": "sendbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 261,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 261,
+						"h": 73
+					},
+					"frame": {
+						"x": 1432,
+						"y": 707,
+						"w": 261,
+						"h": 73
+					}
+				},
+				{
+					"filename": "sendbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 261,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 261,
+						"h": 73
+					},
+					"frame": {
+						"x": 1036,
+						"y": 741,
+						"w": 261,
+						"h": 73
+					}
+				},
+				{
+					"filename": "sendbtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 261,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 261,
+						"h": 73
+					},
+					"frame": {
+						"x": 1695,
+						"y": 707,
+						"w": 261,
+						"h": 73
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:402cdd0eee63f9e3552aa893ebf19d43:3171de9fc892b254d3243e8041485c3b:d733ac87224307a56fbf781d9783d888$"
+	}
+}

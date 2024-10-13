@@ -1,0 +1,49 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/party8/fair-party8.json",
+                "path": "assets/media/rooms/_fair/party8",
+                "key": "fair-party8"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party8/fair-party8-physics.json",
+                "type": "json",
+                "key": "fair-party8-physics"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party8/sounds/item.mp3"
+                ],
+                "type": "audio",
+                "key": "item"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/party8/pixelpenguins.json",
+                "path": "assets/media/rooms/_fair/party8",
+                "key": "pixelpenguins"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party8/pixelpenguins-anims.json",
+                "type": "animation",
+                "key": "pixelpenguins-anims"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/party8/sounds/snowball.mp3"
+                ],
+                "type": "audio",
+                "key": "snowball"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

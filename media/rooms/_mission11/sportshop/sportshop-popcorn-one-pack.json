@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/_mission11/sportshop/sportshop-physics.json",
+                "type": "json",
+                "key": "sportshop-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_mission11/sportshop/sportshop-popcorn-one.json",
+                "path": "assets/media/rooms/_mission11/sportshop",
+                "key": "sportshop-popcorn-one"
+            },
+            {
+                "url": "assets/media/rooms/_mission11/sportshop/sportshop-popcorn-one-anims.json",
+                "type": "animation",
+                "key": "sportshop-popcorn-one-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

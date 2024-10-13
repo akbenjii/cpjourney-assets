@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/mtn/fair-mtn.json",
+                "path": "assets/media/rooms/_fair/mtn",
+                "key": "fair-mtn"
+            },
+            {
+                "url": "assets/media/rooms/_fair/mtn/fair-mtn-physics.json",
+                "type": "json",
+                "key": "fair-mtn-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,55 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":7, "y":709 }, { "x":263, "y":563 }, { "x":22, "y":5 } ],
+					[ { "x":263, "y":563 }, { "x":1288, "y":569 }, { "x":1507, "y":10 }, { "x":22, "y":5 } ],
+					[ { "x":1512, "y":694 }, { "x":1507, "y":10 }, { "x":1288, "y":569 } ],
+					[ { "x":994, "y":603 }, { "x":1053, "y":617 }, { "x":1107, "y":616 }, { "x":1288, "y":569 }, { "x":954, "y":568 } ],
+					[ { "x":1209, "y":608 }, { "x":1246, "y":580 }, { "x":1107, "y":616 }, { "x":1175, "y":618 } ]
+				]
+			}
+		]
+	},
+	"courtyard": {
+		"type": "fromPhysicsEditor",
+		"label": "courtyard",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":490, "y":460 }, { "x":334, "y":466 }, { "x":324, "y":595 }, { "x":492, "y":600 } ]
+				]
+			}
+		]
+	}
+}

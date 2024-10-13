@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/stage/stage-basic/basic-anims.json",
+                "type": "animation",
+                "key": "basic-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/stage-basic/stage-basic.json",
+                "path": "assets/media/rooms/stage/stage-basic",
+                "key": "stage-basic"
+            },
+            {
+                "url": "assets/media/rooms/stage/stage-basic/stage-physics.json",
+                "type": "json",
+                "key": "stage-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

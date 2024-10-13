@@ -1,0 +1,305 @@
+{
+	"textures": [
+		{
+			"image": "spice-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 1674
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spicepg2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "spicepg3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "spicepg1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 39,
+						"w": 604,
+						"h": 835
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1,
+						"w": 604,
+						"h": 835
+					}
+				},
+				{
+					"filename": "spicepg9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 502,
+						"y": 39,
+						"w": 604,
+						"h": 835
+					},
+					"frame": {
+						"x": 1222,
+						"y": 838,
+						"w": 604,
+						"h": 835
+					}
+				},
+				{
+					"filename": "backPageLeft-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "backPageLeft-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 24,
+						"w": 95,
+						"h": 225
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1,
+						"w": 95,
+						"h": 225
+					}
+				},
+				{
+					"filename": "backPageLeft",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 56,
+						"w": 88,
+						"h": 193
+					},
+					"frame": {
+						"x": 1828,
+						"y": 228,
+						"w": 88,
+						"h": 193
+					}
+				}
+			]
+		},
+		{
+			"image": "spice-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 1636
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spicepg4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "spicepg5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		},
+		{
+			"image": "spice-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 1636
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spicepg6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "spicepg7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		},
+		{
+			"image": "spice-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 818
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spicepg8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:58ed1e723c489d57d01ca124e14724b1:7fc0ec69bc01522ce725f8ca911c9cb4:3f1804857e312bb93d7c3ed7a053b1fd$"
+	}
+}

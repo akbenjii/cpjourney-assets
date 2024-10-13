@@ -1,0 +1,136 @@
+{
+	"textures": [
+		{
+			"image": "novemberfurniture-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1783,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "cover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 33,
+						"w": 600,
+						"h": 814
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 600,
+						"h": 814
+					}
+				},
+				{
+					"filename": "page2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				}
+			]
+		},
+		{
+			"image": "novemberfurniture-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1181,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "page4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e5b562d604d3d1c4c9fb184e66659e09:ed2e6b59dc83dd3cd5bb3af219e8e74c:4dcaa9708bf73dc3f6bff7c611b25aab$"
+	}
+}

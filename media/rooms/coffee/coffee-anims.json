@@ -1,0 +1,284 @@
+{
+    "anims": [
+        {
+            "key": "board1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "board0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "board2",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "board0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "board0001",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "randomFrame": false
+        },
+        {
+            "key": "shop_coffee_01",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0005",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "delay": 1500,
+            "showBeforeDelay": true,
+            "randomFrame": false,
+            "hideOnComplete": true
+        },
+        {
+            "key": "shop_coffee_02",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "delay": 1500,
+            "showBeforeDelay": true,
+            "randomFrame": false,
+            "hideOnComplete": true
+        },
+        {
+            "key": "shop_coffee_03",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0015",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "delay": 1500,
+            "showBeforeDelay": true,
+            "randomFrame": false,
+            "hideOnComplete": true
+        },
+        {
+            "key": "shop_coffee_04",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_jobs",
+                    "frame": "job_coffee_0020",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "delay": 1500,
+            "showBeforeDelay": true,
+            "randomFrame": false,
+            "hideOnComplete": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

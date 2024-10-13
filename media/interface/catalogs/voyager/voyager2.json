@@ -1,0 +1,535 @@
+{
+	"textures": [
+		{
+			"image": "voyager2-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2042,
+				"h": 1247
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "banner",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 1520,
+						"h": 304
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 304
+					}
+				},
+				{
+					"filename": "buy_button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 110
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 330,
+						"h": 110
+					}
+				},
+				{
+					"filename": "buy_button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 110
+					},
+					"frame": {
+						"x": 1,
+						"y": 307,
+						"w": 330,
+						"h": 110
+					}
+				},
+				{
+					"filename": "buy_button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 110
+					},
+					"frame": {
+						"x": 333,
+						"y": 307,
+						"w": 330,
+						"h": 110
+					}
+				},
+				{
+					"filename": "buy_gem_icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 118
+					},
+					"frame": {
+						"x": 665,
+						"y": 307,
+						"w": 150,
+						"h": 118
+					}
+				},
+				{
+					"filename": "divider",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 560,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 560,
+						"h": 1
+					},
+					"frame": {
+						"x": 817,
+						"y": 307,
+						"w": 560,
+						"h": 1
+					}
+				},
+				{
+					"filename": "exchange_button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 110
+					},
+					"frame": {
+						"x": 1379,
+						"y": 307,
+						"w": 330,
+						"h": 110
+					}
+				},
+				{
+					"filename": "exchange_button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 110
+					},
+					"frame": {
+						"x": 1711,
+						"y": 307,
+						"w": 330,
+						"h": 110
+					}
+				},
+				{
+					"filename": "exchange_button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 110
+					},
+					"frame": {
+						"x": 1,
+						"y": 427,
+						"w": 330,
+						"h": 110
+					}
+				},
+				{
+					"filename": "gem_bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 320,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 306,
+						"h": 86
+					},
+					"frame": {
+						"x": 333,
+						"y": 427,
+						"w": 306,
+						"h": 86
+					}
+				},
+				{
+					"filename": "gem_pack_bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 180
+					},
+					"frame": {
+						"x": 641,
+						"y": 427,
+						"w": 170,
+						"h": 180
+					}
+				},
+				{
+					"filename": "gem_purchase_ui",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 650,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 650,
+						"h": 600
+					},
+					"frame": {
+						"x": 813,
+						"y": 427,
+						"w": 650,
+						"h": 600
+					}
+				},
+				{
+					"filename": "gem_white_bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 112
+					},
+					"frame": {
+						"x": 1465,
+						"y": 427,
+						"w": 420,
+						"h": 112
+					}
+				},
+				{
+					"filename": "item_banner",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 390,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 390,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 1029,
+						"w": 390,
+						"h": 70
+					}
+				},
+				{
+					"filename": "lang_common_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 480,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 480,
+						"h": 96
+					},
+					"frame": {
+						"x": 393,
+						"y": 1029,
+						"w": 480,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lang_legendary_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 480,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 480,
+						"h": 96
+					},
+					"frame": {
+						"x": 875,
+						"y": 1029,
+						"w": 480,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lang_rare_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 480,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 480,
+						"h": 96
+					},
+					"frame": {
+						"x": 1357,
+						"y": 1029,
+						"w": 480,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lang_uncommon_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 480,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 480,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1127,
+						"w": 480,
+						"h": 96
+					}
+				},
+				{
+					"filename": "new_coin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 110
+					},
+					"frame": {
+						"x": 483,
+						"y": 1127,
+						"w": 108,
+						"h": 110
+					}
+				},
+				{
+					"filename": "reroll_button-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 369,
+						"h": 119
+					},
+					"frame": {
+						"x": 593,
+						"y": 1127,
+						"w": 369,
+						"h": 119
+					}
+				},
+				{
+					"filename": "reroll_button-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 369,
+						"h": 119
+					},
+					"frame": {
+						"x": 964,
+						"y": 1127,
+						"w": 369,
+						"h": 119
+					}
+				},
+				{
+					"filename": "reroll_button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 369,
+						"h": 119
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1127,
+						"w": 369,
+						"h": 119
+					}
+				}
+			]
+		},
+		{
+			"image": "voyager2-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "carousel_vignette",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "item_show_vignette",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8c6c735e2240b91aac83b5f1075662d8:543e37148121f60668b5cc0122d56b3b:0909fe0ce05d84c8d578ac8b2f868271$"
+	}
+}

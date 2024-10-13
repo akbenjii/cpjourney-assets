@@ -1,0 +1,43 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/bookroom/dare/dare.json",
+                "path": "assets/media/interface/books/bookroom/dare",
+                "key": "dare"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/bookroom/franky/franky.json",
+                "path": "assets/media/interface/books/bookroom/franky",
+                "key": "franky"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/bookroom/pagebuttons.json",
+                "path": "assets/media/interface/books/bookroom",
+                "key": "pagebuttons"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/bookroom/spice/spice.json",
+                "path": "assets/media/interface/books/bookroom/spice",
+                "key": "spice"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/bookroom/stowaway/stowawaybook.json",
+                "path": "assets/media/interface/books/bookroom/stowaway",
+                "key": "stowawaybook"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

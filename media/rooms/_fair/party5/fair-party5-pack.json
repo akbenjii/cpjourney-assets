@@ -1,0 +1,34 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/party5/fair-party5.json",
+                "path": "assets/media/rooms/_fair/party5",
+                "key": "fair-party5"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party5/fair-party5-legs.png",
+                "type": "image",
+                "key": "fair-party5-legs"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party5/fair-party5-wheel.png",
+                "type": "image",
+                "key": "fair-party5-wheel"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party5/party5-physics.json",
+                "type": "json",
+                "key": "party5-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

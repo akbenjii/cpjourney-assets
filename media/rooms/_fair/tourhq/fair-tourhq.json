@@ -1,0 +1,5764 @@
+{
+	"textures": [
+		{
+			"image": "fair-tourhq-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 2043
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1865,
+						"h": 1136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1865,
+						"h": 1136
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1865,
+						"h": 1136
+					}
+				},
+				{
+					"filename": "wall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1669,
+						"h": 743
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1669,
+						"h": 743
+					},
+					"frame": {
+						"x": 1,
+						"y": 1139,
+						"w": 1669,
+						"h": 743
+					}
+				},
+				{
+					"filename": "coolLadder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 276,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 276,
+						"h": 695
+					},
+					"frame": {
+						"x": 1672,
+						"y": 1139,
+						"w": 276,
+						"h": 695
+					}
+				},
+				{
+					"filename": "coolLadder0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 276,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 276,
+						"h": 695
+					},
+					"frame": {
+						"x": 1672,
+						"y": 1139,
+						"w": 276,
+						"h": 695
+					}
+				},
+				{
+					"filename": "coolLadder0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 276,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 276,
+						"h": 695
+					},
+					"frame": {
+						"x": 1672,
+						"y": 1139,
+						"w": 276,
+						"h": 695
+					}
+				},
+				{
+					"filename": "smallerTable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 308,
+						"h": 167
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 308,
+						"h": 167
+					},
+					"frame": {
+						"x": 1672,
+						"y": 1836,
+						"w": 308,
+						"h": 167
+					}
+				},
+				{
+					"filename": "coatHanger",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 291
+					},
+					"frame": {
+						"x": 1868,
+						"y": 1,
+						"w": 168,
+						"h": 291
+					}
+				},
+				{
+					"filename": "cactus",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 254
+					},
+					"frame": {
+						"x": 1868,
+						"y": 294,
+						"w": 135,
+						"h": 254
+					}
+				},
+				{
+					"filename": "clownPainting",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 228
+					},
+					"frame": {
+						"x": 1868,
+						"y": 550,
+						"w": 124,
+						"h": 228
+					}
+				},
+				{
+					"filename": "jesterChair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 202
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 202
+					},
+					"frame": {
+						"x": 1868,
+						"y": 780,
+						"w": 142,
+						"h": 202
+					}
+				},
+				{
+					"filename": "bottomTable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 138
+					},
+					"frame": {
+						"x": 1868,
+						"y": 984,
+						"w": 155,
+						"h": 138
+					}
+				},
+				{
+					"filename": "bigTableChair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 134
+					},
+					"frame": {
+						"x": 1950,
+						"y": 1124,
+						"w": 71,
+						"h": 134
+					}
+				},
+				{
+					"filename": "bowlingPins",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 115
+					},
+					"frame": {
+						"x": 1950,
+						"y": 1260,
+						"w": 54,
+						"h": 115
+					}
+				},
+				{
+					"filename": "brokenChair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 113
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 113
+					},
+					"frame": {
+						"x": 1950,
+						"y": 1377,
+						"w": 96,
+						"h": 113
+					}
+				},
+				{
+					"filename": "phoneee0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 105
+					},
+					"frame": {
+						"x": 1950,
+						"y": 1492,
+						"w": 74,
+						"h": 105
+					}
+				},
+				{
+					"filename": "phoneee0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 78,
+						"h": 104
+					},
+					"frame": {
+						"x": 1950,
+						"y": 1599,
+						"w": 78,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1950,
+						"y": 1705,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "frontStars",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 77
+					},
+					"frame": {
+						"x": 1982,
+						"y": 1811,
+						"w": 54,
+						"h": 77
+					}
+				},
+				{
+					"filename": "rightShadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 138
+					},
+					"frame": {
+						"x": 1,
+						"y": 1884,
+						"w": 318,
+						"h": 138
+					}
+				},
+				{
+					"filename": "designedSign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 127
+					},
+					"frame": {
+						"x": 321,
+						"y": 1884,
+						"w": 228,
+						"h": 127
+					}
+				},
+				{
+					"filename": "puffleCannon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 133
+					},
+					"frame": {
+						"x": 551,
+						"y": 1884,
+						"w": 144,
+						"h": 133
+					}
+				},
+				{
+					"filename": "papersMoving0175",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0180",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 136,
+						"h": 70
+					},
+					"frame": {
+						"x": 697,
+						"y": 1884,
+						"w": 136,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 835,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "greenPuffleBed",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 86
+					},
+					"frame": {
+						"x": 697,
+						"y": 1956,
+						"w": 128,
+						"h": 86
+					}
+				},
+				{
+					"filename": "papersMoving0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 972,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1109,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1246,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1884,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "bottomLeftHay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 100
+					},
+					"frame": {
+						"x": 1520,
+						"y": 1884,
+						"w": 119,
+						"h": 100
+					}
+				},
+				{
+					"filename": "topRightHay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 100
+					},
+					"frame": {
+						"x": 1520,
+						"y": 1884,
+						"w": 119,
+						"h": 100
+					}
+				},
+				{
+					"filename": "papersMoving0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 827,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 827,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 827,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 827,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 964,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1101,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1101,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1238,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1238,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1238,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1238,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1238,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1375,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1375,
+						"y": 1963,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "newspaper",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 46
+					},
+					"frame": {
+						"x": 1512,
+						"y": 1986,
+						"w": 80,
+						"h": 46
+					}
+				}
+			]
+		},
+		{
+			"image": "fair-tourhq-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1941,
+				"h": 1928
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "weirdAccessories",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1673,
+						"h": 485
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1673,
+						"h": 485
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1673,
+						"h": 485
+					}
+				},
+				{
+					"filename": "pufflePenguinForeground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1624,
+						"h": 327
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1624,
+						"h": 327
+					},
+					"frame": {
+						"x": 1,
+						"y": 488,
+						"w": 1624,
+						"h": 327
+					}
+				},
+				{
+					"filename": "fourPaintings",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 343
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 343
+					},
+					"frame": {
+						"x": 1627,
+						"y": 488,
+						"w": 275,
+						"h": 343
+					}
+				},
+				{
+					"filename": "cart",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 264
+					},
+					"frame": {
+						"x": 1676,
+						"y": 1,
+						"w": 195,
+						"h": 264
+					}
+				},
+				{
+					"filename": "newTableee",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 183,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 183,
+						"h": 214
+					},
+					"frame": {
+						"x": 1676,
+						"y": 267,
+						"w": 183,
+						"h": 214
+					}
+				},
+				{
+					"filename": "phoneee0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 267,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 267,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 267,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 267,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 267,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 267,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1861,
+						"y": 373,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 67,
+						"h": 100
+					},
+					"frame": {
+						"x": 1873,
+						"y": 1,
+						"w": 67,
+						"h": 100
+					}
+				},
+				{
+					"filename": "weirdKindOfDoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 566,
+						"h": 458
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 565,
+						"h": 451
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 565,
+						"h": 451
+					}
+				},
+				{
+					"filename": "weirdKindOfDoor-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 566,
+						"h": 458
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 563,
+						"h": 458
+					},
+					"frame": {
+						"x": 568,
+						"y": 817,
+						"w": 563,
+						"h": 458
+					}
+				},
+				{
+					"filename": "weirdKindOfDoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 566,
+						"h": 458
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 563,
+						"h": 458
+					},
+					"frame": {
+						"x": 568,
+						"y": 817,
+						"w": 563,
+						"h": 458
+					}
+				},
+				{
+					"filename": "randomStuff",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 470,
+						"h": 424
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 470,
+						"h": 424
+					},
+					"frame": {
+						"x": 1,
+						"y": 1270,
+						"w": 470,
+						"h": 424
+					}
+				},
+				{
+					"filename": "phoneee0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 473,
+						"y": 1270,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "rightTable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 343,
+						"h": 366
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 343,
+						"h": 366
+					},
+					"frame": {
+						"x": 1133,
+						"y": 833,
+						"w": 343,
+						"h": 366
+					}
+				},
+				{
+					"filename": "frontDeskSide",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 378,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 378,
+						"h": 325
+					},
+					"frame": {
+						"x": 1133,
+						"y": 1201,
+						"w": 378,
+						"h": 325
+					}
+				},
+				{
+					"filename": "frontDeskFront",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 243
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 243
+					},
+					"frame": {
+						"x": 1478,
+						"y": 833,
+						"w": 366,
+						"h": 243
+					}
+				},
+				{
+					"filename": "rug",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 559,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 559,
+						"h": 299
+					},
+					"frame": {
+						"x": 473,
+						"y": 1376,
+						"w": 559,
+						"h": 299
+					}
+				},
+				{
+					"filename": "papersMoving0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1478,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 549,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 549,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 686,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 686,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 686,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 686,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 823,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 960,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 960,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 960,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 960,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 960,
+						"y": 1277,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "phoneee0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 74,
+						"h": 104
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1356,
+						"w": 74,
+						"h": 104
+					}
+				},
+				{
+					"filename": "phoneee0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 74,
+						"h": 103
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1462,
+						"w": 74,
+						"h": 103
+					}
+				},
+				{
+					"filename": "phoneee0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 74,
+						"h": 103
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1462,
+						"w": 74,
+						"h": 103
+					}
+				},
+				{
+					"filename": "phoneee0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 74,
+						"h": 103
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1462,
+						"w": 74,
+						"h": 103
+					}
+				},
+				{
+					"filename": "phoneee0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 74,
+						"h": 103
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1462,
+						"w": 74,
+						"h": 103
+					}
+				},
+				{
+					"filename": "weirdStuffOnTable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 271,
+						"h": 259
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 271,
+						"h": 259
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1157,
+						"w": 271,
+						"h": 259
+					}
+				},
+				{
+					"filename": "papersMoving0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1615,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1078,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "phoneee0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 74,
+						"h": 103
+					},
+					"frame": {
+						"x": 1846,
+						"y": 833,
+						"w": 74,
+						"h": 103
+					}
+				},
+				{
+					"filename": "phoneee0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 70,
+						"h": 103
+					},
+					"frame": {
+						"x": 1846,
+						"y": 938,
+						"w": 70,
+						"h": 103
+					}
+				},
+				{
+					"filename": "map",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 197,
+						"h": 253
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 197,
+						"h": 253
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1418,
+						"w": 197,
+						"h": 253
+					}
+				},
+				{
+					"filename": "couch",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 245
+					},
+					"frame": {
+						"x": 1110,
+						"y": 1528,
+						"w": 237,
+						"h": 245
+					}
+				},
+				{
+					"filename": "phoneee0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 74,
+						"h": 102
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1567,
+						"w": 74,
+						"h": 102
+					}
+				},
+				{
+					"filename": "phoneee0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 74,
+						"h": 102
+					},
+					"frame": {
+						"x": 1034,
+						"y": 1671,
+						"w": 74,
+						"h": 102
+					}
+				},
+				{
+					"filename": "bottomRightHay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 100
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1528,
+						"w": 119,
+						"h": 100
+					}
+				},
+				{
+					"filename": "topLeftHay",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 100
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1630,
+						"w": 119,
+						"h": 100
+					}
+				},
+				{
+					"filename": "unicornPlush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 178
+					},
+					"frame": {
+						"x": 1470,
+						"y": 1673,
+						"w": 163,
+						"h": 178
+					}
+				},
+				{
+					"filename": "phoneee0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 74,
+						"h": 99
+					},
+					"frame": {
+						"x": 1349,
+						"y": 1732,
+						"w": 74,
+						"h": 99
+					}
+				},
+				{
+					"filename": "papersMoving0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1673,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1673,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "toyStoryBall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 96
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1418,
+						"w": 96,
+						"h": 96
+					}
+				},
+				{
+					"filename": "papersMoving0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1516,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1516,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1516,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1516,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1516,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1516,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1516,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 76
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1595,
+						"w": 135,
+						"h": 76
+					}
+				},
+				{
+					"filename": "phoneee0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 73,
+						"h": 96
+					},
+					"frame": {
+						"x": 1772,
+						"y": 1673,
+						"w": 73,
+						"h": 96
+					}
+				},
+				{
+					"filename": "phoneee0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1752,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "papersMoving0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1771,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1771,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1771,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1771,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1771,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1771,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1707,
+						"y": 1771,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "phoneee0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 74,
+						"h": 94
+					},
+					"frame": {
+						"x": 1844,
+						"y": 1771,
+						"w": 74,
+						"h": 94
+					}
+				},
+				{
+					"filename": "phoneee0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 74,
+						"h": 94
+					},
+					"frame": {
+						"x": 1844,
+						"y": 1771,
+						"w": 74,
+						"h": 94
+					}
+				},
+				{
+					"filename": "phoneee0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 80,
+						"h": 89
+					},
+					"frame": {
+						"x": 1847,
+						"y": 1673,
+						"w": 80,
+						"h": 89
+					}
+				},
+				{
+					"filename": "papersMoving0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1850,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1850,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "phoneee0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 74,
+						"h": 94
+					},
+					"frame": {
+						"x": 1786,
+						"y": 1157,
+						"w": 74,
+						"h": 94
+					}
+				},
+				{
+					"filename": "phoneee0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 12,
+						"w": 78,
+						"h": 92
+					},
+					"frame": {
+						"x": 1786,
+						"y": 1253,
+						"w": 78,
+						"h": 92
+					}
+				},
+				{
+					"filename": "phoneee0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 74,
+						"h": 94
+					},
+					"frame": {
+						"x": 1862,
+						"y": 1157,
+						"w": 74,
+						"h": 94
+					}
+				},
+				{
+					"filename": "puffleBed",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 69
+					},
+					"frame": {
+						"x": 1786,
+						"y": 1347,
+						"w": 128,
+						"h": 69
+					}
+				},
+				{
+					"filename": "phoneee0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 16,
+						"w": 74,
+						"h": 88
+					},
+					"frame": {
+						"x": 1866,
+						"y": 1253,
+						"w": 74,
+						"h": 88
+					}
+				},
+				{
+					"filename": "phoneee0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 19,
+						"w": 78,
+						"h": 85
+					},
+					"frame": {
+						"x": 1810,
+						"y": 1418,
+						"w": 78,
+						"h": 85
+					}
+				},
+				{
+					"filename": "phoneee0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 72,
+						"h": 93
+					},
+					"frame": {
+						"x": 1849,
+						"y": 1505,
+						"w": 72,
+						"h": 93
+					}
+				},
+				{
+					"filename": "papersMoving0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 473,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 610,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 610,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 77
+					},
+					"frame": {
+						"x": 610,
+						"y": 1677,
+						"w": 135,
+						"h": 77
+					}
+				},
+				{
+					"filename": "papersMoving0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 75
+					},
+					"frame": {
+						"x": 747,
+						"y": 1677,
+						"w": 135,
+						"h": 75
+					}
+				},
+				{
+					"filename": "papersMoving0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 75
+					},
+					"frame": {
+						"x": 747,
+						"y": 1677,
+						"w": 135,
+						"h": 75
+					}
+				},
+				{
+					"filename": "papersMoving0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 747,
+						"y": 1754,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "phoneee0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 76,
+						"h": 89
+					},
+					"frame": {
+						"x": 884,
+						"y": 1677,
+						"w": 76,
+						"h": 89
+					}
+				},
+				{
+					"filename": "papersMoving0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 884,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1021,
+						"y": 1775,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1158,
+						"y": 1775,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1295,
+						"y": 1833,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1432,
+						"y": 1853,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 1696,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 138,
+						"y": 1696,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 138,
+						"y": 1696,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1696,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1696,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 412,
+						"y": 1756,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 412,
+						"y": 1756,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 549,
+						"y": 1756,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 549,
+						"y": 1756,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 686,
+						"y": 1826,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 686,
+						"y": 1826,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 823,
+						"y": 1840,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 823,
+						"y": 1840,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 960,
+						"y": 1847,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1097,
+						"y": 1847,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 138,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 138,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 138,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1768,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 412,
+						"y": 1828,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 412,
+						"y": 1828,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 412,
+						"y": 1828,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 549,
+						"y": 1828,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 1840,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0173",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 138,
+						"y": 1840,
+						"w": 135,
+						"h": 70
+					}
+				},
+				{
+					"filename": "papersMoving0174",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 135,
+						"h": 70
+					},
+					"frame": {
+						"x": 275,
+						"y": 1840,
+						"w": 135,
+						"h": 70
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:69cd99c8fea3670c7a3b49b65a4c44a8:6286eac7b3205b8b80ca0e99bf662fcb:f6d3310ef086e1ebdda9856cdf5cd8ae$"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "tour-book-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1221,
+				"h": 1637
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pg2_book",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1219,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1219,
+						"h": 816
+					}
+				},
+				{
+					"filename": "pg3_tour",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 48,
+						"w": 1218,
+						"h": 817
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1218,
+						"h": 817
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cd4a8b6cbe6654137f251bb18bb09c3d:c95a6b45f836c5e7904838753a3a9889:38512973c8cf21f00de55d7a831d5c14$"
+	}
+}

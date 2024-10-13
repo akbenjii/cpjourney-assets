@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "musicjam-login.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1278,
+				"h": 1552
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "carouselitem1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 37,
+						"w": 1276,
+						"h": 774
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1276,
+						"h": 774
+					}
+				},
+				{
+					"filename": "carouselitem2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 37,
+						"w": 1276,
+						"h": 774
+					},
+					"frame": {
+						"x": 1,
+						"y": 777,
+						"w": 1276,
+						"h": 774
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:50a6aa504385b2abe133d9196ccd58de:b17c3a70622c5586b683bf40daf64e6f:fdb6bde6b6ff95a3bee90e042f7172e2$"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "th_start.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1222,
+				"h": 621
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "treasure_login",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1220,
+						"h": 619
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1220,
+						"h": 619
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1220,
+						"h": 619
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:df15b5c5181b4cf778c2fddee4dbe58a:040bd0e7f15414aa8c32d1ed1e1edf6a:419c21bf1725241e1d3af8bbfbb61133$"
+	}
+}

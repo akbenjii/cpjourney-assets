@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/ship/ship.json",
+                "path": "assets/media/rooms/ship",
+                "key": "ship"
+            },
+            {
+                "url": "assets/media/rooms/ship/ship-physics.json",
+                "type": "json",
+                "key": "ship-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

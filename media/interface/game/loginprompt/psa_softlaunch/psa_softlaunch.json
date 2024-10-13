@@ -1,0 +1,461 @@
+{
+	"textures": [
+		{
+			"image": "psa_softlaunch-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1871,
+				"h": 1321
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "speech_bubble",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1399,
+						"h": 449
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1399,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1399,
+						"h": 449
+					}
+				},
+				{
+					"filename": "gear",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 464
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 468,
+						"h": 464
+					},
+					"frame": {
+						"x": 1402,
+						"y": 1,
+						"w": 468,
+						"h": 464
+					}
+				},
+				{
+					"filename": "phone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 486,
+						"h": 868
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 486,
+						"h": 868
+					},
+					"frame": {
+						"x": 1,
+						"y": 452,
+						"w": 486,
+						"h": 868
+					}
+				},
+				{
+					"filename": "gary_nomouth",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 803
+					},
+					"frame": {
+						"x": 489,
+						"y": 452,
+						"w": 500,
+						"h": 803
+					}
+				},
+				{
+					"filename": "gary_mouth0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 130
+					},
+					"frame": {
+						"x": 991,
+						"y": 452,
+						"w": 170,
+						"h": 130
+					}
+				},
+				{
+					"filename": "gary_mouth0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 130
+					},
+					"frame": {
+						"x": 991,
+						"y": 452,
+						"w": 170,
+						"h": 130
+					}
+				},
+				{
+					"filename": "gary_mouth0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 130
+					},
+					"frame": {
+						"x": 1163,
+						"y": 452,
+						"w": 168,
+						"h": 130
+					}
+				},
+				{
+					"filename": "gary_mouth0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 130
+					},
+					"frame": {
+						"x": 1163,
+						"y": 452,
+						"w": 168,
+						"h": 130
+					}
+				},
+				{
+					"filename": "gary_ref0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 803
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 803
+					},
+					"frame": {
+						"x": 1333,
+						"y": 467,
+						"w": 500,
+						"h": 803
+					}
+				},
+				{
+					"filename": "gary_mouth0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 120
+					},
+					"frame": {
+						"x": 991,
+						"y": 584,
+						"w": 170,
+						"h": 120
+					}
+				},
+				{
+					"filename": "gary_mouth0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 120
+					},
+					"frame": {
+						"x": 991,
+						"y": 584,
+						"w": 170,
+						"h": 120
+					}
+				},
+				{
+					"filename": "gary_mouth0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 168,
+						"h": 109
+					},
+					"frame": {
+						"x": 1163,
+						"y": 584,
+						"w": 168,
+						"h": 109
+					}
+				},
+				{
+					"filename": "gary_mouth0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 168,
+						"h": 109
+					},
+					"frame": {
+						"x": 1163,
+						"y": 584,
+						"w": 168,
+						"h": 109
+					}
+				},
+				{
+					"filename": "gary_mouth0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 101
+					},
+					"frame": {
+						"x": 1163,
+						"y": 695,
+						"w": 168,
+						"h": 101
+					}
+				},
+				{
+					"filename": "gary_mouth0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 101
+					},
+					"frame": {
+						"x": 1163,
+						"y": 695,
+						"w": 168,
+						"h": 101
+					}
+				},
+				{
+					"filename": "gary_mouth0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 120
+					},
+					"frame": {
+						"x": 991,
+						"y": 706,
+						"w": 169,
+						"h": 120
+					}
+				},
+				{
+					"filename": "gary_mouth0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 120
+					},
+					"frame": {
+						"x": 991,
+						"y": 706,
+						"w": 169,
+						"h": 120
+					}
+				},
+				{
+					"filename": "gary_mouth0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 115
+					},
+					"frame": {
+						"x": 991,
+						"y": 828,
+						"w": 170,
+						"h": 115
+					}
+				},
+				{
+					"filename": "gary_mouth0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 115
+					},
+					"frame": {
+						"x": 991,
+						"y": 828,
+						"w": 170,
+						"h": 115
+					}
+				},
+				{
+					"filename": "gary_mouth0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 101
+					},
+					"frame": {
+						"x": 991,
+						"y": 945,
+						"w": 170,
+						"h": 101
+					}
+				},
+				{
+					"filename": "gary_mouth0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 101
+					},
+					"frame": {
+						"x": 991,
+						"y": 945,
+						"w": 170,
+						"h": 101
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:03235fcce059ef18245684b9cbf12ba8:222ccc26231c61645cb3acb52efde5d1:674d23cecd0df27bfd8e13da77a7b44f$"
+	}
+}

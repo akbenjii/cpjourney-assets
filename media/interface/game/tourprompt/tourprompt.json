@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "tourprompt-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 715,
+				"h": 846
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tour_prompt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 434,
+						"y": 54,
+						"w": 713,
+						"h": 844
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 713,
+						"h": 844
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7c8e066aa1039a570ec74079af7dc083:b3d08810723cd41b622dc8e4fb26fb09:c34a97049366b71a96d5bbd527fe4757$"
+	}
+}

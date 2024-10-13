@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/stage/stage-viking/flag.mp3"
+                ],
+                "type": "audio",
+                "key": "flag"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/stage-viking/skychange.mp3"
+                ],
+                "type": "audio",
+                "key": "skychange"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/stage-viking/snowfall.mp3"
+                ],
+                "type": "audio",
+                "key": "snowfall"
+            },
+            {
+                "url": "assets/media/rooms/stage/stage-viking/stage-physics.json",
+                "type": "json",
+                "key": "stage-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/stage-viking/stage-viking.json",
+                "path": "assets/media/rooms/stage/stage-viking",
+                "key": "stage-viking"
+            },
+            {
+                "url": "assets/media/rooms/stage/stage-viking/viking-anims.json",
+                "type": "animation",
+                "key": "viking-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

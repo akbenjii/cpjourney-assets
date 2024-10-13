@@ -1,0 +1,56 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/coffee/coffee.json",
+                "path": "assets/media/rooms/coffee/",
+                "key": "coffee"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/coffee/coffee_jobs.json",
+                "path": "assets/media/rooms/coffee",
+                "key": "coffee_jobs"
+            },
+            {
+                "url": "assets/media/rooms/coffee/coffee-anims.json",
+                "type": "animation",
+                "key": "coffee-anims"
+            },
+            {
+                "url": "assets/media/rooms/coffee/coffee-physics.json",
+                "type": "json",
+                "key": "coffee-physics"
+            },
+            {
+                "url": [
+                    "assets/media/music/MUS_Evergreen_KingofKingston_CoffeeShop.mp3"
+                ],
+                "type": "audio",
+                "key": "MUS_Evergreen_KingofKingston_CoffeeShop"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/coffee/order_bell.mp3"
+                ],
+                "type": "audio",
+                "key": "order_bell"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/coffee/job_coffee_done.mp3"
+                ],
+                "type": "audio",
+                "key": "job_coffee_done"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/stampbook/main/stampbook-editor.json",
+                "path": "assets/media/interface/game/stampbook/main",
+                "key": "stampbook-editor"
+            },
+            {
+                "url": "assets/media/interface/game/stampbook/main/testCategory.png",
+                "type": "image",
+                "key": "testCategory"
+            },
+            {
+                "url": "assets/media/interface/game/stampbook/main/testCategoryHeader.png",
+                "type": "image",
+                "key": "testCategoryHeader"
+            },
+            {
+                "url": "assets/media/interface/game/stampbook/main/testCategoryIcon.png",
+                "type": "image",
+                "key": "testCategoryIcon"
+            },
+            {
+                "url": "assets/media/interface/game/stampbook/main/testCover.png",
+                "type": "image",
+                "key": "testCover"
+            },
+            {
+                "url": "assets/media/interface/game/stampbook/main/testPolaroid.png",
+                "type": "image",
+                "key": "testPolaroid"
+            },
+            {
+                "url": "assets/media/interface/game/stampbook/main/testThumb.png",
+                "type": "image",
+                "key": "testThumb"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

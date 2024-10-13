@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/dojo/dojo.json",
+                "path": "assets/media/rooms/dojo",
+                "key": "dojo"
+            },
+            {
+                "url": "assets/media/rooms/dojo/dojo-physics.json",
+                "type": "json",
+                "key": "dojo-physics"
+            },
+            {
+                "url": "assets/media/rooms/dojo/sensei-anims.json",
+                "type": "animation",
+                "key": "sensei-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

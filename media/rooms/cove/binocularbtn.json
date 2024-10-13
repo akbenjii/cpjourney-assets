@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "binocularbtn-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 69,
+				"h": 121
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "binocularbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 67,
+						"h": 60
+					}
+				},
+				{
+					"filename": "binocularbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 67,
+						"h": 60
+					}
+				},
+				{
+					"filename": "binocularbtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 67,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 65,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 63,
+						"w": 65,
+						"h": 57
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b08567d45ed51619ee565402b5ad3ad5:911dd86b9fdf3eda5576ad4a84086367:6c36fa640340ac98b8e1f7285a1f4412$"
+	}
+}

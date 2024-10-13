@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "global-buy-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 336,
+				"h": 64
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "buy-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 110,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 62
+					}
+				},
+				{
+					"filename": "buy-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 110,
+						"h": 62
+					},
+					"frame": {
+						"x": 113,
+						"y": 1,
+						"w": 110,
+						"h": 62
+					}
+				},
+				{
+					"filename": "buy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 110,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 110,
+						"h": 62
+					},
+					"frame": {
+						"x": 225,
+						"y": 1,
+						"w": 110,
+						"h": 62
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6196ce026682f8c1286e05a5359d9fc0:fa2579c626b32d9bbd3ed4ecffd827d0:24b39d3cf9101ed0f7bd6be2f795c208$"
+	}
+}

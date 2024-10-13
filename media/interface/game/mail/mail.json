@@ -1,0 +1,1209 @@
+{
+	"textures": [
+		{
+			"image": "mail-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2005,
+				"h": 2038
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "newmessagebtn0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 324,
+						"w": 481,
+						"h": 666
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 481,
+						"h": 666
+					}
+				},
+				{
+					"filename": "newmessagebtn0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 324,
+						"w": 481,
+						"h": 650
+					},
+					"frame": {
+						"x": 1523,
+						"y": 669,
+						"w": 481,
+						"h": 650
+					}
+				},
+				{
+					"filename": "replybtn0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 1,
+						"w": 822,
+						"h": 672
+					},
+					"frame": {
+						"x": 1,
+						"y": 1321,
+						"w": 822,
+						"h": 672
+					}
+				},
+				{
+					"filename": "removebtn0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 544,
+						"w": 357,
+						"h": 349
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 357,
+						"h": 349
+					}
+				},
+				{
+					"filename": "removebtn0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 544,
+						"w": 357,
+						"h": 349
+					},
+					"frame": {
+						"x": 360,
+						"y": 963,
+						"w": 357,
+						"h": 349
+					}
+				},
+				{
+					"filename": "removebtn0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 545,
+						"w": 357,
+						"h": 348
+					},
+					"frame": {
+						"x": 719,
+						"y": 963,
+						"w": 357,
+						"h": 348
+					}
+				},
+				{
+					"filename": "nomessagesbtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 440
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 438,
+						"h": 440
+					},
+					"frame": {
+						"x": 1078,
+						"y": 963,
+						"w": 438,
+						"h": 440
+					}
+				},
+				{
+					"filename": "newmessagebtn0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 327,
+						"w": 477,
+						"h": 632
+					},
+					"frame": {
+						"x": 825,
+						"y": 1405,
+						"w": 477,
+						"h": 632
+					}
+				},
+				{
+					"filename": "closebtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 825,
+						"y": 1313,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 883,
+						"y": 1313,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 941,
+						"y": 1313,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "newmessagebtn0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 322,
+						"w": 481,
+						"h": 649
+					},
+					"frame": {
+						"x": 1518,
+						"y": 1321,
+						"w": 481,
+						"h": 649
+					}
+				},
+				{
+					"filename": "arrowleft-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 134,
+						"h": 201
+					},
+					"frame": {
+						"x": 1304,
+						"y": 1405,
+						"w": 134,
+						"h": 201
+					}
+				},
+				{
+					"filename": "arrowleft-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 134,
+						"h": 201
+					},
+					"frame": {
+						"x": 1304,
+						"y": 1608,
+						"w": 134,
+						"h": 201
+					}
+				},
+				{
+					"filename": "arrowleft",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 134,
+						"h": 201
+					},
+					"frame": {
+						"x": 1304,
+						"y": 1811,
+						"w": 134,
+						"h": 201
+					}
+				}
+			]
+		},
+		{
+			"image": "mail-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1881,
+				"h": 1905
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "badcard",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1018,
+						"h": 762
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1018,
+						"h": 762
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1018,
+						"h": 762
+					}
+				},
+				{
+					"filename": "replybtn0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 3,
+						"w": 859,
+						"h": 742
+					},
+					"frame": {
+						"x": 1021,
+						"y": 1,
+						"w": 859,
+						"h": 742
+					}
+				},
+				{
+					"filename": "replybtn0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 4,
+						"w": 879,
+						"h": 790
+					},
+					"frame": {
+						"x": 1,
+						"y": 765,
+						"w": 879,
+						"h": 790
+					}
+				},
+				{
+					"filename": "removebtn0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 546,
+						"w": 357,
+						"h": 347
+					},
+					"frame": {
+						"x": 1,
+						"y": 1557,
+						"w": 357,
+						"h": 347
+					}
+				},
+				{
+					"filename": "removebtn0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 547,
+						"w": 356,
+						"h": 347
+					},
+					"frame": {
+						"x": 360,
+						"y": 1557,
+						"w": 356,
+						"h": 347
+					}
+				},
+				{
+					"filename": "removebtn0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 549,
+						"w": 354,
+						"h": 344
+					},
+					"frame": {
+						"x": 718,
+						"y": 1557,
+						"w": 354,
+						"h": 344
+					}
+				},
+				{
+					"filename": "replybtn0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 4,
+						"w": 879,
+						"h": 789
+					},
+					"frame": {
+						"x": 882,
+						"y": 765,
+						"w": 879,
+						"h": 789
+					}
+				},
+				{
+					"filename": "removebtn0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 545,
+						"w": 357,
+						"h": 348
+					},
+					"frame": {
+						"x": 1074,
+						"y": 1556,
+						"w": 357,
+						"h": 348
+					}
+				},
+				{
+					"filename": "arrowright-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 133,
+						"h": 201
+					},
+					"frame": {
+						"x": 1433,
+						"y": 1556,
+						"w": 133,
+						"h": 201
+					}
+				},
+				{
+					"filename": "arrowright-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 133,
+						"h": 201
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1556,
+						"w": 133,
+						"h": 201
+					}
+				},
+				{
+					"filename": "arrowright",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 150,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 133,
+						"h": 201
+					},
+					"frame": {
+						"x": 1703,
+						"y": 1556,
+						"w": 133,
+						"h": 201
+					}
+				}
+			]
+		},
+		{
+			"image": "mail-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1758,
+				"h": 1570
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "replybtn0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 4,
+						"w": 877,
+						"h": 788
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 877,
+						"h": 788
+					}
+				},
+				{
+					"filename": "replybtn0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 3,
+						"w": 877,
+						"h": 786
+					},
+					"frame": {
+						"x": 880,
+						"y": 1,
+						"w": 877,
+						"h": 786
+					}
+				},
+				{
+					"filename": "replybtn0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 3,
+						"w": 875,
+						"h": 778
+					},
+					"frame": {
+						"x": 880,
+						"y": 789,
+						"w": 875,
+						"h": 778
+					}
+				},
+				{
+					"filename": "replybtn0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 4,
+						"w": 875,
+						"h": 778
+					},
+					"frame": {
+						"x": 1,
+						"y": 791,
+						"w": 875,
+						"h": 778
+					}
+				}
+			]
+		},
+		{
+			"image": "mail-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1753,
+				"h": 1559
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "replybtn0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 3,
+						"w": 875,
+						"h": 777
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 875,
+						"h": 777
+					}
+				},
+				{
+					"filename": "replybtn0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 3,
+						"w": 874,
+						"h": 779
+					},
+					"frame": {
+						"x": 878,
+						"y": 1,
+						"w": 874,
+						"h": 779
+					}
+				},
+				{
+					"filename": "replybtn0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 4,
+						"w": 874,
+						"h": 777
+					},
+					"frame": {
+						"x": 1,
+						"y": 780,
+						"w": 874,
+						"h": 777
+					}
+				},
+				{
+					"filename": "replybtn0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 3,
+						"w": 875,
+						"h": 776
+					},
+					"frame": {
+						"x": 877,
+						"y": 782,
+						"w": 875,
+						"h": 776
+					}
+				}
+			]
+		},
+		{
+			"image": "mail-4.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2019,
+				"h": 1961
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "replybtn0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 4,
+						"w": 859,
+						"h": 740
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 859,
+						"h": 740
+					}
+				},
+				{
+					"filename": "replybtn0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 2,
+						"w": 823,
+						"h": 671
+					},
+					"frame": {
+						"x": 862,
+						"y": 1,
+						"w": 823,
+						"h": 671
+					}
+				},
+				{
+					"filename": "trashbtn0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 435,
+						"w": 331,
+						"h": 581
+					},
+					"frame": {
+						"x": 1687,
+						"y": 1,
+						"w": 331,
+						"h": 581
+					}
+				},
+				{
+					"filename": "trashbtn0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 432,
+						"w": 329,
+						"h": 581
+					},
+					"frame": {
+						"x": 1687,
+						"y": 584,
+						"w": 329,
+						"h": 581
+					}
+				},
+				{
+					"filename": "replybtn0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 749,
+						"h": 557
+					},
+					"frame": {
+						"x": 862,
+						"y": 674,
+						"w": 749,
+						"h": 557
+					}
+				},
+				{
+					"filename": "trashbtn0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 433,
+						"w": 327,
+						"h": 575
+					},
+					"frame": {
+						"x": 1613,
+						"y": 1167,
+						"w": 327,
+						"h": 575
+					}
+				},
+				{
+					"filename": "replybtn0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 956,
+						"h": 794
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 749,
+						"h": 557
+					},
+					"frame": {
+						"x": 1,
+						"y": 743,
+						"w": 749,
+						"h": 557
+					}
+				},
+				{
+					"filename": "newmessagebtn0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 325,
+						"w": 480,
+						"h": 658
+					},
+					"frame": {
+						"x": 1,
+						"y": 1302,
+						"w": 480,
+						"h": 658
+					}
+				},
+				{
+					"filename": "newmessagebtn0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 322,
+						"w": 481,
+						"h": 648
+					},
+					"frame": {
+						"x": 483,
+						"y": 1302,
+						"w": 481,
+						"h": 648
+					}
+				},
+				{
+					"filename": "newmessagebtn0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 323,
+						"w": 481,
+						"h": 648
+					},
+					"frame": {
+						"x": 966,
+						"y": 1233,
+						"w": 481,
+						"h": 648
+					}
+				}
+			]
+		},
+		{
+			"image": "mail-5.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1131,
+				"h": 1800
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "newmessagebtn0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1752,
+						"h": 1411
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 324,
+						"w": 481,
+						"h": 644
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 481,
+						"h": 644
+					}
+				},
+				{
+					"filename": "trashbtn0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 430,
+						"w": 326,
+						"h": 579
+					},
+					"frame": {
+						"x": 1,
+						"y": 647,
+						"w": 326,
+						"h": 579
+					}
+				},
+				{
+					"filename": "trashbtn0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 428,
+						"w": 323,
+						"h": 577
+					},
+					"frame": {
+						"x": 484,
+						"y": 1,
+						"w": 323,
+						"h": 577
+					}
+				},
+				{
+					"filename": "trashbtn0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 434,
+						"w": 321,
+						"h": 569
+					},
+					"frame": {
+						"x": 809,
+						"y": 1,
+						"w": 321,
+						"h": 569
+					}
+				},
+				{
+					"filename": "trashbtn0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 431,
+						"w": 325,
+						"h": 569
+					},
+					"frame": {
+						"x": 1,
+						"y": 1228,
+						"w": 325,
+						"h": 569
+					}
+				},
+				{
+					"filename": "trashbtn0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 428,
+						"w": 323,
+						"h": 577
+					},
+					"frame": {
+						"x": 329,
+						"y": 647,
+						"w": 323,
+						"h": 577
+					}
+				},
+				{
+					"filename": "trashbtn0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 429,
+						"w": 323,
+						"h": 576
+					},
+					"frame": {
+						"x": 654,
+						"y": 580,
+						"w": 323,
+						"h": 576
+					}
+				},
+				{
+					"filename": "trashbtn0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 430,
+						"w": 322,
+						"h": 573
+					},
+					"frame": {
+						"x": 329,
+						"y": 1226,
+						"w": 322,
+						"h": 573
+					}
+				},
+				{
+					"filename": "trashbtn0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1573,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 1242,
+						"y": 430,
+						"w": 323,
+						"h": 575
+					},
+					"frame": {
+						"x": 654,
+						"y": 1158,
+						"w": 323,
+						"h": 575
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:55f109259f068c61b959c13dbdf18c67:27bb8479a85bd0f7b680d31821a39698:8d801f472786808ff4a3aa5eef5c209f$"
+	}
+}

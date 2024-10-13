@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "rockhopper-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1686,
+				"h": 923
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1463,
+						"h": 921
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1441,
+						"h": 921
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1441,
+						"h": 921
+					}
+				},
+				{
+					"filename": "buttons/receive-item-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 246,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 241,
+						"h": 144
+					},
+					"frame": {
+						"x": 1444,
+						"y": 1,
+						"w": 241,
+						"h": 144
+					}
+				},
+				{
+					"filename": "buttons/receive-item-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 246,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 241,
+						"h": 144
+					},
+					"frame": {
+						"x": 1444,
+						"y": 147,
+						"w": 241,
+						"h": 144
+					}
+				},
+				{
+					"filename": "buttons/receive-item",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 246,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 241,
+						"h": 144
+					},
+					"frame": {
+						"x": 1444,
+						"y": 293,
+						"w": 241,
+						"h": 144
+					}
+				},
+				{
+					"filename": "buttons/buy-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 129,
+						"h": 72
+					},
+					"frame": {
+						"x": 1444,
+						"y": 439,
+						"w": 129,
+						"h": 72
+					}
+				},
+				{
+					"filename": "buttons/buy-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 129,
+						"h": 72
+					},
+					"frame": {
+						"x": 1444,
+						"y": 513,
+						"w": 129,
+						"h": 72
+					}
+				},
+				{
+					"filename": "buttons/buy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 129,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 129,
+						"h": 72
+					},
+					"frame": {
+						"x": 1444,
+						"y": 587,
+						"w": 129,
+						"h": 72
+					}
+				},
+				{
+					"filename": "buttons/close-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1575,
+						"y": 439,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1575,
+						"y": 497,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1575,
+						"y": 555,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:dfad6379b3322432dcdcdbdd90be080c:50527e3097744fc2d8f2550bdb0421b1:bd79ef00f3966e5482415ca08cc01d5b$"
+	}
+}

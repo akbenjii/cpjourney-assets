@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "treasurehuntinstructions.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 763,
+				"h": 342
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "theboard.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 722,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 722,
+						"h": 340
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 722,
+						"h": 340
+					}
+				},
+				{
+					"filename": "gem.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 37,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 37,
+						"h": 34
+					},
+					"frame": {
+						"x": 725,
+						"y": 1,
+						"w": 37,
+						"h": 34
+					}
+				},
+				{
+					"filename": "shine.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 35
+					},
+					"frame": {
+						"x": 725,
+						"y": 37,
+						"w": 35,
+						"h": 35
+					}
+				},
+				{
+					"filename": "coin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 725,
+						"y": 74,
+						"w": 32,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:45ee157eef710933d46cdd0442da2d95:7370e834e327b5eb254c497af1d3620f:f0a4cbfcd6299682ada33926db11f291$"
+	}
+}

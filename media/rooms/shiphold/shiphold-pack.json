@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shiphold/shiphold.json",
+                "path": "assets/media/rooms/shiphold",
+                "key": "shiphold"
+            },
+            {
+                "url": "assets/media/rooms/shiphold/shiphold-physics.json",
+                "type": "json",
+                "key": "shiphold-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

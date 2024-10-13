@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "shiphold-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1874,
+				"h": 1433
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1544,
+						"h": 996
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1544,
+						"h": 996
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1544,
+						"h": 996
+					}
+				},
+				{
+					"filename": "stairs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 326,
+						"h": 595
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 326,
+						"h": 595
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1,
+						"w": 326,
+						"h": 595
+					}
+				},
+				{
+					"filename": "buttons/door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 135,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 999,
+						"w": 135,
+						"h": 306
+					}
+				},
+				{
+					"filename": "buttons/note-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 1307,
+						"w": 70,
+						"h": 115
+					}
+				},
+				{
+					"filename": "buttons/note-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 1307,
+						"w": 70,
+						"h": 115
+					}
+				},
+				{
+					"filename": "buttons/map-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 114
+					},
+					"frame": {
+						"x": 73,
+						"y": 1307,
+						"w": 138,
+						"h": 114
+					}
+				},
+				{
+					"filename": "buttons/map-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 114
+					},
+					"frame": {
+						"x": 73,
+						"y": 1307,
+						"w": 138,
+						"h": 114
+					}
+				},
+				{
+					"filename": "buttons/door-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 12,
+						"w": 85,
+						"h": 305
+					},
+					"frame": {
+						"x": 138,
+						"y": 999,
+						"w": 85,
+						"h": 305
+					}
+				},
+				{
+					"filename": "buttons/door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 140,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 12,
+						"w": 85,
+						"h": 305
+					},
+					"frame": {
+						"x": 138,
+						"y": 999,
+						"w": 85,
+						"h": 305
+					}
+				},
+				{
+					"filename": "buttons/note",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 70,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 68,
+						"h": 113
+					},
+					"frame": {
+						"x": 213,
+						"y": 1306,
+						"w": 68,
+						"h": 113
+					}
+				},
+				{
+					"filename": "table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 577,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 577,
+						"h": 299
+					},
+					"frame": {
+						"x": 225,
+						"y": 999,
+						"w": 577,
+						"h": 299
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1526,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1526,
+						"h": 132
+					},
+					"frame": {
+						"x": 283,
+						"y": 1300,
+						"w": 1526,
+						"h": 132
+					}
+				},
+				{
+					"filename": "puffle_bubbles",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 72
+					},
+					"frame": {
+						"x": 1811,
+						"y": 598,
+						"w": 52,
+						"h": 72
+					}
+				},
+				{
+					"filename": "suf",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 54
+					},
+					"frame": {
+						"x": 1547,
+						"y": 598,
+						"w": 160,
+						"h": 54
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 87
+					},
+					"frame": {
+						"x": 1709,
+						"y": 598,
+						"w": 100,
+						"h": 87
+					}
+				},
+				{
+					"filename": "buttons/map",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 138,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 124,
+						"h": 94
+					},
+					"frame": {
+						"x": 1547,
+						"y": 654,
+						"w": 124,
+						"h": 94
+					}
+				},
+				{
+					"filename": "bike",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 183
+					},
+					"frame": {
+						"x": 1673,
+						"y": 687,
+						"w": 111,
+						"h": 183
+					}
+				},
+				{
+					"filename": "puffle_treat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 146
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 146
+					},
+					"frame": {
+						"x": 1547,
+						"y": 750,
+						"w": 88,
+						"h": 146
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d7ad81295bf8ecfd848586525d04058a:215e24828ed7a0f1d384428a936e484e:9eb019c3da7df133e94191ea812e9e4f$"
+	}
+}

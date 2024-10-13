@@ -1,0 +1,31 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/evergreen_start.json",
+                "path": "assets/media/interface/menus/start",
+                "key": "evergreen_start"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/mainmenu/fair-login.json",
+                "path": "assets/media/mainmenu",
+                "key": "fair-login"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/start.json",
+                "path": "assets/media/interface/menus/start",
+                "key": "start"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

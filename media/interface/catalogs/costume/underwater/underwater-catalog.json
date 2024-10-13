@@ -1,0 +1,157 @@
+{
+	"textures": [
+		{
+			"image": "underwater-catalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1783,
+				"h": 1632
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pg2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 814
+					}
+				},
+				{
+					"filename": "pg1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 33,
+						"w": 600,
+						"h": 814
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 600,
+						"h": 814
+					}
+				},
+				{
+					"filename": "pg3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 1179,
+						"h": 814
+					}
+				},
+				{
+					"filename": "pg6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 33,
+						"w": 600,
+						"h": 814
+					},
+					"frame": {
+						"x": 1182,
+						"y": 817,
+						"w": 600,
+						"h": 814
+					}
+				}
+			]
+		},
+		{
+			"image": "underwater-catalog-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1181,
+				"h": 1632
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pg4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 814
+					}
+				},
+				{
+					"filename": "pg5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 35,
+						"w": 1179,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 817,
+						"w": 1179,
+						"h": 814
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fbd359b24717434740e218c711178c58:68b0ebe95bcf7b51b1e433cb6a7164b5:b62c1eecd4ba5b49a2a7c17b017fca50$"
+	}
+}

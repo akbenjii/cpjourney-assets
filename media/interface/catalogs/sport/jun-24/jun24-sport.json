@@ -1,0 +1,536 @@
+{
+	"textures": [
+		{
+			"image": "jun24-sport-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1939,
+				"h": 1998
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "june24sport6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 67,
+						"w": 1287,
+						"h": 818
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1287,
+						"h": 818
+					}
+				},
+				{
+					"filename": "june24sport2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 76,
+						"w": 1287,
+						"h": 809
+					},
+					"frame": {
+						"x": 1,
+						"y": 821,
+						"w": 1287,
+						"h": 809
+					}
+				},
+				{
+					"filename": "june24sport9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 418,
+						"y": 79,
+						"w": 648,
+						"h": 803
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1,
+						"w": 648,
+						"h": 803
+					}
+				},
+				{
+					"filename": "june24sport1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 454,
+						"y": 79,
+						"w": 648,
+						"h": 800
+					},
+					"frame": {
+						"x": 1290,
+						"y": 806,
+						"w": 648,
+						"h": 800
+					}
+				},
+				{
+					"filename": "flags",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 407,
+						"h": 389
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1608,
+						"w": 407,
+						"h": 389
+					}
+				},
+				{
+					"filename": "france 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 356
+					},
+					"frame": {
+						"x": 1,
+						"y": 1632,
+						"w": 373,
+						"h": 356
+					}
+				},
+				{
+					"filename": "spain 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 356
+					},
+					"frame": {
+						"x": 376,
+						"y": 1632,
+						"w": 373,
+						"h": 356
+					}
+				},
+				{
+					"filename": "usa 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 347
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 347
+					},
+					"frame": {
+						"x": 751,
+						"y": 1632,
+						"w": 373,
+						"h": 347
+					}
+				}
+			]
+		},
+		{
+			"image": "jun24-sport-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1684,
+				"h": 1633
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "june24sport3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 76,
+						"w": 1287,
+						"h": 809
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1287,
+						"h": 809
+					}
+				},
+				{
+					"filename": "june24sport7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 76,
+						"w": 1287,
+						"h": 809
+					},
+					"frame": {
+						"x": 1,
+						"y": 812,
+						"w": 1287,
+						"h": 809
+					}
+				},
+				{
+					"filename": "blue_track_suit",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 461
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1,
+						"w": 393,
+						"h": 461
+					}
+				},
+				{
+					"filename": "yellow_track_suit",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 461
+					},
+					"frame": {
+						"x": 1290,
+						"y": 464,
+						"w": 393,
+						"h": 461
+					}
+				},
+				{
+					"filename": "england 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 356
+					},
+					"frame": {
+						"x": 1290,
+						"y": 927,
+						"w": 373,
+						"h": 356
+					}
+				},
+				{
+					"filename": "portugal 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 347
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 347
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1285,
+						"w": 373,
+						"h": 347
+					}
+				}
+			]
+		},
+		{
+			"image": "jun24-sport-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1684,
+				"h": 1622
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "june24sport4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 76,
+						"w": 1287,
+						"h": 809
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1287,
+						"h": 809
+					}
+				},
+				{
+					"filename": "june24sport8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 76,
+						"w": 1287,
+						"h": 809
+					},
+					"frame": {
+						"x": 1,
+						"y": 812,
+						"w": 1287,
+						"h": 809
+					}
+				},
+				{
+					"filename": "green_track_suit",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 461
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1,
+						"w": 393,
+						"h": 461
+					}
+				},
+				{
+					"filename": "brazil 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 356
+					},
+					"frame": {
+						"x": 1290,
+						"y": 464,
+						"w": 373,
+						"h": 356
+					}
+				},
+				{
+					"filename": "italy 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 356
+					},
+					"frame": {
+						"x": 1290,
+						"y": 822,
+						"w": 373,
+						"h": 356
+					}
+				},
+				{
+					"filename": "argentina 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 355
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 355
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1180,
+						"w": 373,
+						"h": 355
+					}
+				}
+			]
+		},
+		{
+			"image": "jun24-sport-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1684,
+				"h": 812
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "june24sport5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 76,
+						"w": 1287,
+						"h": 809
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1287,
+						"h": 809
+					}
+				},
+				{
+					"filename": "red_track_suit",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 393,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 393,
+						"h": 461
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1,
+						"w": 393,
+						"h": 461
+					}
+				},
+				{
+					"filename": "germany 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 347
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 347
+					},
+					"frame": {
+						"x": 1290,
+						"y": 464,
+						"w": 373,
+						"h": 347
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:eea892b5f2b8ee6310f674a724716a06:2a2ae40d91bed036d2e19a51860fd132:99895270a9cb7179b79986b1bdc1772e$"
+	}
+}

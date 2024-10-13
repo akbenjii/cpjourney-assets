@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "fairposter.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 554,
+				"h": 869
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "poster",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 552,
+						"h": 824
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 552,
+						"h": 824
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 552,
+						"h": 824
+					}
+				},
+				{
+					"filename": "goto-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 827,
+						"w": 132,
+						"h": 41
+					}
+				},
+				{
+					"filename": "goto",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 132,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 132,
+						"h": 41
+					},
+					"frame": {
+						"x": 135,
+						"y": 827,
+						"w": 132,
+						"h": 41
+					}
+				},
+				{
+					"filename": "close-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 39,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 39
+					},
+					"frame": {
+						"x": 269,
+						"y": 827,
+						"w": 39,
+						"h": 39
+					}
+				},
+				{
+					"filename": "close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 39,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 39,
+						"h": 39
+					},
+					"frame": {
+						"x": 310,
+						"y": 827,
+						"w": 39,
+						"h": 39
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f4bd426f2714d2b36ae2d7132e43edf0:d7f616edfee187f0dee4ff52303e1295:e863781074eee623ba9643f54291057d$"
+	}
+}

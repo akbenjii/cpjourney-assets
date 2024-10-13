@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "eco-L1-belt2-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 761,
+				"h": 108
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "L10001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 249,
+						"h": 106
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 249,
+						"h": 106
+					}
+				},
+				{
+					"filename": "normal",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 508,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 508,
+						"h": 97
+					},
+					"frame": {
+						"x": 252,
+						"y": 1,
+						"w": 508,
+						"h": 97
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ef85754f3c00905ba24e3ea7f4fb8ab5:29fd1bd30bd98be1d77df5dee4184abd:f12b7d5711d8f583ded265b65b8b802c$"
+	}
+}

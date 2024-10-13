@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "cardjitsuinstructions-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 528,
+				"h": 805
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "instructions",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 526,
+						"h": 745
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 526,
+						"h": 745
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 526,
+						"h": 745
+					}
+				},
+				{
+					"filename": "closing_this-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 748,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closing_this-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 748,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closing_this",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 748,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:04592158321ca6b0cfd18fa65fc03f86:abd40c00ef2c69bc0162e4e186bac967:1b2809582dcb5957f8235cacb25d6396$"
+	}
+}

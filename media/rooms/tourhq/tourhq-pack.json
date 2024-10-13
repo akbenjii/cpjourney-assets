@@ -1,0 +1,42 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/tourhq/coffee_jobs_tour.json",
+                "path": "assets/media/rooms/tourhq",
+                "key": "coffee_jobs_tour"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/tourhq/order_bell.mp3"
+                ],
+                "type": "audio",
+                "key": "order_bell"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/tourhq/tourhq.json",
+                "path": "assets/media/rooms/tourhq",
+                "key": "tourhq"
+            },
+            {
+                "url": "assets/media/rooms/tourhq/tourhq-anims.json",
+                "type": "animation",
+                "key": "tourhq-anims"
+            },
+            {
+                "url": "assets/media/rooms/tourhq/tourhq-physics.json",
+                "type": "json",
+                "key": "tourhq-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

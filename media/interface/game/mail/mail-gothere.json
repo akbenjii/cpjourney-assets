@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "mail-gothere.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 360,
+				"h": 54
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gotherebtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 178,
+						"h": 52
+					}
+				},
+				{
+					"filename": "gotherebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 178,
+						"h": 52
+					}
+				},
+				{
+					"filename": "gotherebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 52
+					},
+					"frame": {
+						"x": 181,
+						"y": 1,
+						"w": 178,
+						"h": 52
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e5891b46f4a6d0ade34564f06af1c998:aa0939b8fcb99be8820999d5b69dbb04:adf1f03a2e15ffe7c0b8f4d1b3db20c1$"
+	}
+}

@@ -1,0 +1,902 @@
+{
+	"textures": [
+		{
+			"image": "fair-beach.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2029,
+				"h": 1908
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1618,
+						"h": 968
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1618,
+						"h": 968
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1618,
+						"h": 968
+					}
+				},
+				{
+					"filename": "fence2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 381,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 381,
+						"h": 153
+					},
+					"frame": {
+						"x": 1621,
+						"y": 1,
+						"w": 381,
+						"h": 153
+					}
+				},
+				{
+					"filename": "circle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 22
+					},
+					"frame": {
+						"x": 2004,
+						"y": 1,
+						"w": 20,
+						"h": 22
+					}
+				},
+				{
+					"filename": "barn1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 287,
+						"h": 525
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 287,
+						"h": 525
+					},
+					"frame": {
+						"x": 1621,
+						"y": 156,
+						"w": 287,
+						"h": 525
+					}
+				},
+				{
+					"filename": "haaaayyyyyy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 74
+					},
+					"frame": {
+						"x": 1910,
+						"y": 156,
+						"w": 88,
+						"h": 74
+					}
+				},
+				{
+					"filename": "gumballs0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 232,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 362,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 492,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1910,
+						"y": 622,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "bestinshow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 230
+					},
+					"frame": {
+						"x": 1621,
+						"y": 683,
+						"w": 239,
+						"h": 230
+					}
+				},
+				{
+					"filename": "wheel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 230
+					},
+					"frame": {
+						"x": 1862,
+						"y": 752,
+						"w": 138,
+						"h": 230
+					}
+				},
+				{
+					"filename": "barn2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 363
+					},
+					"frame": {
+						"x": 1621,
+						"y": 915,
+						"w": 230,
+						"h": 363
+					}
+				},
+				{
+					"filename": "fence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1535,
+						"h": 433
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1535,
+						"h": 433
+					},
+					"frame": {
+						"x": 1,
+						"y": 971,
+						"w": 1535,
+						"h": 433
+					}
+				},
+				{
+					"filename": "bg1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1206,
+						"h": 501
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1206,
+						"h": 501
+					},
+					"frame": {
+						"x": 1,
+						"y": 1406,
+						"w": 1206,
+						"h": 501
+					}
+				},
+				{
+					"filename": "right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 490,
+						"h": 518
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 490,
+						"h": 518
+					},
+					"frame": {
+						"x": 1538,
+						"y": 1280,
+						"w": 490,
+						"h": 518
+					}
+				},
+				{
+					"filename": "gumballs0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1538,
+						"y": 971,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1538,
+						"y": 1101,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1853,
+						"y": 984,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1853,
+						"y": 1114,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1924,
+						"y": 984,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1924,
+						"y": 1114,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "trough",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 121
+					},
+					"frame": {
+						"x": 1209,
+						"y": 1406,
+						"w": 189,
+						"h": 121
+					}
+				},
+				{
+					"filename": "gumballs0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1400,
+						"y": 1406,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1209,
+						"y": 1529,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1280,
+						"y": 1529,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1536,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1422,
+						"y": 1536,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1209,
+						"y": 1659,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1280,
+						"y": 1659,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1666,
+						"w": 69,
+						"h": 128
+					}
+				},
+				{
+					"filename": "gumballs0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 128
+					},
+					"frame": {
+						"x": 1422,
+						"y": 1666,
+						"w": 69,
+						"h": 128
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:36c11491d887c13b26d3c31394c8e393:24ebd135f5f1c111f842a88d28db357a:aa7f73381ea3c259ff4428efcbbdf29a$"
+	}
+}

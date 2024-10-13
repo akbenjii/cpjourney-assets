@@ -1,0 +1,52 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/boiler/boiler.json",
+                "path": "assets/media/rooms/boiler",
+                "key": "boiler"
+            },
+            {
+                "url": "assets/media/rooms/boiler/boiler-anims.json",
+                "type": "animation",
+                "key": "boiler-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/boiler/boiler-archivesbtn.json",
+                "path": "assets/media/rooms/boiler",
+                "key": "boiler-archivesbtn"
+            },
+            {
+                "url": "assets/media/rooms/boiler/boiler-board.png",
+                "type": "image",
+                "key": "boiler-board"
+            },
+            {
+                "url": "assets/media/rooms/boiler/boiler-physics.json",
+                "type": "json",
+                "key": "boiler-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/boiler/boiler-secret-two.json",
+                "path": "assets/media/rooms/boiler",
+                "key": "boiler-secret-two"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/boiler/newboiler.json",
+                "path": "assets/media/rooms/boiler",
+                "key": "newboiler"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/newspaper/issue23/Aunt Captus.png",
+                "type": "image",
+                "key": "Aunt_Pikachu"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue23/Bigheady360.png",
+                "type": "image",
+                "key": "Bigheady360"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue23/Captus.png",
+                "type": "image",
+                "key": "Captus"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/issue23/issue23.json",
+                "path": "assets/media/interface/game/newspaper/issue23",
+                "key": "issue23"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue23/miloud4.png",
+                "type": "image",
+                "key": "miloud4"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/common/newspaper-common.json",
+                "path": "assets/media/interface/game/newspaper/common",
+                "key": "newspaper-common"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/issue23/Skyla.png",
+                "type": "image",
+                "key": "Skyla"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

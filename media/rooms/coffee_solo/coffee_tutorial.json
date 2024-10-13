@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "coffee_tutorial-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 125,
+				"h": 214
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tut_down",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 72
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 72
+					}
+				},
+				{
+					"filename": "npc_down",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 67
+					},
+					"frame": {
+						"x": 0,
+						"y": 72,
+						"w": 73,
+						"h": 67
+					}
+				},
+				{
+					"filename": "tut_left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 75
+					},
+					"frame": {
+						"x": 0,
+						"y": 139,
+						"w": 68,
+						"h": 75
+					}
+				},
+				{
+					"filename": "npc_right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 71
+					},
+					"frame": {
+						"x": 68,
+						"y": 139,
+						"w": 57,
+						"h": 71
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:90ece3226e4a36ef33b4c6f03fa11467:8fc41ae54539ef2554cea03fa8d413b7:1c3d4656da40f09d1309fc609c805891$"
+	}
+}

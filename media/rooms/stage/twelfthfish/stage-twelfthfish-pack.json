@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/twelfthfish/stage-twelfthfish.json",
+                "path": "assets/media/rooms/stage/twelfthfish",
+                "key": "stage-twelfthfish"
+            },
+            {
+                "url": "assets/media/rooms/stage/twelfthfish/stage-twelfthfish-physics.json",
+                "type": "json",
+                "key": "stage-twelfthfish-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

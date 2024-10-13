@@ -1,0 +1,41 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/games/card/703.png",
+                "type": "image",
+                "key": "703"
+            },
+            {
+                "url": "assets/media/games/card/cjback.png",
+                "type": "image",
+                "key": "cjback"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/cjcard.json",
+                "path": "assets/media/games/card",
+                "key": "cjcard"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/cjninjaprogress/cjninjaprogress.json",
+                "path": "assets/media/interface/game/cjninjaprogress",
+                "key": "cjninjaprogress"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/cjninjaprogress/cjninjaprogress-cards.json",
+                "path": "assets/media/interface/game/cjninjaprogress",
+                "key": "cjninjaprogress-cards"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

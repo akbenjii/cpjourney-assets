@@ -1,0 +1,1364 @@
+{
+	"textures": [
+		{
+			"image": "lookout-stadium.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 966,
+				"h": 529
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "rink-back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 253,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 253,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 253,
+						"h": 124
+					}
+				},
+				{
+					"filename": "stadium-back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 253,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 253,
+						"h": 124
+					},
+					"frame": {
+						"x": 256,
+						"y": 1,
+						"w": 253,
+						"h": 124
+					}
+				},
+				{
+					"filename": "rink-front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 66
+					},
+					"frame": {
+						"x": 511,
+						"y": 1,
+						"w": 202,
+						"h": 66
+					}
+				},
+				{
+					"filename": "stadium-front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 66
+					},
+					"frame": {
+						"x": 511,
+						"y": 69,
+						"w": 202,
+						"h": 66
+					}
+				},
+				{
+					"filename": "rink-animation0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 127,
+						"w": 136,
+						"h": 52
+					}
+				},
+				{
+					"filename": "rink-animation0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 52
+					},
+					"frame": {
+						"x": 139,
+						"y": 127,
+						"w": 136,
+						"h": 52
+					}
+				},
+				{
+					"filename": "rink-animation0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 51
+					},
+					"frame": {
+						"x": 277,
+						"y": 127,
+						"w": 136,
+						"h": 51
+					}
+				},
+				{
+					"filename": "rink-animation0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 51
+					},
+					"frame": {
+						"x": 415,
+						"y": 137,
+						"w": 136,
+						"h": 51
+					}
+				},
+				{
+					"filename": "rink-animation0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 181,
+						"w": 136,
+						"h": 51
+					}
+				},
+				{
+					"filename": "rink-animation0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 51
+					},
+					"frame": {
+						"x": 139,
+						"y": 181,
+						"w": 136,
+						"h": 51
+					}
+				},
+				{
+					"filename": "rink-animation0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 50
+					},
+					"frame": {
+						"x": 277,
+						"y": 180,
+						"w": 136,
+						"h": 50
+					}
+				},
+				{
+					"filename": "rink-animation0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 50
+					},
+					"frame": {
+						"x": 553,
+						"y": 137,
+						"w": 136,
+						"h": 50
+					}
+				},
+				{
+					"filename": "rink-animation0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 50
+					},
+					"frame": {
+						"x": 553,
+						"y": 189,
+						"w": 136,
+						"h": 50
+					}
+				},
+				{
+					"filename": "rink-animation0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 49
+					},
+					"frame": {
+						"x": 277,
+						"y": 232,
+						"w": 136,
+						"h": 49
+					}
+				},
+				{
+					"filename": "rink-animation0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 234,
+						"w": 136,
+						"h": 49
+					}
+				},
+				{
+					"filename": "rink-animation0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 49
+					},
+					"frame": {
+						"x": 139,
+						"y": 234,
+						"w": 136,
+						"h": 49
+					}
+				},
+				{
+					"filename": "rink-animation0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 49
+					},
+					"frame": {
+						"x": 415,
+						"y": 190,
+						"w": 136,
+						"h": 49
+					}
+				},
+				{
+					"filename": "stadium-animation0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 49
+					},
+					"frame": {
+						"x": 691,
+						"y": 137,
+						"w": 136,
+						"h": 49
+					}
+				},
+				{
+					"filename": "stadium-animation0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 49
+					},
+					"frame": {
+						"x": 715,
+						"y": 1,
+						"w": 136,
+						"h": 49
+					}
+				},
+				{
+					"filename": "rink-animation0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 715,
+						"y": 52,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 691,
+						"y": 188,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 691,
+						"y": 238,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 415,
+						"y": 241,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 277,
+						"y": 283,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 285,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 139,
+						"y": 285,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 553,
+						"y": 241,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 691,
+						"y": 288,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 415,
+						"y": 291,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 277,
+						"y": 333,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 335,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "stadium-animation0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 139,
+						"y": 335,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "stadium-animation0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 553,
+						"y": 291,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "stadium-animation0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 48
+					},
+					"frame": {
+						"x": 691,
+						"y": 338,
+						"w": 136,
+						"h": 48
+					}
+				},
+				{
+					"filename": "rink-animation0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 47
+					},
+					"frame": {
+						"x": 415,
+						"y": 341,
+						"w": 136,
+						"h": 47
+					}
+				},
+				{
+					"filename": "rink-animation0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 47
+					},
+					"frame": {
+						"x": 277,
+						"y": 383,
+						"w": 136,
+						"h": 47
+					}
+				},
+				{
+					"filename": "rink-animation0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 47
+					},
+					"frame": {
+						"x": 277,
+						"y": 383,
+						"w": 136,
+						"h": 47
+					}
+				},
+				{
+					"filename": "rink-animation0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 385,
+						"w": 136,
+						"h": 47
+					}
+				},
+				{
+					"filename": "stadium-animation0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 47
+					},
+					"frame": {
+						"x": 139,
+						"y": 385,
+						"w": 136,
+						"h": 47
+					}
+				},
+				{
+					"filename": "rink-animation0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 46
+					},
+					"frame": {
+						"x": 553,
+						"y": 341,
+						"w": 136,
+						"h": 46
+					}
+				},
+				{
+					"filename": "stadium-animation0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 46
+					},
+					"frame": {
+						"x": 691,
+						"y": 388,
+						"w": 136,
+						"h": 46
+					}
+				},
+				{
+					"filename": "stadium-animation0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 46
+					},
+					"frame": {
+						"x": 553,
+						"y": 389,
+						"w": 136,
+						"h": 46
+					}
+				},
+				{
+					"filename": "stadium-animation0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 46
+					},
+					"frame": {
+						"x": 415,
+						"y": 390,
+						"w": 136,
+						"h": 46
+					}
+				},
+				{
+					"filename": "stadium-animation0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 45
+					},
+					"frame": {
+						"x": 277,
+						"y": 432,
+						"w": 136,
+						"h": 45
+					}
+				},
+				{
+					"filename": "stadium-animation0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 45
+					},
+					"frame": {
+						"x": 691,
+						"y": 436,
+						"w": 136,
+						"h": 45
+					}
+				},
+				{
+					"filename": "stadium-animation0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 45
+					},
+					"frame": {
+						"x": 553,
+						"y": 437,
+						"w": 136,
+						"h": 45
+					}
+				},
+				{
+					"filename": "stadium-animation0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 45
+					},
+					"frame": {
+						"x": 415,
+						"y": 438,
+						"w": 136,
+						"h": 45
+					}
+				},
+				{
+					"filename": "stadium-animation0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 691,
+						"y": 483,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 553,
+						"y": 484,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 139,
+						"y": 434,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 277,
+						"y": 479,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 480,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 139,
+						"y": 480,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 102,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 148,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 148,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 194,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 240,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 286,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 332,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 378,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 424,
+						"w": 136,
+						"h": 44
+					}
+				},
+				{
+					"filename": "stadium-animation0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 44
+					},
+					"frame": {
+						"x": 829,
+						"y": 470,
+						"w": 136,
+						"h": 44
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6ac05a02a41c6b7292f21105435786ca:9aefbd4fbb670e8d2f44212e8abafada:77b130e851ecaf0dddd0586705ff76a6$"
+	}
+}

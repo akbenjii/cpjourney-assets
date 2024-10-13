@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/awards/missions/eight/gifteight.json",
+                "path": "assets/media/interface/game/awards/missions/eight",
+                "key": "gifteight"
+            },
+            {
+                "url": "assets/media/interface/game/awards/missions/eight/gifteight-anims.json",
+                "type": "animation",
+                "key": "gifteight-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

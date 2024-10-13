@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/lighthouse/lighthouse.json",
+                "path": "assets/media/rooms/lighthouse",
+                "key": "lighthouse"
+            },
+            {
+                "url": "assets/media/rooms/lighthouse/lighthouse-physics.json",
+                "type": "json",
+                "key": "lighthouse-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

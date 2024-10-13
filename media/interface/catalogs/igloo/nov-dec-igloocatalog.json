@@ -1,0 +1,262 @@
+{
+	"textures": [
+		{
+			"image": "nov-dec-igloocatalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1783,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "novdecfloor1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "novdeccover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 600,
+						"h": 813
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 600,
+						"h": 813
+					}
+				},
+				{
+					"filename": "novdecfloor2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "novdecrear",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 600,
+						"h": 813
+					},
+					"frame": {
+						"x": 1182,
+						"y": 816,
+						"w": 600,
+						"h": 813
+					}
+				}
+			]
+		},
+		{
+			"image": "nov-dec-igloocatalog-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1797,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "novdecpage1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "novdecpage2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "secret_bigcandy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 452,
+						"y": 269,
+						"w": 614,
+						"h": 422
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 614,
+						"h": 422
+					}
+				},
+				{
+					"filename": "secret_cave",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 613,
+						"h": 420
+					},
+					"frame": {
+						"x": 1182,
+						"y": 425,
+						"w": 613,
+						"h": 420
+					}
+				},
+				{
+					"filename": "secret_close-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 113,
+						"h": 32
+					},
+					"frame": {
+						"x": 1182,
+						"y": 847,
+						"w": 113,
+						"h": 32
+					}
+				},
+				{
+					"filename": "secret_close-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 113,
+						"h": 32
+					},
+					"frame": {
+						"x": 1182,
+						"y": 847,
+						"w": 113,
+						"h": 32
+					}
+				},
+				{
+					"filename": "secret_close",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 113,
+						"h": 32
+					},
+					"frame": {
+						"x": 1182,
+						"y": 881,
+						"w": 113,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:95b97e389f207c199c7b723d07079beb:b5e199cb71d96ada0156783a4c7279e6:4aebc2a367c25e2a58b57a3ecbb3a4e1$"
+	}
+}

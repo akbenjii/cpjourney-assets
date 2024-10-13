@@ -1,0 +1,199 @@
+{
+	"textures": [
+		{
+			"image": "twelfthfish-catalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1890,
+				"h": 1892
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pg2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 36,
+						"w": 1287,
+						"h": 810
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1287,
+						"h": 810
+					}
+				},
+				{
+					"filename": "pg1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 599,
+						"h": 813
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1,
+						"w": 599,
+						"h": 813
+					}
+				},
+				{
+					"filename": "pg3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 36,
+						"w": 1287,
+						"h": 810
+					},
+					"frame": {
+						"x": 1,
+						"y": 813,
+						"w": 1287,
+						"h": 810
+					}
+				},
+				{
+					"filename": "photohover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 266,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 266,
+						"h": 266
+					},
+					"frame": {
+						"x": 1,
+						"y": 1625,
+						"w": 266,
+						"h": 266
+					}
+				},
+				{
+					"filename": "pg5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 599,
+						"h": 813
+					},
+					"frame": {
+						"x": 1290,
+						"y": 816,
+						"w": 599,
+						"h": 813
+					}
+				},
+				{
+					"filename": "photoshadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 247,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 247,
+						"h": 246
+					},
+					"frame": {
+						"x": 269,
+						"y": 1631,
+						"w": 247,
+						"h": 246
+					}
+				},
+				{
+					"filename": "photo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 242
+					},
+					"frame": {
+						"x": 518,
+						"y": 1631,
+						"w": 242,
+						"h": 242
+					}
+				}
+			]
+		},
+		{
+			"image": "twelfthfish-catalog-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1289,
+				"h": 812
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pg4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 36,
+						"w": 1287,
+						"h": 810
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1287,
+						"h": 810
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:93e4f7bab814812a5cd4b050fd6658ce:c47fbce48ef40ca1f7b72e518a9cf9b4:2123ce5a089e1fcc4497ee84edc34c67$"
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/forts/fair-forts.json",
+                "path": "assets/media/rooms/_fair/forts",
+                "key": "fair-forts"
+            },
+            {
+                "url": "assets/media/rooms/_fair/coaster/forts_tracks.webp",
+                "type": "image",
+                "key": "forts_tracks"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

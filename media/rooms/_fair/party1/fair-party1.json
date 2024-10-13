@@ -1,0 +1,3129 @@
+{
+	"textures": [
+		{
+			"image": "fair-party1-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2038,
+				"h": 2023
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgParty1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1739,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1739,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1739,
+						"h": 960
+					}
+				},
+				{
+					"filename": "fgParty1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1562,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1562,
+						"h": 512
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1562,
+						"h": 512
+					}
+				},
+				{
+					"filename": "waterTent",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 449,
+						"h": 589
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 449,
+						"h": 589
+					},
+					"frame": {
+						"x": 1565,
+						"y": 963,
+						"w": 449,
+						"h": 589
+					}
+				},
+				{
+					"filename": "fgMiddle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1513,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1513,
+						"h": 290
+					},
+					"frame": {
+						"x": 1,
+						"y": 1477,
+						"w": 1513,
+						"h": 290
+					}
+				},
+				{
+					"filename": "balloonSignArrow0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1516,
+						"y": 1554,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1516,
+						"y": 1554,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "soda",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 168
+					},
+					"frame": {
+						"x": 1841,
+						"y": 1554,
+						"w": 144,
+						"h": 168
+					}
+				},
+				{
+					"filename": "bales",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 157
+					},
+					"frame": {
+						"x": 1841,
+						"y": 1724,
+						"w": 140,
+						"h": 157
+					}
+				},
+				{
+					"filename": "balloons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 336
+					},
+					"frame": {
+						"x": 1742,
+						"y": 1,
+						"w": 236,
+						"h": 336
+					}
+				},
+				{
+					"filename": "board02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 295,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 331
+					},
+					"frame": {
+						"x": 1742,
+						"y": 339,
+						"w": 295,
+						"h": 331
+					}
+				},
+				{
+					"filename": "waterSignBG",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 295,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 168
+					},
+					"frame": {
+						"x": 1742,
+						"y": 672,
+						"w": 295,
+						"h": 168
+					}
+				},
+				{
+					"filename": "fgRock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 211,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 211,
+						"h": 119
+					},
+					"frame": {
+						"x": 1742,
+						"y": 842,
+						"w": 211,
+						"h": 119
+					}
+				},
+				{
+					"filename": "lights0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 375,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 375,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 749,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 749,
+						"y": 1769,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "water0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 234
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1769,
+						"w": 347,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 234
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1769,
+						"w": 347,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 234
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1769,
+						"w": 347,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 234
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1769,
+						"w": 347,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 347,
+						"h": 234
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1769,
+						"w": 347,
+						"h": 234
+					}
+				},
+				{
+					"filename": "balloonSignBottom",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 249,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 249,
+						"h": 155
+					},
+					"frame": {
+						"x": 1472,
+						"y": 1867,
+						"w": 249,
+						"h": 155
+					}
+				},
+				{
+					"filename": "bale3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 97
+					},
+					"frame": {
+						"x": 1723,
+						"y": 1867,
+						"w": 115,
+						"h": 97
+					}
+				},
+				{
+					"filename": "bale1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 96
+					},
+					"frame": {
+						"x": 1840,
+						"y": 1883,
+						"w": 115,
+						"h": 96
+					}
+				}
+			]
+		},
+		{
+			"image": "fair-party1-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tramp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 622,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 622,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 622,
+						"h": 422
+					}
+				},
+				{
+					"filename": "balloonSign0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 425,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 425,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 425,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "bale2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 96
+					},
+					"frame": {
+						"x": 423,
+						"y": 425,
+						"w": 115,
+						"h": 96
+					}
+				},
+				{
+					"filename": "balloonSign0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1047,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1047,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1047,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1469,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1469,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1469,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSign0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 467
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 467
+					},
+					"frame": {
+						"x": 1469,
+						"y": 1,
+						"w": 420,
+						"h": 467
+					}
+				},
+				{
+					"filename": "balloonSignBG",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 397
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 397
+					},
+					"frame": {
+						"x": 1,
+						"y": 894,
+						"w": 349,
+						"h": 397
+					}
+				},
+				{
+					"filename": "balloonSignArrow0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1,
+						"y": 1293,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1,
+						"y": 1293,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1,
+						"y": 1606,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1,
+						"y": 1606,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "soakerwords",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 259,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 259,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 1919,
+						"w": 259,
+						"h": 63
+					}
+				},
+				{
+					"filename": "balloonSignText",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 282,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 282,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 1984,
+						"w": 282,
+						"h": 47
+					}
+				},
+				{
+					"filename": "balloonSignArrow0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 326,
+						"y": 1293,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 326,
+						"y": 1293,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 352,
+						"y": 894,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 352,
+						"y": 894,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 423,
+						"y": 523,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 423,
+						"y": 523,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 326,
+						"y": 1606,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 326,
+						"y": 1606,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 651,
+						"y": 1207,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 651,
+						"y": 1207,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 677,
+						"y": 836,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 677,
+						"y": 836,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 748,
+						"y": 470,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 748,
+						"y": 470,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 651,
+						"y": 1520,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 651,
+						"y": 1520,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "lights0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 214
+					},
+					"frame": {
+						"x": 651,
+						"y": 1833,
+						"w": 372,
+						"h": 214
+					}
+				},
+				{
+					"filename": "lights0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 214
+					},
+					"frame": {
+						"x": 651,
+						"y": 1833,
+						"w": 372,
+						"h": 214
+					}
+				},
+				{
+					"filename": "balloonSignArrow0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 976,
+						"y": 1149,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 976,
+						"y": 1149,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1002,
+						"y": 783,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1002,
+						"y": 783,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1073,
+						"y": 470,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1073,
+						"y": 470,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 976,
+						"y": 1462,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 976,
+						"y": 1462,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "lights0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1025,
+						"y": 1775,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1025,
+						"y": 1775,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "balloonSignArrow0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1301,
+						"y": 1096,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1301,
+						"y": 1096,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1327,
+						"y": 783,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1327,
+						"y": 783,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1398,
+						"y": 470,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1398,
+						"y": 470,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1301,
+						"y": 1409,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1301,
+						"y": 1409,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "balloonSignArrow0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 323,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 323,
+						"h": 311
+					},
+					"frame": {
+						"x": 1399,
+						"y": 1722,
+						"w": 323,
+						"h": 311
+					}
+				},
+				{
+					"filename": "lights0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1096,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1096,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1652,
+						"y": 783,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1652,
+						"y": 783,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "water0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 0,
+						"w": 321,
+						"h": 234
+					},
+					"frame": {
+						"x": 1723,
+						"y": 470,
+						"w": 321,
+						"h": 234
+					}
+				},
+				{
+					"filename": "lights0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1313,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1313,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "water0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 320,
+						"h": 234
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1530,
+						"w": 320,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 312,
+						"h": 234
+					},
+					"frame": {
+						"x": 1724,
+						"y": 1766,
+						"w": 312,
+						"h": 234
+					}
+				}
+			]
+		},
+		{
+			"image": "fair-party1-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1860,
+				"h": 1850
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lights0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 375,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 375,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 749,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 749,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "water0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 338,
+						"h": 234
+					},
+					"frame": {
+						"x": 1497,
+						"y": 1,
+						"w": 338,
+						"h": 234
+					}
+				},
+				{
+					"filename": "lights0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 375,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 375,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 749,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 749,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1123,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lights0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 215
+					},
+					"frame": {
+						"x": 1123,
+						"y": 218,
+						"w": 372,
+						"h": 215
+					}
+				},
+				{
+					"filename": "water0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 330,
+						"h": 234
+					},
+					"frame": {
+						"x": 1497,
+						"y": 237,
+						"w": 330,
+						"h": 234
+					}
+				},
+				{
+					"filename": "lights0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 435,
+						"w": 372,
+						"h": 213
+					}
+				},
+				{
+					"filename": "lights0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 435,
+						"w": 372,
+						"h": 213
+					}
+				},
+				{
+					"filename": "water0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 311,
+						"h": 234
+					},
+					"frame": {
+						"x": 375,
+						"y": 435,
+						"w": 311,
+						"h": 234
+					}
+				},
+				{
+					"filename": "waterBG",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 309,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 308,
+						"h": 236
+					},
+					"frame": {
+						"x": 1,
+						"y": 650,
+						"w": 308,
+						"h": 236
+					}
+				},
+				{
+					"filename": "water0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 688,
+						"y": 435,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 998,
+						"y": 435,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1308,
+						"y": 473,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 311,
+						"y": 671,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 888,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 621,
+						"y": 671,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 931,
+						"y": 671,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1241,
+						"y": 709,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1551,
+						"y": 709,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 1124,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 1360,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 1596,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 311,
+						"y": 907,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 621,
+						"y": 907,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 931,
+						"y": 907,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1241,
+						"y": 945,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1551,
+						"y": 945,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 311,
+						"y": 1181,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 311,
+						"y": 1417,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 621,
+						"y": 1143,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 931,
+						"y": 1143,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 621,
+						"y": 1379,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 621,
+						"y": 1615,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 931,
+						"y": 1379,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 931,
+						"y": 1615,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1241,
+						"y": 1181,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1181,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1241,
+						"y": 1417,
+						"w": 308,
+						"h": 234
+					}
+				},
+				{
+					"filename": "water0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 359,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 0,
+						"w": 308,
+						"h": 234
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1417,
+						"w": 308,
+						"h": 234
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:af11c421221f95ee3d9d320a3f3ac467:ef2112b6460fcdd38b0dc6ed8042a823:d9e0c2d54df5344a2e331dbad04c94d8$"
+	}
+}

@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/newspaper/nineteenth edition/issue19-luciasixx.png",
+                "type": "image",
+                "key": "issue19-luciasixx"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/nineteenth edition/issue19-scorn.png",
+                "type": "image",
+                "key": "issue19-scorn"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/nineteenth edition/issue19-tiggyz.png",
+                "type": "image",
+                "key": "issue19-tiggyz"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/_buttons-v2/newspaper-buttons-v2.json",
+                "path": "assets/media/interface/game/newspaper/_buttons-v2",
+                "key": "newspaper-buttons-v2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/nineteenth edition/nineteenth-edition.json",
+                "path": "assets/media/interface/game/newspaper/nineteenth edition",
+                "key": "nineteenth-edition"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

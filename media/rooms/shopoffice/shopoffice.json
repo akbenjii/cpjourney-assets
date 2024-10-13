@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "shopoffice-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2009,
+				"h": 1227
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1605,
+						"h": 1067
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1605,
+						"h": 1067
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1605,
+						"h": 1067
+					}
+				},
+				{
+					"filename": "rooftopdoor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 610
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 610
+					},
+					"frame": {
+						"x": 1608,
+						"y": 1,
+						"w": 162,
+						"h": 610
+					}
+				},
+				{
+					"filename": "couch",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 303,
+						"h": 399
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 303,
+						"h": 399
+					},
+					"frame": {
+						"x": 1608,
+						"y": 613,
+						"w": 303,
+						"h": 399
+					}
+				},
+				{
+					"filename": "desk",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 212
+					},
+					"frame": {
+						"x": 1608,
+						"y": 1014,
+						"w": 277,
+						"h": 212
+					}
+				},
+				{
+					"filename": "cornerbox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 205
+					},
+					"frame": {
+						"x": 1887,
+						"y": 1014,
+						"w": 96,
+						"h": 205
+					}
+				},
+				{
+					"filename": "coatrack",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 261
+					},
+					"frame": {
+						"x": 1772,
+						"y": 1,
+						"w": 154,
+						"h": 261
+					}
+				},
+				{
+					"filename": "nightstand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 249
+					},
+					"frame": {
+						"x": 1772,
+						"y": 264,
+						"w": 162,
+						"h": 249
+					}
+				},
+				{
+					"filename": "jesterhat0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 145,
+						"h": 87
+					},
+					"frame": {
+						"x": 1772,
+						"y": 515,
+						"w": 145,
+						"h": 87
+					}
+				},
+				{
+					"filename": "recycle0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 16,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 1928,
+						"y": 1,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "recycle0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 16,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 1928,
+						"y": 74,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "recycle0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 16,
+						"w": 67,
+						"h": 71
+					},
+					"frame": {
+						"x": 1928,
+						"y": 147,
+						"w": 67,
+						"h": 71
+					}
+				},
+				{
+					"filename": "ommie",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 91
+					},
+					"frame": {
+						"x": 1913,
+						"y": 604,
+						"w": 93,
+						"h": 91
+					}
+				},
+				{
+					"filename": "recycle0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 87
+					},
+					"frame": {
+						"x": 1919,
+						"y": 515,
+						"w": 82,
+						"h": 87
+					}
+				},
+				{
+					"filename": "computerscreen0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 79
+					},
+					"frame": {
+						"x": 1913,
+						"y": 697,
+						"w": 95,
+						"h": 79
+					}
+				},
+				{
+					"filename": "computerscreen0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 79
+					},
+					"frame": {
+						"x": 1913,
+						"y": 778,
+						"w": 95,
+						"h": 79
+					}
+				},
+				{
+					"filename": "chair_arm",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 53,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 47
+					},
+					"frame": {
+						"x": 1913,
+						"y": 859,
+						"w": 53,
+						"h": 47
+					}
+				},
+				{
+					"filename": "jesterhat0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 10,
+						"w": 138,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 1070,
+						"w": 138,
+						"h": 95
+					}
+				},
+				{
+					"filename": "jesterhat0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 137,
+						"h": 92
+					},
+					"frame": {
+						"x": 141,
+						"y": 1070,
+						"w": 137,
+						"h": 92
+					}
+				},
+				{
+					"filename": "coucharm",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 131,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 131,
+						"h": 137
+					},
+					"frame": {
+						"x": 280,
+						"y": 1070,
+						"w": 131,
+						"h": 137
+					}
+				},
+				{
+					"filename": "chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 148
+					},
+					"frame": {
+						"x": 413,
+						"y": 1070,
+						"w": 130,
+						"h": 148
+					}
+				},
+				{
+					"filename": "jesterhat0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 120,
+						"h": 93
+					},
+					"frame": {
+						"x": 545,
+						"y": 1070,
+						"w": 120,
+						"h": 93
+					}
+				},
+				{
+					"filename": "jesterhat0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 13,
+						"w": 119,
+						"h": 87
+					},
+					"frame": {
+						"x": 667,
+						"y": 1070,
+						"w": 119,
+						"h": 87
+					}
+				},
+				{
+					"filename": "jesterhat0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 13,
+						"w": 119,
+						"h": 87
+					},
+					"frame": {
+						"x": 667,
+						"y": 1070,
+						"w": 119,
+						"h": 87
+					}
+				},
+				{
+					"filename": "jesterhat0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 16,
+						"w": 118,
+						"h": 90
+					},
+					"frame": {
+						"x": 788,
+						"y": 1070,
+						"w": 118,
+						"h": 90
+					}
+				},
+				{
+					"filename": "chair_back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 113
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 116,
+						"h": 113
+					},
+					"frame": {
+						"x": 908,
+						"y": 1070,
+						"w": 116,
+						"h": 113
+					}
+				},
+				{
+					"filename": "jesterhat0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 14,
+						"w": 111,
+						"h": 90
+					},
+					"frame": {
+						"x": 1026,
+						"y": 1070,
+						"w": 111,
+						"h": 90
+					}
+				},
+				{
+					"filename": "jesterhat0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 10,
+						"w": 111,
+						"h": 88
+					},
+					"frame": {
+						"x": 1139,
+						"y": 1070,
+						"w": 111,
+						"h": 88
+					}
+				},
+				{
+					"filename": "jesterhat0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 11,
+						"w": 111,
+						"h": 88
+					},
+					"frame": {
+						"x": 1252,
+						"y": 1070,
+						"w": 111,
+						"h": 88
+					}
+				},
+				{
+					"filename": "jesterhat0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 6,
+						"w": 109,
+						"h": 87
+					},
+					"frame": {
+						"x": 1365,
+						"y": 1070,
+						"w": 109,
+						"h": 87
+					}
+				},
+				{
+					"filename": "jesterhat0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 3,
+						"w": 101,
+						"h": 90
+					},
+					"frame": {
+						"x": 1476,
+						"y": 1070,
+						"w": 101,
+						"h": 90
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:40cc464db5bdf0bbaa67ded2856fc1be:2da8643c2d3d2008ea2922356e6e774b:dfef62c63cbf31e6d2be48aa79ef36cb$"
+	}
+}

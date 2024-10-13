@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/psaquest/main_gear.png",
+                "type": "image",
+                "key": "main_gear"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/psaquest/psaquest.json",
+                "path": "assets/media/interface/game/psaquest",
+                "key": "psaquest"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

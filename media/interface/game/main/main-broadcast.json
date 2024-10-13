@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "main-broadcast.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1638,
+				"h": 274
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "community",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 135
+					}
+				},
+				{
+					"filename": "developer",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 138,
+						"w": 1520,
+						"h": 135
+					}
+				},
+				{
+					"filename": "blue-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "blue-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1581,
+						"y": 1,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "orange-button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1523,
+						"y": 59,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "orange-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1581,
+						"y": 59,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "orange-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1523,
+						"y": 117,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "blue-x",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1581,
+						"y": 117,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "orange-x",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1581,
+						"y": 151,
+						"w": 32,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e670b2fac6054035e899f4f7bcc66c2b:69675ec2520e4aec04414319b9359555:abe14f22b5daa8e57fccfcd5ec2d6aa1$"
+	}
+}

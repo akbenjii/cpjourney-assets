@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "boiler-archivesbtn-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 98,
+				"h": 211
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "archivesbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 96,
+						"h": 108
+					}
+				},
+				{
+					"filename": "archivesbtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 96,
+						"h": 99
+					},
+					"frame": {
+						"x": 1,
+						"y": 111,
+						"w": 96,
+						"h": 99
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:05a0be12143c9660ae6c389681100175:be9024dce0c85d6a074a8521a8214032:7eb4b37385e1fb05e7dddb98f6f9d894$"
+	}
+}

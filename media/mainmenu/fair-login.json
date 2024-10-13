@@ -1,0 +1,94 @@
+{
+	"textures": [
+		{
+			"image": "fair-login-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1319,
+				"h": 1555
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 25,
+						"w": 1317,
+						"h": 783
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1317,
+						"h": 783
+					}
+				},
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 40,
+						"w": 1270,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 786,
+						"w": 1270,
+						"h": 768
+					}
+				}
+			]
+		},
+		{
+			"image": "fair-login-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1272,
+				"h": 770
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 40,
+						"w": 1270,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1270,
+						"h": 768
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:10ae9792bedfe39d11c9b5f86f26d8ac:ef3a45f70316b883c8ae0654c3984236:840fb6d2d8de075b72a1695c4fb1ec65$"
+	}
+}

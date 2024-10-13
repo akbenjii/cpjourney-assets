@@ -1,0 +1,97 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/boulder.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/boulder"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/arm1.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/arm1"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/arm2.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/arm2"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/crunch.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/crunch"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/flowerbloom.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/flowerbloom"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/flowerpop.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/flowerpop"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/leg1.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/leg1"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/leg2.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/leg2"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/normanswarm/rustle.mp3"
+                ],
+                "type": "audio",
+                "key": "normanswarm/rustle"
+            },
+            {
+                "url": "assets/media/rooms/stage/normanswarm/previeeieieieiei.png",
+                "type": "image",
+                "key": "previeeieieieiei"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/normanswarm/stage-normanswarm.json",
+                "path": "assets/media/rooms/stage/normanswarm",
+                "key": "stage-normanswarm"
+            },
+            {
+                "url": "assets/media/rooms/stage/normanswarm/stage-normanswarm-anims.json",
+                "type": "animation",
+                "key": "stage-normanswarm-anims"
+            },
+            {
+                "url": "assets/media/rooms/stage/normanswarm/stage-normanswarm-physics.json",
+                "type": "json",
+                "key": "stage-normanswarm-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/maroonlagoon/boat-effects.json",
+                "path": "assets/media/rooms/_fair/maroonlagoon",
+                "key": "boat-effects"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/maroonlagoon/maroon-lagoon.json",
+                "path": "assets/media/rooms/_fair/maroonlagoon",
+                "key": "maroon-lagoon"
+            },
+            {
+                "url": "assets/media/rooms/_fair/maroonlagoon/marooned-lagoon-physics.json",
+                "type": "json",
+                "key": "marooned-lagoon-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

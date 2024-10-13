@@ -1,0 +1,57 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/buccaneerboats/buccaneerboats.json",
+                "path": "assets/media/rooms/_fair/buccaneerboats",
+                "key": "buccaneerboats"
+            },
+            {
+                "url": "assets/media/rooms/_fair/buccaneerboats/buccaneerboats-anims.json",
+                "type": "animation",
+                "key": "buccaneerboats-anims"
+            },
+            {
+                "url": "assets/media/rooms/_fair/buccaneerboats/buccaneerboats-physics.json",
+                "type": "json",
+                "key": "buccaneerboats-physics"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/buccaneerboats/buccboats-cannon.mp3"
+                ],
+                "type": "audio",
+                "key": "buccboats-cannon"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/buccaneerboats/buccboats-hit.mp3"
+                ],
+                "type": "audio",
+                "key": "buccboats-hit"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/buccaneerboats/buccboats-popdown.mp3"
+                ],
+                "type": "audio",
+                "key": "buccboats-popdown"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/buccaneerboats/buccboats-popup.mp3"
+                ],
+                "type": "audio",
+                "key": "buccboats-popup"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

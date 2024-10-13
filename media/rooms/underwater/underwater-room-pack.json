@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/underwater/underwater-physics.json",
+                "type": "json",
+                "key": "underwater-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/underwater/underwater-room.json",
+                "path": "assets/media/rooms/underwater",
+                "key": "underwater-room"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

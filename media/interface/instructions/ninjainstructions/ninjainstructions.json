@@ -1,0 +1,120 @@
+{
+	"textures": [
+		{
+			"image": "ninjainstructions-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 528,
+				"h": 896
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 526,
+						"h": 836
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 526,
+						"h": 836
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 526,
+						"h": 836
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "close-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "close-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7ce9248caba98f92f56f452ee3ef551e:7d39375db6841a704cb0ef71d8385ee1:c4a29900af4161c99adb6b4765f95333$"
+	}
+}

@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "newboiler.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 507,
+				"h": 1055
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "copper",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 283,
+						"h": 542
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 283,
+						"h": 542
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 283,
+						"h": 542
+					}
+				},
+				{
+					"filename": "top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 509
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 509
+					},
+					"frame": {
+						"x": 1,
+						"y": 545,
+						"w": 188,
+						"h": 509
+					}
+				},
+				{
+					"filename": "main",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 347
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 220,
+						"h": 347
+					},
+					"frame": {
+						"x": 286,
+						"y": 1,
+						"w": 220,
+						"h": 347
+					}
+				},
+				{
+					"filename": "tubes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 218,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 218,
+						"h": 274
+					},
+					"frame": {
+						"x": 286,
+						"y": 350,
+						"w": 218,
+						"h": 274
+					}
+				},
+				{
+					"filename": "main-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 347
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 347
+					},
+					"frame": {
+						"x": 191,
+						"y": 626,
+						"w": 224,
+						"h": 347
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d1fa55f1c38412879a3f812a24bd6a27:573f384b79027e8656a58125b7e805a9:14aff19a855af6d0ffb7c24d1fe6cb98$"
+	}
+}

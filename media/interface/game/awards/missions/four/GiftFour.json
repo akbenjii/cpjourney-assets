@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "GiftFour-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 989,
+				"h": 797
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "award_q4_gift",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 987,
+						"h": 737
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 987,
+						"h": 737
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 987,
+						"h": 737
+					}
+				},
+				{
+					"filename": "button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 740,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 740,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 740,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:435e1252934022afd33ee6c09e075225:e369cadfb514ce07e031713ae80a9698:5341727b3d77ecdbccde4786a6d4c503$"
+	}
+}

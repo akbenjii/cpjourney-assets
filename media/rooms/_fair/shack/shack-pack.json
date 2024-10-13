@@ -1,0 +1,77 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/plaza/fair_plaza.json",
+                "path": "assets/media/rooms/_fair/plaza",
+                "key": "fair_plaza"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/town/fair-town.json",
+                "path": "assets/media/rooms/_fair/town",
+                "key": "fair-town"
+            },
+            {
+                "url": "assets/media/rooms/shack/free.png",
+                "type": "image",
+                "key": "free"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shack/shack.json",
+                "path": "assets/media/rooms/shack/",
+                "key": "shack"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shack/shack-bg.json",
+                "path": "assets/media/rooms/shack",
+                "key": "shack-bg"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shack/shack-flowend.json",
+                "path": "assets/media/rooms/shack",
+                "key": "shack-flowend"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shack/shack-harvest.json",
+                "path": "assets/media/rooms/shack",
+                "key": "shack-harvest"
+            },
+            {
+                "url": "assets/media/rooms/shack/shack-physics.json",
+                "type": "json",
+                "key": "shack-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shack/shack-plants.json",
+                "path": "assets/media/rooms/shack",
+                "key": "shack-plants"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shack/shack-plantsbad.json",
+                "path": "assets/media/rooms/shack",
+                "key": "shack-plantsbad"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shack/shack-waterspray.json",
+                "path": "assets/media/rooms/shack",
+                "key": "shack-waterspray"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

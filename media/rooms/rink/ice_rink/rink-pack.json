@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/rink/ice_rink/rink.json",
+                "path": "assets/media/rooms/rink/ice_rink",
+                "key": "rink_ice"
+            },
+            {
+                "url": "assets/media/rooms/rink/ice_rink/rink-physics.json",
+                "type": "json",
+                "key": "rink-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

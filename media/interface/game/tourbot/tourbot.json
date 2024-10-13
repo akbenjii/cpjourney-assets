@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "tourbot.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1915,
+				"h": 747
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tourbot-bubble",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1166,
+						"h": 378
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1166,
+						"h": 378
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1166,
+						"h": 378
+					}
+				},
+				{
+					"filename": "tourbot-bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 745,
+						"h": 714
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 745,
+						"h": 714
+					},
+					"frame": {
+						"x": 1169,
+						"y": 1,
+						"w": 745,
+						"h": 714
+					}
+				},
+				{
+					"filename": "tourbot-optionbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 903,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 903,
+						"h": 256
+					},
+					"frame": {
+						"x": 1,
+						"y": 381,
+						"w": 903,
+						"h": 256
+					}
+				},
+				{
+					"filename": "tourbot-option-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 866,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 866,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 639,
+						"w": 866,
+						"h": 53
+					}
+				},
+				{
+					"filename": "tourbot-option",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 866,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 866,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 694,
+						"w": 866,
+						"h": 52
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:08cea8977d2cb11712f5a6c740e22028:a4000019bf6f2d5b2b7c63bfc61f4b4e:443e113ea4b58618f3e2e05ada1d236e$"
+	}
+}

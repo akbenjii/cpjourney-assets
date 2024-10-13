@@ -1,0 +1,66 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/spacesquid/fair-spacesquid.json",
+                "path": "assets/media/rooms/_fair/spacesquid",
+                "key": "fair-spacesquid"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/spacesquid/spacesquid-coasterrun1.mp3"
+                ],
+                "type": "audio",
+                "key": "spacesquid-coasterrun1"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/spacesquid/spacesquid-coasterrun2.mp3"
+                ],
+                "type": "audio",
+                "key": "spacesquid-coasterrun2"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/spacesquid/spacesquid-coasterrun3.mp3"
+                ],
+                "type": "audio",
+                "key": "spacesquid-coasterrun3"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/spacesquid/spacesquid-coasterstart.mp3"
+                ],
+                "type": "audio",
+                "key": "spacesquid-coasterstart"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/spacesquid/spacesquid-fountain.mp3"
+                ],
+                "type": "audio",
+                "key": "spacesquid-fountain"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/_fair/spacesquid/spacesquid-gun.mp3"
+                ],
+                "type": "audio",
+                "key": "spacesquid-gun"
+            },
+            {
+                "url": "assets/media/rooms/_fair/spacesquid/spacesquid-physics.json",
+                "type": "json",
+                "key": "spacesquid-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/pizza_solo/job_pizza_done.mp3"
+                ],
+                "type": "audio",
+                "key": "job_pizza_done"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/pizza_solo/next.mp3"
+                ],
+                "type": "audio",
+                "key": "next"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/pizza_solo/order_bell.mp3"
+                ],
+                "type": "audio",
+                "key": "order_bell"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/pizza_solo/pizza_solo.json",
+                "path": "assets/media/rooms/pizza_solo",
+                "key": "pizza_solo"
+            },
+            {
+                "url": "assets/media/rooms/pizza_solo/pizza_solo-anims.json",
+                "type": "animation",
+                "key": "pizza_solo-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/pizza_solo/pizza_solo-job.json",
+                "path": "assets/media/rooms/pizza_solo",
+                "key": "pizza_solo-job"
+            },
+            {
+                "url": "assets/media/rooms/pizza_solo/pizza_solo-physics.json",
+                "type": "json",
+                "key": "pizza_solo-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/pizza_solo/pizza_tutorial.json",
+                "path": "assets/media/rooms/pizza_solo",
+                "key": "pizza_tutorial"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "main-broadcast-slenderin-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 218,
+				"h": 210
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "slenderinIcon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 216,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 216,
+						"h": 208
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 216,
+						"h": 208
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0a098de43f4e85749900b6b45e23e751:34a81a046a7a00416dbc1cfa7e7021ba:711417d761679f103b28225486826e74$"
+	}
+}

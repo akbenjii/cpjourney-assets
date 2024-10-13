@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/partyquests/generic.png",
+                "type": "image",
+                "key": "generic"
+            },
+            {
+                "url": "assets/media/interface/game/partyquests/gradient_overlay.png",
+                "type": "image",
+                "key": "gradient_overlay"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/partyquests/partyquests.json",
+                "path": "assets/media/interface/game/partyquests",
+                "key": "partyquests"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

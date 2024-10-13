@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "mpop.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 632,
+				"h": 230
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mod_bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 578,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 578,
+						"h": 228
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 578,
+						"h": 228
+					}
+				},
+				{
+					"filename": "clock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 47
+					},
+					"frame": {
+						"x": 581,
+						"y": 1,
+						"w": 50,
+						"h": 47
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4f1456a1d5b2b058a6fb25adf95ca163:4ba65a8d3b07a440f787d12cef62fb37:d6780a46229fc68ee5560de21effb3c5$"
+	}
+}

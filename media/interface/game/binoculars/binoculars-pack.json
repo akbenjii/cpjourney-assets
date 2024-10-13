@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/binoculars/binocular-animations.json",
+                "type": "animation",
+                "key": "binocular-animations"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/binoculars/binoculars_voyager.json",
+                "path": "assets/media/interface/game/binoculars",
+                "key": "binoculars_voyager"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/binoculars/binoculars-cove.json",
+                "path": "assets/media/interface/game/binoculars",
+                "key": "binoculars-cove"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,115 @@
+{
+	"textures": [
+		{
+			"image": "medieval-login-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1272,
+				"h": 1845
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "carouselitem1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 40,
+						"w": 1270,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1270,
+						"h": 768
+					}
+				},
+				{
+					"filename": "carouselitem2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 40,
+						"w": 1270,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 771,
+						"w": 1270,
+						"h": 768
+					}
+				},
+				{
+					"filename": "splash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 303
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 303
+					},
+					"frame": {
+						"x": 1,
+						"y": 1541,
+						"w": 429,
+						"h": 303
+					}
+				}
+			]
+		},
+		{
+			"image": "medieval-login-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1272,
+				"h": 770
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "carouselitem3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 40,
+						"w": 1270,
+						"h": 768
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1270,
+						"h": 768
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ce540186a7572449f342e4a7f5c35dc1:6e15952f0672d5572d067d64024fe958:e58e1d939797358656ca3a14d63eeb8b$"
+	}
+}

@@ -1,0 +1,31 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/telescope/rh/comingfar/comingfar.json",
+                "path": "assets/media/interface/game/telescope/rh/comingfar",
+                "key": "comingfar"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/telescope/rh/rockhopper.json",
+                "path": "assets/media/interface/game/telescope/rh",
+                "key": "rockhopper"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/telescope/telescope.json",
+                "path": "assets/media/interface/game/telescope",
+                "key": "telescope"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

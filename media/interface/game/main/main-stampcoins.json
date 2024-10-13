@@ -1,0 +1,2383 @@
+{
+	"textures": [
+		{
+			"image": "main-stampcoins-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1988,
+				"h": 2002
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "earnStamps",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 735,
+						"h": 694
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 684,
+						"h": 694
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 684,
+						"h": 694
+					}
+				},
+				{
+					"filename": "earnbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 568,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 568,
+						"h": 178
+					},
+					"frame": {
+						"x": 687,
+						"y": 1,
+						"w": 568,
+						"h": 178
+					}
+				},
+				{
+					"filename": "earnbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 568,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 568,
+						"h": 178
+					},
+					"frame": {
+						"x": 1257,
+						"y": 1,
+						"w": 568,
+						"h": 178
+					}
+				},
+				{
+					"filename": "stampIcon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 76
+					},
+					"frame": {
+						"x": 1827,
+						"y": 1,
+						"w": 76,
+						"h": 76
+					}
+				},
+				{
+					"filename": "coinsx2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 72
+					},
+					"frame": {
+						"x": 1905,
+						"y": 1,
+						"w": 68,
+						"h": 72
+					}
+				},
+				{
+					"filename": "coins",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 65,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 65,
+						"h": 69
+					},
+					"frame": {
+						"x": 1905,
+						"y": 75,
+						"w": 65,
+						"h": 69
+					}
+				},
+				{
+					"filename": "earnbtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 568,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 568,
+						"h": 178
+					},
+					"frame": {
+						"x": 687,
+						"y": 181,
+						"w": 568,
+						"h": 178
+					}
+				},
+				{
+					"filename": "stampListView0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 506,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 506,
+						"h": 184
+					},
+					"frame": {
+						"x": 1257,
+						"y": 181,
+						"w": 506,
+						"h": 184
+					}
+				},
+				{
+					"filename": "stampListView0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 506,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 0,
+						"w": 385,
+						"h": 190
+					},
+					"frame": {
+						"x": 687,
+						"y": 361,
+						"w": 385,
+						"h": 190
+					}
+				},
+				{
+					"filename": "stampListView0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 506,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 5,
+						"w": 280,
+						"h": 177
+					},
+					"frame": {
+						"x": 1074,
+						"y": 367,
+						"w": 280,
+						"h": 177
+					}
+				},
+				{
+					"filename": "earnbtncontent",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 452,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 442,
+						"h": 100
+					},
+					"frame": {
+						"x": 1356,
+						"y": 367,
+						"w": 442,
+						"h": 100
+					}
+				},
+				{
+					"filename": "progress0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1356,
+						"y": 469,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1356,
+						"y": 527,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 687,
+						"y": 553,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1184,
+						"y": 585,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 687,
+						"y": 611,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1184,
+						"y": 643,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 687,
+						"y": 669,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 697,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1184,
+						"y": 701,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 727,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 755,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 759,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 785,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 813,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 759,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 817,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 843,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 871,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 817,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 875,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 901,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 929,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 875,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 933,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 959,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 987,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 933,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 991,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1017,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1045,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 991,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1049,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1075,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1103,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1049,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1107,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1133,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1161,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1107,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0040",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1165,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0041",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1191,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0042",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1219,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0043",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1165,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0044",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1223,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0045",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1249,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0046",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1277,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0047",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1223,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0048",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1281,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0049",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1307,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0050",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1335,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0051",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1281,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0052",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1339,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0053",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1365,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0054",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1393,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0055",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1339,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0056",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1397,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0057",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1423,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0058",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1451,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0059",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1397,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0060",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1455,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0061",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1481,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0062",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1509,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0063",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1455,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0064",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1513,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0065",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1539,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0066",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1567,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0067",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1513,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0068",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1571,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0069",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1597,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0070",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1625,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0071",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1571,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0072",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1629,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0073",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1655,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0074",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1683,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0075",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1629,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0076",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1687,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0077",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1713,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0078",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1741,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0079",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1687,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0080",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1745,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0081",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1771,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0082",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1799,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0083",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1745,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0084",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1803,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0085",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1829,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0086",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1857,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0087",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1803,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0088",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1861,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0089",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1887,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0090",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1915,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0091",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1861,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0092",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 995,
+						"y": 1919,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0093",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 498,
+						"y": 1945,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0094",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1492,
+						"y": 1919,
+						"w": 495,
+						"h": 56
+					}
+				}
+			]
+		},
+		{
+			"image": "main-stampcoins-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 497,
+				"h": 406
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "progress0095",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0096",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 59,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0097",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 117,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0098",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 175,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0099",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 233,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0100",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 291,
+						"w": 495,
+						"h": 56
+					}
+				},
+				{
+					"filename": "progress0101",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 349,
+						"w": 495,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:57cb65605b68ab02be5e3f38cd44bf4b:cb8daee9d8d77f66666d0f7888acb9e6:d21898f58ed6784ba113f3d157b9ebcb$"
+	}
+}

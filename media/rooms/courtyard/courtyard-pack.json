@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/courtyard/cj-courtyard.json",
+                "path": "assets/media/rooms/courtyard",
+                "key": "cj-courtyard"
+            },
+            {
+                "url": "assets/media/rooms/courtyard/courtyard-anims.json",
+                "type": "animation",
+                "key": "courtyard-anims"
+            },
+            {
+                "url": "assets/media/rooms/courtyard/courtyard-physics.json",
+                "type": "json",
+                "key": "courtyard-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

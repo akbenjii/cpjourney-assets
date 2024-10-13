@@ -1,0 +1,89 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"plaza": {
+		"type": "fromPhysicsEditor",
+		"label": "plaza",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":124, "y":727 }, { "x":199, "y":654 }, { "x":189, "y":590 }, { "x":99, "y":629 } ]
+				]
+			}
+		]
+	},
+	"costume": {
+		"type": "fromPhysicsEditor",
+		"label": "costume",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1250, "y":539 }, { "x":1245, "y":615 }, { "x":1347, "y":702 }, { "x":1377, "y":704 }, { "x":1434, "y":644 }, { "x":1305, "y":522 } ]
+				]
+			}
+		]
+	},
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1268, "y":569 }, { "x":1354, "y":672 }, { "x":1464, "y":387 }, { "x":1346, "y":415 } ],
+					[ { "x":576, "y":388 }, { "x":944, "y":384 }, { "x":911, "y":318 }, { "x":606, "y":305 } ],
+					[ { "x":329, "y":307 }, { "x":420, "y":304 }, { "x":281, "y":275 } ],
+					[ { "x":197, "y":562 }, { "x":191, "y":413 }, { "x":172, "y":395 }, { "x":29, "y":373 }, { "x":63, "y":774 } ],
+					[ { "x":1192, "y":317 }, { "x":1257, "y":242 }, { "x":-7, "y":-12 }, { "x":212, "y":243 }, { "x":281, "y":275 }, { "x":606, "y":305 }, { "x":911, "y":318 } ],
+					[ { "x":1359, "y":760 }, { "x":1513, "y":963 }, { "x":1526, "y":963 }, { "x":1531, "y":402 }, { "x":1464, "y":387 }, { "x":1354, "y":672 } ],
+					[ { "x":4, "y":958 }, { "x":63, "y":774 }, { "x":29, "y":373 }, { "x":-3, "y":290 } ],
+					[ { "x":72, "y":261 }, { "x":114, "y":235 }, { "x":-7, "y":-12 }, { "x":50, "y":265 } ],
+					[ { "x":420, "y":304 }, { "x":606, "y":305 }, { "x":281, "y":275 } ],
+					[ { "x":29, "y":373 }, { "x":50, "y":265 }, { "x":-7, "y":-12 }, { "x":-3, "y":290 } ],
+					[ { "x":114, "y":235 }, { "x":212, "y":243 }, { "x":-7, "y":-12 } ],
+					[ { "x":-7, "y":-12 }, { "x":1257, "y":242 }, { "x":1327, "y":238 }, { "x":1533, "y":-11 } ],
+					[ { "x":1327, "y":238 }, { "x":1479, "y":271 }, { "x":1533, "y":-11 } ],
+					[ { "x":1533, "y":-11 }, { "x":1479, "y":271 }, { "x":1479, "y":332 }, { "x":1531, "y":402 }, { "x":1537, "y":322 } ],
+					[ { "x":1479, "y":332 }, { "x":1464, "y":387 }, { "x":1531, "y":402 } ]
+				]
+			}
+		]
+	}
+}

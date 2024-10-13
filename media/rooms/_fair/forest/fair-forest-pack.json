@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/forest/fair-forest.json",
+                "path": "assets/media/rooms/_fair/forest",
+                "key": "fair-forest"
+            },
+            {
+                "url": "assets/media/rooms/_fair/forest/fair-forest-anims.json",
+                "type": "animation",
+                "key": "fair-forest-anims"
+            },
+            {
+                "url": "assets/media/rooms/_fair/coaster/forest_tracks.webp",
+                "type": "image",
+                "key": "forest_tracks"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

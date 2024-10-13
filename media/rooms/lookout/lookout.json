@@ -1,0 +1,2120 @@
+{
+	"textures": [
+		{
+			"image": "lookout.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1889,
+				"h": 1609
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dome",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1670,
+						"h": 1001
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1670,
+						"h": 1001
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1670,
+						"h": 1001
+					}
+				},
+				{
+					"filename": "background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1607,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1607,
+						"h": 604
+					},
+					"frame": {
+						"x": 1,
+						"y": 1004,
+						"w": 1607,
+						"h": 604
+					}
+				},
+				{
+					"filename": "map-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 71
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1004,
+						"w": 278,
+						"h": 71
+					}
+				},
+				{
+					"filename": "newspaper-pile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 294
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1077,
+						"w": 270,
+						"h": 294
+					}
+				},
+				{
+					"filename": "map-btn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 278,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 265,
+						"h": 70
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1373,
+						"w": 265,
+						"h": 70
+					}
+				},
+				{
+					"filename": "fountain0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1445,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fountain0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1670,
+						"y": 1445,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "club-lights0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1445,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1503,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1503,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "club-lights0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 157,
+						"h": 56
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1503,
+						"w": 157,
+						"h": 56
+					}
+				},
+				{
+					"filename": "forts-flag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 26
+					},
+					"frame": {
+						"x": 1730,
+						"y": 1561,
+						"w": 31,
+						"h": 26
+					}
+				},
+				{
+					"filename": "forts-flag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 29,
+						"h": 26
+					},
+					"frame": {
+						"x": 1763,
+						"y": 1561,
+						"w": 29,
+						"h": 26
+					}
+				},
+				{
+					"filename": "forts-flag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 26
+					},
+					"frame": {
+						"x": 1794,
+						"y": 1561,
+						"w": 28,
+						"h": 26
+					}
+				},
+				{
+					"filename": "forts-flag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 29,
+						"h": 25
+					},
+					"frame": {
+						"x": 1824,
+						"y": 1561,
+						"w": 29,
+						"h": 25
+					}
+				},
+				{
+					"filename": "forts-flag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 31,
+						"h": 22
+					},
+					"frame": {
+						"x": 1855,
+						"y": 1561,
+						"w": 31,
+						"h": 22
+					}
+				},
+				{
+					"filename": "forts-flag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 30,
+						"h": 23
+					},
+					"frame": {
+						"x": 1855,
+						"y": 1585,
+						"w": 30,
+						"h": 23
+					}
+				},
+				{
+					"filename": "club-lights0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "club-lights0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1,
+						"w": 155,
+						"h": 62
+					}
+				},
+				{
+					"filename": "fountain0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1830,
+						"y": 1,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "club-lights0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 151,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 65,
+						"w": 151,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 151,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 65,
+						"w": 151,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 151,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 65,
+						"w": 151,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 151,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 65,
+						"w": 151,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 151,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 65,
+						"w": 151,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "club-lights0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 142,
+						"h": 60
+					},
+					"frame": {
+						"x": 1673,
+						"y": 127,
+						"w": 142,
+						"h": 60
+					}
+				},
+				{
+					"filename": "fountain0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1817,
+						"y": 147,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fountain0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1673,
+						"y": 189,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fountain0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1733,
+						"y": 189,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fountain0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1793,
+						"y": 293,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "forts-flag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 29,
+						"h": 25
+					},
+					"frame": {
+						"x": 1853,
+						"y": 293,
+						"w": 29,
+						"h": 25
+					}
+				},
+				{
+					"filename": "forts-flag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 29,
+						"h": 24
+					},
+					"frame": {
+						"x": 1853,
+						"y": 320,
+						"w": 29,
+						"h": 24
+					}
+				},
+				{
+					"filename": "forts-flag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 29,
+						"h": 23
+					},
+					"frame": {
+						"x": 1853,
+						"y": 346,
+						"w": 29,
+						"h": 23
+					}
+				},
+				{
+					"filename": "forts-flag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 25
+					},
+					"frame": {
+						"x": 1853,
+						"y": 371,
+						"w": 28,
+						"h": 25
+					}
+				},
+				{
+					"filename": "forts-flag0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 28,
+						"h": 25
+					},
+					"frame": {
+						"x": 1853,
+						"y": 398,
+						"w": 28,
+						"h": 25
+					}
+				},
+				{
+					"filename": "forts-flag0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 28,
+						"h": 24
+					},
+					"frame": {
+						"x": 1853,
+						"y": 425,
+						"w": 28,
+						"h": 24
+					}
+				},
+				{
+					"filename": "fountain0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 144
+					},
+					"frame": {
+						"x": 1673,
+						"y": 335,
+						"w": 58,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fountain0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 57,
+						"h": 144
+					},
+					"frame": {
+						"x": 1733,
+						"y": 335,
+						"w": 57,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fountain0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 57,
+						"h": 144
+					},
+					"frame": {
+						"x": 1792,
+						"y": 439,
+						"w": 57,
+						"h": 144
+					}
+				},
+				{
+					"filename": "forts-flag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 27,
+						"h": 23
+					},
+					"frame": {
+						"x": 1851,
+						"y": 451,
+						"w": 27,
+						"h": 23
+					}
+				},
+				{
+					"filename": "forts-flag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 1851,
+						"y": 476,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "fountain0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 55,
+						"h": 144
+					},
+					"frame": {
+						"x": 1673,
+						"y": 481,
+						"w": 55,
+						"h": 144
+					}
+				},
+				{
+					"filename": "fountain0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 55,
+						"h": 144
+					},
+					"frame": {
+						"x": 1730,
+						"y": 481,
+						"w": 55,
+						"h": 144
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:aaaadc39433f28fcfd28418eccbad254:89869680a5ac02ab534ccfd0a125540b:6dd6a2953864cd4c64b0c47fd910b0c2$"
+	}
+}

@@ -1,0 +1,120 @@
+{
+	"textures": [
+		{
+			"image": "ninjabelts-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 528,
+				"h": 896
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 526,
+						"h": 836
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 526,
+						"h": 836
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 526,
+						"h": 836
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "close-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "close-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:79aec89dce06c11f647c1bbc9b7010e5:c51951b83b7a74fd5d3055ff1996d5bc:f3dce7f2ffaa795caa624e6aa137d8ec$"
+	}
+}

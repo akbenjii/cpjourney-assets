@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_mission11/new_hq/mission11-new-hq.json",
+                "path": "assets/media/rooms/_mission11/new_hq",
+                "key": "mission11-new-hq"
+            },
+            {
+                "url": "assets/media/rooms/_mission11/new_hq/mission11-new-hq-anims.json",
+                "type": "animation",
+                "key": "mission11-new-hq-anims"
+            },
+            {
+                "url": "assets/media/rooms/_mission11/new_hq/mission11-new-hq-physics.json",
+                "type": "json",
+                "key": "mission11-new-hq-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_mission11/new_hq/mission11-newhq-chairbomb.json",
+                "path": "assets/media/rooms/_mission11/new_hq",
+                "key": "mission11-newhq-chairbomb"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

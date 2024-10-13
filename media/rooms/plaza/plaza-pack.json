@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/plaza/normanswarmbuilding.json",
+                "path": "assets/media/rooms/plaza",
+                "key": "normanswarmbuilding"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/plaza/plaza.json",
+                "path": "assets/media/rooms/plaza",
+                "key": "plaza"
+            },
+            {
+                "url": "assets/media/rooms/plaza/plaza-physics.json",
+                "type": "json",
+                "key": "plaza-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/plaza/stageplay-signs.json",
+                "path": "assets/media/rooms/plaza",
+                "key": "stageplay-signs"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

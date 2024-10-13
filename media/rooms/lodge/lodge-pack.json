@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/lodge/lodge.json",
+                "path": "assets/media/rooms/lodge/",
+                "key": "lodge"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/lodge/lodge-cuckoo.mp3"
+                ],
+                "type": "audio",
+                "key": "lodge-cuckoo"
+            },
+            {
+                "url": "assets/media/rooms/lodge/lodge-paddlepin.png",
+                "type": "image",
+                "key": "lodge-paddlepin"
+            },
+            {
+                "url": "assets/media/rooms/lodge/lodge-physics.json",
+                "type": "json",
+                "key": "lodge-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

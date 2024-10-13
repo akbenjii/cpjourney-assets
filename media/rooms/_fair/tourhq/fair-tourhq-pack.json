@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/tourhq/fair-tourhq.json",
+                "path": "assets/media/rooms/_fair/tourhq",
+                "key": "fair-tourhq"
+            },
+            {
+                "url": "assets/media/rooms/_fair/tourhq/tourcircusPreview.png",
+                "type": "image",
+                "key": "tourcircusPreview"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

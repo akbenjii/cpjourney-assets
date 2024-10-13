@@ -1,0 +1,42 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/dojo/dig_out_stage_three/dig_out_stage_three.json",
+                "path": "assets/media/rooms/dojo/dig_out_stage_three",
+                "key": "dig_out_stage_three"
+            },
+            {
+                "url": "assets/media/rooms/dojo/dig_out_stage_three/dojo-physics.json",
+                "type": "json",
+                "key": "dojo-physics"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/dojo/dig_out_stage_three/gong_sfx.mp3"
+                ],
+                "type": "audio",
+                "key": "gong_sfx"
+            },
+            {
+                "url": "assets/media/rooms/dojo/dig_out_stage_three/gong-anims.json",
+                "type": "animation",
+                "key": "gong-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/dojo/dig_out_stage_three/lamp.json",
+                "path": "assets/media/rooms/dojo/dig_out_stage_three",
+                "key": "lamp"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

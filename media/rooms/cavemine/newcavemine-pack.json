@@ -1,0 +1,84 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/cavemine/cavemine-anims.json",
+                "type": "animation",
+                "key": "cavemine-anims"
+            },
+            {
+                "url": "assets/media/rooms/cavemine/newcavemine-physics.json",
+                "type": "json",
+                "key": "cavemine-physics"
+            },
+            {
+                "url": "assets/media/rooms/cavemine/lights.png",
+                "type": "image",
+                "key": "lights"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/cavemine/newcavemine.json",
+                "path": "assets/media/rooms/cavemine",
+                "key": "newcavemine"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/cavemine/powerdie.mp3"
+                ],
+                "type": "audio",
+                "key": "powerdie"
+            },
+            {
+                "url": "assets/media/rooms/cavemine/rocks.png",
+                "type": "image",
+                "key": "rocks"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/cavemine/snowball_throw.mp3"
+                ],
+                "type": "audio",
+                "key": "snowball_throw"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/cavemine/sound_116.mp3"
+                ],
+                "type": "audio",
+                "key": "sound_116"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/cavemine/static.mp3"
+                ],
+                "type": "audio",
+                "key": "static"
+            },
+            {
+                "url": "assets/media/rooms/cavemine/top.png",
+                "type": "image",
+                "key": "top"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/cavemine/water.mp3"
+                ],
+                "type": "audio",
+                "key": "water"
+            },
+            {
+                "url": "assets/media/rooms/cavemine/wheels.png",
+                "type": "image",
+                "key": "wheels"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": true
+    }
+}

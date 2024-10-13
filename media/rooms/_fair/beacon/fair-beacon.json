@@ -1,0 +1,682 @@
+{
+	"textures": [
+		{
+			"image": "fair-beacon-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1882,
+				"h": 1759
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1006
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1006
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1006
+					}
+				},
+				{
+					"filename": "foreground",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1318,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1318,
+						"h": 325
+					},
+					"frame": {
+						"x": 1,
+						"y": 1009,
+						"w": 1318,
+						"h": 325
+					}
+				},
+				{
+					"filename": "jetpacksign0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 545,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 545,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 545,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 545,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 545,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "jetpacksign0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 422
+					},
+					"frame": {
+						"x": 545,
+						"y": 1336,
+						"w": 542,
+						"h": 422
+					}
+				},
+				{
+					"filename": "flag3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 313,
+						"h": 624
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 313,
+						"h": 624
+					},
+					"frame": {
+						"x": 1568,
+						"y": 1,
+						"w": 313,
+						"h": 624
+					}
+				},
+				{
+					"filename": "flag4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 283,
+						"h": 630
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 283,
+						"h": 630
+					},
+					"frame": {
+						"x": 1568,
+						"y": 627,
+						"w": 283,
+						"h": 630
+					}
+				},
+				{
+					"filename": "flag1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 292,
+						"h": 253
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 292,
+						"h": 253
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1336,
+						"w": 292,
+						"h": 253
+					}
+				},
+				{
+					"filename": "flag5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 374,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 374,
+						"h": 472
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1259,
+						"w": 374,
+						"h": 472
+					}
+				},
+				{
+					"filename": "stairRailing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 199
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 199
+					},
+					"frame": {
+						"x": 1321,
+						"y": 1009,
+						"w": 144,
+						"h": 199
+					}
+				}
+			]
+		},
+		{
+			"image": "fair-beacon-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1978,
+				"h": 751
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "beaconMid0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 759,
+						"h": 749
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 759,
+						"h": 749
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 759,
+						"h": 749
+					}
+				},
+				{
+					"filename": "beaconMid0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 759,
+						"h": 749
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 759,
+						"h": 749
+					},
+					"frame": {
+						"x": 762,
+						"y": 1,
+						"w": 759,
+						"h": 749
+					}
+				},
+				{
+					"filename": "flag2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 454,
+						"h": 458
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 454,
+						"h": 458
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 454,
+						"h": 458
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b4e78e72f42ca9a3b9878fee8b0ffe2f:6d9da4106f913fdca3a9188d4eae5ff1:17b93852d37e0df93c1b2931170f23c9$"
+	}
+}

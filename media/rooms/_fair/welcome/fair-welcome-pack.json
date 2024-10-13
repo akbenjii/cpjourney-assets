@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/welcome/fair-welcome.json",
+                "path": "assets/media/rooms/_fair/welcome",
+                "key": "fair-welcome"
+            },
+            {
+                "url": "assets/media/rooms/_fair/welcome/fair-welcome-physics.json",
+                "type": "json",
+                "key": "fair-welcome-physics"
+            },
+            {
+                "url": "assets/media/rooms/_fair/welcome/WR fair2024.png",
+                "type": "image",
+                "key": "WR fair2024"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

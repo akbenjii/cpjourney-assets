@@ -1,0 +1,41 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/normanswarm/underground/normanswarm-underground.json",
+                "path": "assets/media/rooms/stage/normanswarm/underground",
+                "key": "normanswarm-underground"
+            },
+            {
+                "url": "assets/media/rooms/stage/normanswarm/underground/normanswarm-underground-physics.json",
+                "type": "json",
+                "key": "normanswarm-underground-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/stage-basic/stage-basic.json",
+                "path": "assets/media/rooms/stage/stage-basic",
+                "key": "stage-basic"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/normanswarm/stage-normanswarm.json",
+                "path": "assets/media/rooms/stage/normanswarm",
+                "key": "stage-normanswarm"
+            },
+            {
+                "url": "assets/media/rooms/stage/normanswarm/underground/stage-underground-anims.json",
+                "type": "animation",
+                "key": "stage-underground-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

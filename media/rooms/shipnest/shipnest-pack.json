@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shipnest/shipnest.json",
+                "path": "assets/media/rooms/shipnest",
+                "key": "shipnest"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shipnest/shipnest_new_bg.json",
+                "path": "assets/media/rooms/shipnest",
+                "key": "shipnest_new_bg"
+            },
+            {
+                "url": "assets/media/rooms/shipnest/shipnest-physics.json",
+                "type": "json",
+                "key": "shipnest-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/sounds/squidzoid-beam.mp3"
+                ],
+                "type": "audio",
+                "key": "squidzoid-beam"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/squidzoid-beepbeep.mp3"
+                ],
+                "type": "audio",
+                "key": "squidzoid-beepbeep"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/squidzoid-thud.mp3"
+                ],
+                "type": "audio",
+                "key": "squidzoid-thud"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/stage-squidzoid/stage-squidzoid.json",
+                "path": "assets/media/rooms/stage/stage-squidzoid",
+                "key": "stage-squidzoid"
+            },
+            {
+                "url": "assets/media/rooms/stage/stage-squidzoid/stage-squidzoid-anims.json",
+                "type": "animation",
+                "key": "stage-squidzoid-anims"
+            },
+            {
+                "url": "assets/media/rooms/stage/stage-squidzoid/stage-squidzoid-physics.json",
+                "type": "json",
+                "key": "stage-squidzoid-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

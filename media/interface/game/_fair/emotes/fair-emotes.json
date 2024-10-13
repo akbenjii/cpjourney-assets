@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "fair-emotes-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 156,
+				"h": 50
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "emotes/42",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 48,
+						"h": 48
+					}
+				},
+				{
+					"filename": "emotes/43",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 44
+					},
+					"frame": {
+						"x": 51,
+						"y": 1,
+						"w": 48,
+						"h": 44
+					}
+				},
+				{
+					"filename": "emotes/44",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 43
+					},
+					"frame": {
+						"x": 101,
+						"y": 1,
+						"w": 54,
+						"h": 43
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:920a587abdc6d624d7a6a7164dae65d9:6f2dea3e4c62b7a00ca6019bc0c24248:74bbad87de65184ba32a9f353a8c784f$"
+	}
+}

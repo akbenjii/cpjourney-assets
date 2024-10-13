@@ -1,0 +1,367 @@
+{
+	"textures": [
+		{
+			"image": "cjcardbuy-card3-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1971
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fireanim0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 559,
+						"h": 767
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 559,
+						"h": 767
+					}
+				},
+				{
+					"filename": "fireanim0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 72,
+						"w": 551,
+						"h": 695
+					},
+					"frame": {
+						"x": 1,
+						"y": 770,
+						"w": 551,
+						"h": 695
+					}
+				},
+				{
+					"filename": "fireanim0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 129,
+						"w": 582,
+						"h": 638
+					},
+					"frame": {
+						"x": 562,
+						"y": 1,
+						"w": 582,
+						"h": 638
+					}
+				},
+				{
+					"filename": "fireanim0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 151,
+						"w": 535,
+						"h": 616
+					},
+					"frame": {
+						"x": 1146,
+						"y": 1,
+						"w": 535,
+						"h": 616
+					}
+				},
+				{
+					"filename": "fireanim0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 264,
+						"w": 543,
+						"h": 503
+					},
+					"frame": {
+						"x": 1,
+						"y": 1467,
+						"w": 543,
+						"h": 503
+					}
+				},
+				{
+					"filename": "fireanim0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 37,
+						"w": 470,
+						"h": 730
+					},
+					"frame": {
+						"x": 554,
+						"y": 770,
+						"w": 470,
+						"h": 730
+					}
+				},
+				{
+					"filename": "fireanim0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 336,
+						"w": 532,
+						"h": 431
+					},
+					"frame": {
+						"x": 546,
+						"y": 1502,
+						"w": 532,
+						"h": 431
+					}
+				},
+				{
+					"filename": "fireanim0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 91,
+						"w": 462,
+						"h": 676
+					},
+					"frame": {
+						"x": 1026,
+						"y": 641,
+						"w": 462,
+						"h": 676
+					}
+				},
+				{
+					"filename": "fireanim0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 121,
+						"w": 478,
+						"h": 646
+					},
+					"frame": {
+						"x": 1080,
+						"y": 1319,
+						"w": 478,
+						"h": 646
+					}
+				},
+				{
+					"filename": "fireanim0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 128,
+						"w": 494,
+						"h": 639
+					},
+					"frame": {
+						"x": 1490,
+						"y": 619,
+						"w": 494,
+						"h": 639
+					}
+				},
+				{
+					"filename": "fireanim0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 192,
+						"w": 439,
+						"h": 575
+					},
+					"frame": {
+						"x": 1560,
+						"y": 1260,
+						"w": 439,
+						"h": 575
+					}
+				},
+				{
+					"filename": "cardbg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 351
+					},
+					"frame": {
+						"x": 1683,
+						"y": 1,
+						"w": 268,
+						"h": 351
+					}
+				},
+				{
+					"filename": "fireanim0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 698,
+						"w": 354,
+						"h": 88
+					},
+					"frame": {
+						"x": 562,
+						"y": 641,
+						"w": 354,
+						"h": 88
+					}
+				}
+			]
+		},
+		{
+			"image": "cjcardbuy-card3-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 926,
+				"h": 909
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fireanim0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 159,
+						"w": 542,
+						"h": 608
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 542,
+						"h": 608
+					}
+				},
+				{
+					"filename": "fireanim0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 475,
+						"w": 483,
+						"h": 297
+					},
+					"frame": {
+						"x": 1,
+						"y": 611,
+						"w": 483,
+						"h": 297
+					}
+				},
+				{
+					"filename": "fireanim0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 786
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 560,
+						"w": 439,
+						"h": 226
+					},
+					"frame": {
+						"x": 486,
+						"y": 611,
+						"w": 439,
+						"h": 226
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5d70667e411b5a6dc37affc94809ffe9:b23477fd4d5b097dd62a1f79cc5c0a49:ad70064aa3cc93f15ed40c57cbf4c5b5$"
+	}
+}

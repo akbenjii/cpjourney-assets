@@ -1,0 +1,51 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/mail/book/mail-book-bg.png",
+                "type": "image",
+                "key": "mail-book-bg"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/book/mail-book-buddy.json",
+                "path": "assets/media/interface/game/mail/book",
+                "key": "mail-book-buddy"
+            },
+            {
+                "url": "assets/media/interface/game/mail/book/mail-book-cardicon.png",
+                "type": "image",
+                "key": "mail-book-cardicon"
+            },
+            {
+                "url": "assets/media/interface/game/mail/book/mail-book-header.png",
+                "type": "image",
+                "key": "mail-book-header"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/book/mail-book-sendpopup.json",
+                "path": "assets/media/interface/game/mail/book",
+                "key": "mail-book-sendpopup"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/mail-gothere.json",
+                "path": "assets/media/interface/game/mail",
+                "key": "mail-gothere"
+            },
+            {
+                "url": "assets/media/interface/game/mail/book/testIcon.png",
+                "type": "image",
+                "key": "mail-book-testIcon"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

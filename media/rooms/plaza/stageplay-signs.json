@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "stageplay-signs.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1020,
+				"h": 397
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bambooforest",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 527,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 527,
+						"h": 249
+					}
+				},
+				{
+					"filename": "vikingopera",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 148,
+						"y": 78,
+						"w": 237,
+						"h": 77
+					},
+					"frame": {
+						"x": 530,
+						"y": 1,
+						"w": 237,
+						"h": 77
+					}
+				},
+				{
+					"filename": "planetY",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 82,
+						"w": 250,
+						"h": 71
+					},
+					"frame": {
+						"x": 769,
+						"y": 1,
+						"w": 250,
+						"h": 71
+					}
+				},
+				{
+					"filename": "normanswarm",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 155,
+						"y": 79,
+						"w": 218,
+						"h": 74
+					},
+					"frame": {
+						"x": 769,
+						"y": 74,
+						"w": 218,
+						"h": 74
+					}
+				},
+				{
+					"filename": "fairyfables",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 82,
+						"w": 224,
+						"h": 66
+					},
+					"frame": {
+						"x": 530,
+						"y": 80,
+						"w": 224,
+						"h": 66
+					}
+				},
+				{
+					"filename": "rallydebut",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 82,
+						"w": 212,
+						"h": 68
+					},
+					"frame": {
+						"x": 530,
+						"y": 148,
+						"w": 212,
+						"h": 68
+					}
+				},
+				{
+					"filename": "timeforgot",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 88,
+						"w": 260,
+						"h": 61
+					},
+					"frame": {
+						"x": 744,
+						"y": 150,
+						"w": 260,
+						"h": 61
+					}
+				},
+				{
+					"filename": "vikingstimeforgot",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 85,
+						"w": 260,
+						"h": 61
+					},
+					"frame": {
+						"x": 744,
+						"y": 213,
+						"w": 260,
+						"h": 61
+					}
+				},
+				{
+					"filename": "bluevsred",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 156,
+						"y": 82,
+						"w": 209,
+						"h": 68
+					},
+					"frame": {
+						"x": 530,
+						"y": 218,
+						"w": 209,
+						"h": 68
+					}
+				},
+				{
+					"filename": "twelfthfish",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 84,
+						"w": 250,
+						"h": 63
+					},
+					"frame": {
+						"x": 741,
+						"y": 276,
+						"w": 250,
+						"h": 63
+					}
+				},
+				{
+					"filename": "goldenpuffle",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 84,
+						"w": 239,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 252,
+						"w": 239,
+						"h": 64
+					}
+				},
+				{
+					"filename": "underwater",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 156,
+						"y": 83,
+						"w": 223,
+						"h": 64
+					},
+					"frame": {
+						"x": 242,
+						"y": 252,
+						"w": 223,
+						"h": 64
+					}
+				},
+				{
+					"filename": "squidzoid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 87,
+						"w": 250,
+						"h": 54
+					},
+					"frame": {
+						"x": 467,
+						"y": 288,
+						"w": 250,
+						"h": 54
+					}
+				},
+				{
+					"filename": "livingsled",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 148,
+						"y": 91,
+						"w": 243,
+						"h": 55
+					},
+					"frame": {
+						"x": 719,
+						"y": 341,
+						"w": 243,
+						"h": 55
+					}
+				},
+				{
+					"filename": "rally2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 174,
+						"y": 83,
+						"w": 183,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 318,
+						"w": 183,
+						"h": 66
+					}
+				},
+				{
+					"filename": "humbugholiday",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 94,
+						"w": 247,
+						"h": 42
+					},
+					"frame": {
+						"x": 186,
+						"y": 318,
+						"w": 247,
+						"h": 42
+					}
+				},
+				{
+					"filename": "rubyandruby",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 99,
+						"w": 251,
+						"h": 35
+					},
+					"frame": {
+						"x": 435,
+						"y": 344,
+						"w": 251,
+						"h": 35
+					}
+				},
+				{
+					"filename": "spaceadventure",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 527,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 103,
+						"w": 246,
+						"h": 33
+					},
+					"frame": {
+						"x": 186,
+						"y": 362,
+						"w": 246,
+						"h": 33
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d323e1548795c3651cc99f1bda232340:dcc86916b2839264de00b642b72ebf83:c8566f63f397e6701976fc6074d95ce8$"
+	}
+}

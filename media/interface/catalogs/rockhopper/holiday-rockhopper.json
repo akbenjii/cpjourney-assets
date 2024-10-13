@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "holiday-rockhopper-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1712,
+				"h": 1846
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "preview",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 7,
+						"w": 1439,
+						"h": 921
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1439,
+						"h": 921
+					}
+				},
+				{
+					"filename": "xmas2023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 7,
+						"w": 1439,
+						"h": 921
+					},
+					"frame": {
+						"x": 1,
+						"y": 924,
+						"w": 1439,
+						"h": 921
+					}
+				},
+				{
+					"filename": "bgItem",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 269,
+						"h": 270
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 269,
+						"h": 270
+					},
+					"frame": {
+						"x": 1442,
+						"y": 1,
+						"w": 269,
+						"h": 270
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:da7feffc8fceb35896e7c322dfbb0390:ff0acd2b0a7ca8f8fd8a29540706b0e2:2aab290b74125a73035ce233507f8a65$"
+	}
+}

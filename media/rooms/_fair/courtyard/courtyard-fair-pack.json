@@ -1,0 +1,41 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/courtyard/cj-courtyard.json",
+                "path": "assets/media/rooms/courtyard",
+                "key": "cj-courtyard"
+            },
+            {
+                "url": "assets/media/rooms/courtyard/courtyard-anims.json",
+                "type": "animation",
+                "key": "courtyard-anims"
+            },
+            {
+                "url": "assets/media/rooms/courtyard/courtyard-physics.json",
+                "type": "json",
+                "key": "courtyard-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/plaza/fair_plaza.json",
+                "path": "assets/media/rooms/_fair/plaza",
+                "key": "fair_plaza"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/town/fair-town.json",
+                "path": "assets/media/rooms/_fair/town",
+                "key": "fair-town"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

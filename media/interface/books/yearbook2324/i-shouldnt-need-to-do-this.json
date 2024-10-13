@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "pageturn",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0004",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "pageturn-rev",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yearbook2324",
+                    "frame": "yearbook-turnbtn0001",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

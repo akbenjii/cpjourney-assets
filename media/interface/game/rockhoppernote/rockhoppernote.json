@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "rockhoppernote-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 685,
+				"h": 884
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 736,
+						"h": 824
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 0,
+						"w": 683,
+						"h": 824
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 683,
+						"h": 824
+					}
+				},
+				{
+					"filename": "buttons/close-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 827,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 827,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 827,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:55dbfc27d074c3c6e8a1e957ce96e539:cd0a991320ed45740cea45210ae85bea:969f5500f0f7a353b377abf181bc344c$"
+	}
+}

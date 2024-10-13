@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/plaza/fair_plaza.json",
+                "path": "assets/media/rooms/_fair/plaza",
+                "key": "fair_plaza"
+            },
+            {
+                "url": "assets/media/rooms/_fair/coaster/plaza_tracks.webp",
+                "type": "image",
+                "key": "plaza_tracks"
+            },
+            {
+                "url": "assets/media/rooms/_fair/plaza/Symbol 154.png",
+                "type": "image",
+                "key": "Symbol 154"
+            },
+            {
+                "url": "assets/media/rooms/_fair/plaza/plaza-physics.json",
+                "type": "json",
+                "key": "plaza-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/plaza/stageplay-signs.json",
+                "path": "assets/media/rooms/plaza",
+                "key": "stageplay-signs"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

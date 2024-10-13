@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/music/MUS_Evergreen_Fashion_GiftShopAmb.mp3"
+                ],
+                "type": "audio",
+                "key": "MUS_Evergreen_Fashion_GiftShopAmb"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/shop/shop.json",
+                "path": "assets/media/rooms/shop/",
+                "key": "shop"
+            },
+            {
+                "url": "assets/media/rooms/shop/shop-physics.json",
+                "type": "json",
+                "key": "shop-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

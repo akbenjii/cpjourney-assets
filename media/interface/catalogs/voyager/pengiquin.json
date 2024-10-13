@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "pengiquin.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1987,
+				"h": 728
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "glow",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 725,
+						"h": 788
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 31,
+						"w": 725,
+						"h": 726
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 725,
+						"h": 726
+					}
+				},
+				{
+					"filename": "sunburst",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 725,
+						"h": 788
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 41,
+						"w": 706,
+						"h": 706
+					},
+					"frame": {
+						"x": 728,
+						"y": 1,
+						"w": 706,
+						"h": 706
+					}
+				},
+				{
+					"filename": "pengiquin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 550,
+						"h": 598
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 550,
+						"h": 598
+					},
+					"frame": {
+						"x": 1436,
+						"y": 1,
+						"w": 550,
+						"h": 598
+					}
+				},
+				{
+					"filename": "pengiquin_shadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 284,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 284,
+						"h": 77
+					},
+					"frame": {
+						"x": 1436,
+						"y": 601,
+						"w": 284,
+						"h": 77
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9745c374e0b18d3d0bf8c38ad1801113:cd9bf10ae3a74cff5ec0e31128ece496:0622ef862be42f7b28411503dd53616b$"
+	}
+}

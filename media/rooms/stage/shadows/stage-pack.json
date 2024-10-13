@@ -1,0 +1,49 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/stage/shadows/costumebox-anims.json",
+                "type": "animation",
+                "key": "costumebox-anims"
+            },
+            {
+                "url": "assets/media/rooms/stage/shadows/realishref.png",
+                "type": "image",
+                "key": "realishref"
+            },
+            {
+                "url": "assets/media/rooms/stage/shadows/shadow-anims.json",
+                "type": "animation",
+                "key": "shadow-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/shadows/shadows.json",
+                "path": "assets/media/rooms/stage/shadows",
+                "key": "shadows"
+            },
+            {
+                "url": "assets/media/rooms/stage/shadows/stage-physics.json",
+                "type": "json",
+                "key": "stage-physics"
+            },
+            {
+                "url": "assets/media/rooms/stage/shadows/stage-shadows-mask.png",
+                "type": "image",
+                "key": "stage-shadows-mask"
+            },
+            {
+                "url": "assets/media/rooms/stage/shadows/stage-shadows-top.png",
+                "type": "image",
+                "key": "stage-shadows-top"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

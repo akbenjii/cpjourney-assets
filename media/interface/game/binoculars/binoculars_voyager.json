@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "binoculars_voyager.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 241,
+				"h": 926
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "voyager-come-close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 349
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 349
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 239,
+						"h": 349
+					}
+				},
+				{
+					"filename": "voyager-leave-close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 352,
+						"w": 239,
+						"h": 344
+					}
+				},
+				{
+					"filename": "voyager-leave-far",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 344
+					},
+					"frame": {
+						"x": 1,
+						"y": 352,
+						"w": 239,
+						"h": 344
+					}
+				},
+				{
+					"filename": "voyager-come-far",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 155,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 227
+					},
+					"frame": {
+						"x": 1,
+						"y": 698,
+						"w": 155,
+						"h": 227
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a1c53f9a1bf756ec2497837852ee4f63:1367eef79069861983b0bddc82e70bf4:6b10bd3d433e9dd14a4a172e73fa5ae2$"
+	}
+}

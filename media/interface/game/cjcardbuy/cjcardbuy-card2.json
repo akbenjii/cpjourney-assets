@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "cjcardbuy-card2-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 496,
+				"h": 937
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cardbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 445,
+						"h": 550
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 445,
+						"h": 550
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 445,
+						"h": 550
+					}
+				},
+				{
+					"filename": "openanim0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 448,
+						"y": 1,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "openanim0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 256,
+						"w": 494,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 553,
+						"w": 494,
+						"h": 61
+					}
+				},
+				{
+					"filename": "openanim0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 256,
+						"w": 492,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 616,
+						"w": 492,
+						"h": 61
+					}
+				},
+				{
+					"filename": "openanim0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 256,
+						"w": 479,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 679,
+						"w": 479,
+						"h": 61
+					}
+				},
+				{
+					"filename": "openanim0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 256,
+						"w": 486,
+						"h": 58
+					},
+					"frame": {
+						"x": 1,
+						"y": 742,
+						"w": 486,
+						"h": 58
+					}
+				},
+				{
+					"filename": "openanim0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 256,
+						"w": 448,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 802,
+						"w": 448,
+						"h": 44
+					}
+				},
+				{
+					"filename": "openanim0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 376,
+						"y": 246,
+						"w": 259,
+						"h": 67
+					},
+					"frame": {
+						"x": 1,
+						"y": 848,
+						"w": 259,
+						"h": 67
+					}
+				},
+				{
+					"filename": "openanim0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 251,
+						"w": 191,
+						"h": 44
+					},
+					"frame": {
+						"x": 262,
+						"y": 848,
+						"w": 191,
+						"h": 44
+					}
+				},
+				{
+					"filename": "openanim0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 642,
+						"y": 210,
+						"w": 77,
+						"h": 42
+					},
+					"frame": {
+						"x": 262,
+						"y": 894,
+						"w": 77,
+						"h": 42
+					}
+				},
+				{
+					"filename": "openanim0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1339,
+						"h": 828
+					},
+					"spriteSourceSize": {
+						"x": 882,
+						"y": 0,
+						"w": 76,
+						"h": 41
+					},
+					"frame": {
+						"x": 341,
+						"y": 894,
+						"w": 76,
+						"h": 41
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2b767227339a072c84282502594bad0d:65f4f1f550eaaaddedcb1dba73f83c32:7071a1c668e93c4e267b74434c47a22f$"
+	}
+}

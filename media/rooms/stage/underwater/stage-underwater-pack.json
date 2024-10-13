@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/underwater/stage-underwater.json",
+                "path": "assets/media/rooms/stage/underwater",
+                "key": "stage-underwater"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/underwater/stage-underwater-chestshut.mp3"
+                ],
+                "type": "audio",
+                "key": "stage-underwater-chestshut"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/underwater/stage-underwater-seamonster.mp3"
+                ],
+                "type": "audio",
+                "key": "stage-underwater-seamonster"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/underwater/stage-underwater-subdoor.mp3"
+                ],
+                "type": "audio",
+                "key": "stage-underwater-subdoor"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,5102 @@
+{
+	"textures": [
+		{
+			"image": "eco-L1-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1989,
+				"h": 1224
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "L1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1541,
+						"h": 1072
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1541,
+						"h": 1072
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1541,
+						"h": 1072
+					}
+				},
+				{
+					"filename": "L4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 188,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 188,
+						"h": 148
+					},
+					"frame": {
+						"x": 1,
+						"y": 1075,
+						"w": 188,
+						"h": 148
+					}
+				},
+				{
+					"filename": "L9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 412,
+						"h": 688
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 412,
+						"h": 687
+					},
+					"frame": {
+						"x": 1544,
+						"y": 1,
+						"w": 412,
+						"h": 687
+					}
+				},
+				{
+					"filename": "L8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 149,
+						"h": 83
+					},
+					"frame": {
+						"x": 191,
+						"y": 1075,
+						"w": 149,
+						"h": 83
+					}
+				},
+				{
+					"filename": "L6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 53
+					},
+					"frame": {
+						"x": 191,
+						"y": 1160,
+						"w": 250,
+						"h": 53
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 342,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 402,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 402,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 443,
+						"y": 1159,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0055",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0065",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0075",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0085",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0095",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0105",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0115",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0125",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0135",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0145",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0155",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0165",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0175",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0185",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0186",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0200",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 443,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 462,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 462,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 503,
+						"y": 1159,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0056",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0064",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0066",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0074",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0076",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0084",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0086",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0094",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0096",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0104",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0106",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0136",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0144",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0146",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0154",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0156",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0164",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0166",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 540,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 522,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 522,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 563,
+						"y": 1159,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 582,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 582,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 623,
+						"y": 1159,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0057",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0063",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0067",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0073",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0077",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0083",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0087",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0093",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0097",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0103",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0107",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0137",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0143",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0147",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0153",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0157",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0163",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0167",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 637,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 642,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 642,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 683,
+						"y": 1159,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0058",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0062",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0068",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0072",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0078",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0082",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0088",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0092",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0098",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0102",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0108",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0112",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0138",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0142",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0148",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0152",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0158",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0162",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0168",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0172",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 734,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 702,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 702,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 743,
+						"y": 1159,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 762,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 762,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 803,
+						"y": 1159,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0059",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0061",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0069",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0071",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0079",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0081",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0089",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0091",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0099",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0101",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0109",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0139",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0141",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0149",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0151",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0159",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0161",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0169",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 831,
+						"y": 1201,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 822,
+						"y": 1075,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L3-redlight_mc0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 40
+					},
+					"frame": {
+						"x": 822,
+						"y": 1117,
+						"w": 58,
+						"h": 40
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0060",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0070",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0080",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0090",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0100",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0110",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0140",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0150",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0160",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0170",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1159,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 863,
+						"y": 1179,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 928,
+						"y": 1199,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1095,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0040",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0041",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0042",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0043",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0044",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0045",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0046",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0047",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0048",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0049",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0050",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0120",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0130",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0180",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 882,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 960,
+						"y": 1155,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 960,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1025,
+						"y": 1195,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1095,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 979,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1155,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0116",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0124",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0126",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0176",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1122,
+						"y": 1195,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1095,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0051",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0131",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0181",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0052",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0118",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0122",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0128",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0132",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0178",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0182",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1076,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0053",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1154,
+						"y": 1155,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0133",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1154,
+						"y": 1155,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0183",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1154,
+						"y": 1155,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0054",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1154,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0134",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1154,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0184",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1154,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0111",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1219,
+						"y": 1195,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0171",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1219,
+						"y": 1195,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0113",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0173",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0114",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1095,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0174",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1095,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0117",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0123",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0127",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0177",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0119",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0121",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0129",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0179",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0187",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1251,
+						"y": 1155,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0188",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1251,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0195",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1251,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0189",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1316,
+						"y": 1195,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0190",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0191",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1095,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0192",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1115,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0193",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1135,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0194",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1155,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0196",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1175,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0197",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1195,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0198",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1367,
+						"y": 1075,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L5-walllights_mc0199",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 18
+					},
+					"frame": {
+						"x": 1367,
+						"y": 1095,
+						"w": 95,
+						"h": 18
+					}
+				},
+				{
+					"filename": "L2-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 221,
+						"h": 426
+					},
+					"frame": {
+						"x": 1544,
+						"y": 690,
+						"w": 221,
+						"h": 426
+					}
+				},
+				{
+					"filename": "L2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 221,
+						"h": 426
+					},
+					"frame": {
+						"x": 1767,
+						"y": 690,
+						"w": 221,
+						"h": 426
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6630f85256a4cc68a8a7e609c59b4cab:c91c3ab7c8c7107aba83ea628931e871:2e3496c9bad64e87ca4ae827b86e8e3f$"
+	}
+}

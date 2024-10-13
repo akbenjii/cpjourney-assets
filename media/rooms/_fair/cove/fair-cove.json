@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "fair-cove-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2033,
+				"h": 2038
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bgcove",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1626,
+						"h": 993
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1626,
+						"h": 993
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1626,
+						"h": 993
+					}
+				},
+				{
+					"filename": "fgBottom",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1574,
+						"h": 535
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1574,
+						"h": 535
+					},
+					"frame": {
+						"x": 1,
+						"y": 996,
+						"w": 1574,
+						"h": 535
+					}
+				},
+				{
+					"filename": "fgTop",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 455,
+						"h": 570
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 455,
+						"h": 570
+					},
+					"frame": {
+						"x": 1577,
+						"y": 996,
+						"w": 455,
+						"h": 570
+					}
+				},
+				{
+					"filename": "tent-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 310,
+						"h": 431
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 140,
+						"w": 202,
+						"h": 183
+					},
+					"frame": {
+						"x": 1629,
+						"y": 1,
+						"w": 202,
+						"h": 183
+					}
+				},
+				{
+					"filename": "creamsoda",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 168
+					},
+					"frame": {
+						"x": 1629,
+						"y": 186,
+						"w": 144,
+						"h": 168
+					}
+				},
+				{
+					"filename": "food",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 100
+					},
+					"frame": {
+						"x": 1629,
+						"y": 356,
+						"w": 77,
+						"h": 100
+					}
+				},
+				{
+					"filename": "lights0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1629,
+						"y": 458,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1629,
+						"y": 556,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1629,
+						"y": 654,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1629,
+						"y": 752,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1629,
+						"y": 850,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1701,
+						"y": 458,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1708,
+						"y": 356,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1775,
+						"y": 186,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1833,
+						"y": 1,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "telescopeArm",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 52
+					},
+					"frame": {
+						"x": 1833,
+						"y": 99,
+						"w": 67,
+						"h": 52
+					}
+				},
+				{
+					"filename": "lights0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1701,
+						"y": 556,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1701,
+						"y": 654,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1701,
+						"y": 752,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "lights0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 96
+					},
+					"frame": {
+						"x": 1701,
+						"y": 850,
+						"w": 70,
+						"h": 96
+					}
+				},
+				{
+					"filename": "surfsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 573,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 573,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 1533,
+						"w": 573,
+						"h": 504
+					}
+				},
+				{
+					"filename": "streamers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 560,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 560,
+						"h": 124
+					},
+					"frame": {
+						"x": 576,
+						"y": 1533,
+						"w": 560,
+						"h": 124
+					}
+				},
+				{
+					"filename": "tent",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 426,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 426,
+						"h": 482
+					},
+					"frame": {
+						"x": 1138,
+						"y": 1533,
+						"w": 426,
+						"h": 482
+					}
+				},
+				{
+					"filename": "fenceL",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 435,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 435,
+						"h": 136
+					},
+					"frame": {
+						"x": 576,
+						"y": 1659,
+						"w": 435,
+						"h": 136
+					}
+				},
+				{
+					"filename": "fenceR",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 444,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 444,
+						"h": 112
+					},
+					"frame": {
+						"x": 576,
+						"y": 1797,
+						"w": 444,
+						"h": 112
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2aeac13f29eacde52991acb503257aa0:2b8ff4ab643a2f51b6e78c57ae5e2f4c:b4d2b8a7e97a3b1aaafd73c350bc6cdf$"
+	}
+}

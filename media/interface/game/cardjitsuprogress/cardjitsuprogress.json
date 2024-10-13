@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "cardjitsuprogress-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 528,
+				"h": 896
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "legend",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 526,
+						"h": 836
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 526,
+						"h": 836
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 526,
+						"h": 836
+					}
+				},
+				{
+					"filename": "closingya-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closingya-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closingya",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 839,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4bfa7ad1b7ff3c56257781c7b2299acc:d73b2961ed1b6dacd42b0c4b0c60400a:2378db513f9bf5bcf1e26e3967d6c976$"
+	}
+}

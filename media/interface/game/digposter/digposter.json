@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "digposter-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 787,
+				"h": 961
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 833,
+						"h": 901
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 0,
+						"w": 785,
+						"h": 901
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 785,
+						"h": 901
+					}
+				},
+				{
+					"filename": "buttons/close-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 904,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 904,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 904,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2255644dc27fb0ab17b9a7d93e390f16:0b9b65b3fc77f07c654b9ff593a30cbc:f0e6cc97eb48056174a7da6a8074ebe9$"
+	}
+}

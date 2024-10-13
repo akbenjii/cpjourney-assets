@@ -1,0 +1,55 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":-2, "y":451 }, { "x":272, "y":427 }, { "x":7, "y":9 } ],
+					[ { "x":272, "y":427 }, { "x":521.875, "y":416.25 }, { "x":1514, "y":11 }, { "x":7, "y":9 } ],
+					[ { "x":1519, "y":433 }, { "x":1514, "y":11 }, { "x":1389, "y":419 } ],
+					[ { "x":1389, "y":419 }, { "x":1514, "y":11 }, { "x":1156, "y":407 } ],
+					[ { "x":1514, "y":11 }, { "x":521.875, "y":416.25 }, { "x":1156, "y":407 } ]
+				]
+			}
+		]
+	},
+	"lake": {
+		"type": "fromPhysicsEditor",
+		"label": "lake",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":-4, "y":378 }, { "x":5, "y":530 }, { "x":318, "y":422 }, { "x":250, "y":340 } ]
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/map/map.json",
+                "path": "assets/media/interface/game/map",
+                "key": "map"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mapnight/mapnight.json",
+                "path": "assets/media/interface/game/mapnight",
+                "key": "mapnight"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

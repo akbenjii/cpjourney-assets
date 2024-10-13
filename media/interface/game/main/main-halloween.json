@@ -1,0 +1,965 @@
+{
+	"textures": [
+		{
+			"image": "main-halloween.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1841,
+				"h": 1235
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "halloween-player-card-bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 523,
+						"h": 938
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 518,
+						"h": 938
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 518,
+						"h": 938
+					}
+				},
+				{
+					"filename": "halloween-card-bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 523,
+						"h": 914
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 519,
+						"h": 914
+					},
+					"frame": {
+						"x": 521,
+						"y": 1,
+						"w": 519,
+						"h": 914
+					}
+				},
+				{
+					"filename": "halloween-error",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 579
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 579
+					},
+					"frame": {
+						"x": 1042,
+						"y": 1,
+						"w": 420,
+						"h": 579
+					}
+				},
+				{
+					"filename": "halloween-nineslice",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 451,
+						"h": 505
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 447,
+						"h": 505
+					},
+					"frame": {
+						"x": 1042,
+						"y": 582,
+						"w": 447,
+						"h": 505
+					}
+				},
+				{
+					"filename": "halloween-chat-box0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 571,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 571,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 941,
+						"w": 571,
+						"h": 56
+					}
+				},
+				{
+					"filename": "halloween-slime",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 116
+					},
+					"frame": {
+						"x": 1464,
+						"y": 1,
+						"w": 373,
+						"h": 116
+					}
+				},
+				{
+					"filename": "green-error-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 999,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-dock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1138,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1138,
+						"h": 145
+					},
+					"frame": {
+						"x": 321,
+						"y": 1089,
+						"w": 1138,
+						"h": 145
+					}
+				},
+				{
+					"filename": "green-error-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1106,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "green-error-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1464,
+						"y": 119,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-window-button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1464,
+						"y": 226,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-window-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1464,
+						"y": 333,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-window-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 105
+					},
+					"frame": {
+						"x": 1464,
+						"y": 440,
+						"w": 318,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-buddy-item-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 48
+					},
+					"frame": {
+						"x": 574,
+						"y": 917,
+						"w": 340,
+						"h": 48
+					}
+				},
+				{
+					"filename": "halloween-buddy-item",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 48
+					},
+					"frame": {
+						"x": 574,
+						"y": 967,
+						"w": 340,
+						"h": 48
+					}
+				},
+				{
+					"filename": "halloween-window-button-small-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 105
+					},
+					"frame": {
+						"x": 1491,
+						"y": 547,
+						"w": 198,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-window-button-small-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 105
+					},
+					"frame": {
+						"x": 1491,
+						"y": 654,
+						"w": 198,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-window-button-small",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 198,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 198,
+						"h": 105
+					},
+					"frame": {
+						"x": 1491,
+						"y": 761,
+						"w": 198,
+						"h": 105
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 321,
+						"y": 999,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 321,
+						"y": 1041,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-tab",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 44
+					},
+					"frame": {
+						"x": 1491,
+						"y": 868,
+						"w": 208,
+						"h": 44
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 1491,
+						"y": 914,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 1491,
+						"y": 956,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 1491,
+						"y": 998,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 1491,
+						"y": 1040,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 547,
+						"y": 1017,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 1491,
+						"y": 1082,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 1461,
+						"y": 1124,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-puffle-healthbar0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 40
+					},
+					"frame": {
+						"x": 1461,
+						"y": 1166,
+						"w": 224,
+						"h": 40
+					}
+				},
+				{
+					"filename": "halloween-hint",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 44
+					},
+					"frame": {
+						"x": 773,
+						"y": 1017,
+						"w": 176,
+						"h": 44
+					}
+				},
+				{
+					"filename": "halloween-edit-player-button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 64
+					},
+					"frame": {
+						"x": 1691,
+						"y": 547,
+						"w": 86,
+						"h": 64
+					}
+				},
+				{
+					"filename": "halloween-edit-player-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 64
+					},
+					"frame": {
+						"x": 916,
+						"y": 917,
+						"w": 86,
+						"h": 64
+					}
+				},
+				{
+					"filename": "halloween-edit-player-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 64
+					},
+					"frame": {
+						"x": 1691,
+						"y": 613,
+						"w": 86,
+						"h": 64
+					}
+				},
+				{
+					"filename": "halloween-btn-slime-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 77
+					},
+					"frame": {
+						"x": 1691,
+						"y": 679,
+						"w": 56,
+						"h": 77
+					}
+				},
+				{
+					"filename": "halloween-btn-slime-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 77
+					},
+					"frame": {
+						"x": 1691,
+						"y": 758,
+						"w": 56,
+						"h": 77
+					}
+				},
+				{
+					"filename": "halloween-btn-slime",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 77
+					},
+					"frame": {
+						"x": 1784,
+						"y": 119,
+						"w": 56,
+						"h": 77
+					}
+				},
+				{
+					"filename": "halloween-grey-slime-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 77
+					},
+					"frame": {
+						"x": 1784,
+						"y": 198,
+						"w": 56,
+						"h": 77
+					}
+				},
+				{
+					"filename": "halloween-grey-slime-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 77
+					},
+					"frame": {
+						"x": 1784,
+						"y": 277,
+						"w": 56,
+						"h": 77
+					}
+				},
+				{
+					"filename": "halloween-grey-slime-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 77
+					},
+					"frame": {
+						"x": 1784,
+						"y": 356,
+						"w": 56,
+						"h": 77
+					}
+				},
+				{
+					"filename": "halloween-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1784,
+						"y": 435,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "halloween-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1784,
+						"y": 493,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "halloween-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1779,
+						"y": 551,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "halloween-buddy-offline",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 47
+					},
+					"frame": {
+						"x": 1779,
+						"y": 609,
+						"w": 54,
+						"h": 47
+					}
+				},
+				{
+					"filename": "halloween-x-icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 916,
+						"y": 983,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "halloween-buddy-online",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 47
+					},
+					"frame": {
+						"x": 1687,
+						"y": 1124,
+						"w": 54,
+						"h": 47
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:817714b0c5bb6e50b5cc6498f4c7fae9:5a34c1c0836879c0672d8a12efe0c327:c64223a5edaf4f3eb37b2bd87fa2fe1d$"
+	}
+}

@@ -1,0 +1,37 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/buttons/aunt-arctic-questions.json",
+                "path": "assets/media/interface/game/newspaper/buttons",
+                "key": "aunt-arctic-questions"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/tenth edition/extra-stuff.json",
+                "path": "assets/media/interface/game/newspaper/tenth edition",
+                "key": "extra-stuff"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/buttons/newspaper-0.json",
+                "path": "assets/media/interface/game/newspaper/buttons",
+                "key": "newspaperbuttons"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/tenth edition/tenth-edition.json",
+                "path": "assets/media/interface/game/newspaper/tenth edition",
+                "key": "tenth-edition"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

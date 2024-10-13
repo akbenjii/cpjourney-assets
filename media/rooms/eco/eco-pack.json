@@ -1,0 +1,159 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/eco/armorstand.png",
+                "type": "image",
+                "key": "armorstand"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-alarm.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-alarm"
+            },
+            {
+                "url": "assets/media/rooms/eco/eco-anims.json",
+                "type": "animation",
+                "key": "eco-anims"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-choo.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-choo"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-computer.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-computer"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-flap.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-flap"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-L1.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-L1"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-L1-belt2.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-L1-belt2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-L1-L10.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-L1-L10"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-L1-L11.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-L1-L11"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-L11toL30.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-L11toL30"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-L2toL10.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-L2toL10"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-lever1-begin.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-lever1-begin"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-lever1-end.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-lever1-end"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-lever2-begin.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-lever2-begin"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-lever2-end.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-lever2-end"
+            },
+            {
+                "url": "assets/media/rooms/eco/eco-physics.json",
+                "type": "json",
+                "key": "eco-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/eco/eco-snowball.json",
+                "path": "assets/media/rooms/eco",
+                "key": "eco-snowball"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-variant1.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-variant1"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-variant2.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-variant2"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-variant3.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-variant3"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-variant4.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-variant4"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/eco/eco-variant5.mp3"
+                ],
+                "type": "audio",
+                "key": "eco-variant5"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

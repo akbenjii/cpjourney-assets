@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "prefair-lighthouse-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1601,
+				"h": 1388
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1599,
+						"h": 996
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1599,
+						"h": 996
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1599,
+						"h": 996
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 300
+					},
+					"frame": {
+						"x": 1,
+						"y": 999,
+						"w": 228,
+						"h": 300
+					}
+				},
+				{
+					"filename": "flags6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 169,
+						"h": 60
+					}
+				},
+				{
+					"filename": "flags7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 169,
+						"h": 60
+					}
+				},
+				{
+					"filename": "flags8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 169,
+						"h": 60
+					}
+				},
+				{
+					"filename": "flags9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 60
+					},
+					"frame": {
+						"x": 172,
+						"y": 1301,
+						"w": 169,
+						"h": 60
+					}
+				},
+				{
+					"filename": "stagebox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 225,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 293
+					},
+					"frame": {
+						"x": 231,
+						"y": 999,
+						"w": 225,
+						"h": 293
+					}
+				},
+				{
+					"filename": "duoflags",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 93
+					},
+					"frame": {
+						"x": 343,
+						"y": 1294,
+						"w": 93,
+						"h": 93
+					}
+				},
+				{
+					"filename": "flags4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 46
+					},
+					"frame": {
+						"x": 438,
+						"y": 1294,
+						"w": 164,
+						"h": 46
+					}
+				},
+				{
+					"filename": "flags2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 42
+					},
+					"frame": {
+						"x": 438,
+						"y": 1342,
+						"w": 166,
+						"h": 42
+					}
+				},
+				{
+					"filename": "flags3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 42
+					},
+					"frame": {
+						"x": 438,
+						"y": 1342,
+						"w": 166,
+						"h": 42
+					}
+				},
+				{
+					"filename": "flags5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 42
+					},
+					"frame": {
+						"x": 438,
+						"y": 1342,
+						"w": 166,
+						"h": 42
+					}
+				},
+				{
+					"filename": "rockhoppernote",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 223,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 223,
+						"h": 275
+					},
+					"frame": {
+						"x": 458,
+						"y": 999,
+						"w": 223,
+						"h": 275
+					}
+				},
+				{
+					"filename": "doorbox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 111
+					},
+					"frame": {
+						"x": 606,
+						"y": 1276,
+						"w": 119,
+						"h": 111
+					}
+				},
+				{
+					"filename": "planks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 221
+					},
+					"frame": {
+						"x": 683,
+						"y": 999,
+						"w": 94,
+						"h": 221
+					}
+				},
+				{
+					"filename": "topbox2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 164
+					},
+					"frame": {
+						"x": 727,
+						"y": 1222,
+						"w": 133,
+						"h": 164
+					}
+				},
+				{
+					"filename": "longbox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 193
+					},
+					"frame": {
+						"x": 779,
+						"y": 999,
+						"w": 319,
+						"h": 193
+					}
+				},
+				{
+					"filename": "crate2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 188
+					},
+					"frame": {
+						"x": 862,
+						"y": 1194,
+						"w": 180,
+						"h": 188
+					}
+				},
+				{
+					"filename": "cornerbox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 118,
+						"h": 158
+					},
+					"frame": {
+						"x": 1044,
+						"y": 1194,
+						"w": 118,
+						"h": 158
+					}
+				},
+				{
+					"filename": "crate",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 154
+					},
+					"frame": {
+						"x": 1100,
+						"y": 999,
+						"w": 160,
+						"h": 154
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 147
+					},
+					"frame": {
+						"x": 1164,
+						"y": 1155,
+						"w": 167,
+						"h": 147
+					}
+				},
+				{
+					"filename": "partybox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 143
+					},
+					"frame": {
+						"x": 1262,
+						"y": 999,
+						"w": 147,
+						"h": 143
+					}
+				},
+				{
+					"filename": "topbox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 136
+					},
+					"frame": {
+						"x": 1411,
+						"y": 999,
+						"w": 166,
+						"h": 136
+					}
+				},
+				{
+					"filename": "flags1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 97
+					},
+					"frame": {
+						"x": 1333,
+						"y": 1144,
+						"w": 214,
+						"h": 97
+					}
+				},
+				{
+					"filename": "pianobox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 143
+					},
+					"frame": {
+						"x": 1333,
+						"y": 1243,
+						"w": 114,
+						"h": 143
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2fdb59e802731177c36407b2297f9085:b8cc1de3015c01bd0299f32b1ba3691a:7d0122c1a7e52d49db73f7447c099991$"
+	}
+}

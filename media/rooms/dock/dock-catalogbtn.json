@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "dock-catalogbtn-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 246,
+				"h": 163
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "catalogbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 125,
+						"h": 108
+					}
+				},
+				{
+					"filename": "catalogbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 108
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 125,
+						"h": 108
+					}
+				},
+				{
+					"filename": "catalogbtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 128,
+						"y": 1,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "cataloganim0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 56
+					},
+					"frame": {
+						"x": 128,
+						"y": 104,
+						"w": 57,
+						"h": 56
+					}
+				},
+				{
+					"filename": "cataloganim0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 56
+					},
+					"frame": {
+						"x": 187,
+						"y": 104,
+						"w": 54,
+						"h": 56
+					}
+				},
+				{
+					"filename": "cataloganim0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 56
+					},
+					"frame": {
+						"x": 187,
+						"y": 104,
+						"w": 54,
+						"h": 56
+					}
+				},
+				{
+					"filename": "cataloganim0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 111,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "cataloganim0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 111,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "cataloganim0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 49
+					},
+					"frame": {
+						"x": 60,
+						"y": 111,
+						"w": 50,
+						"h": 49
+					}
+				},
+				{
+					"filename": "cataloganim0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 49
+					},
+					"frame": {
+						"x": 60,
+						"y": 111,
+						"w": 50,
+						"h": 49
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:44781c34a5f5f83ba9d40b2db4b88bb7:1dc272a2b654296a83140ac3c5bc3b2b:c61cec4930b58a8efc611e0bf7a09d3d$"
+	}
+}

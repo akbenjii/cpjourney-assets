@@ -1,0 +1,1458 @@
+{
+	"textures": [
+		{
+			"image": "journal-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1835,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "buttons/page1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 595,
+						"h": 830
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 595,
+						"h": 830
+					},
+					"frame": {
+						"x": 1239,
+						"y": 1,
+						"w": 595,
+						"h": 830
+					}
+				},
+				{
+					"filename": "buttons/key-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 511,
+						"h": 402
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 511,
+						"h": 402
+					},
+					"frame": {
+						"x": 1239,
+						"y": 833,
+						"w": 511,
+						"h": 402
+					}
+				},
+				{
+					"filename": "buttons/key-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 511,
+						"h": 402
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 511,
+						"h": 402
+					},
+					"frame": {
+						"x": 1239,
+						"y": 833,
+						"w": 511,
+						"h": 402
+					}
+				},
+				{
+					"filename": "page/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "buttons/key",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 511,
+						"h": 402
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 15,
+						"w": 492,
+						"h": 377
+					},
+					"frame": {
+						"x": 1239,
+						"y": 1237,
+						"w": 492,
+						"h": 377
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-4.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-5.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-6.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-7.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-8.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-9.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-10.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-11.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-12.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-13.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-14.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-15.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-16.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-17.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/36",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/37",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-18.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/38",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/39",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-19.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1238,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page/40",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1236,
+						"h": 852
+					}
+				},
+				{
+					"filename": "page/41",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 57,
+						"w": 1236,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 1236,
+						"h": 852
+					}
+				}
+			]
+		},
+		{
+			"image": "journal-20.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1995,
+				"h": 1704
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "journa2l",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 57,
+						"w": 1235,
+						"h": 851
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1235,
+						"h": 851
+					}
+				},
+				{
+					"filename": "page/42",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1232,
+						"h": 849
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1232,
+						"h": 849
+					},
+					"frame": {
+						"x": 1,
+						"y": 854,
+						"w": 1232,
+						"h": 849
+					}
+				},
+				{
+					"filename": "journal",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 481,
+						"y": 71,
+						"w": 597,
+						"h": 833
+					},
+					"frame": {
+						"x": 1238,
+						"y": 1,
+						"w": 597,
+						"h": 833
+					}
+				},
+				{
+					"filename": "buttons/page1-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 595,
+						"h": 830
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 595,
+						"h": 830
+					},
+					"frame": {
+						"x": 1235,
+						"y": 854,
+						"w": 595,
+						"h": 830
+					}
+				},
+				{
+					"filename": "buttons/page1-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 595,
+						"h": 830
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 595,
+						"h": 830
+					},
+					"frame": {
+						"x": 1235,
+						"y": 854,
+						"w": 595,
+						"h": 830
+					}
+				},
+				{
+					"filename": "buttons/right_button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 239
+					},
+					"frame": {
+						"x": 1832,
+						"y": 836,
+						"w": 162,
+						"h": 239
+					}
+				},
+				{
+					"filename": "buttons/right_button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 239
+					},
+					"frame": {
+						"x": 1832,
+						"y": 836,
+						"w": 162,
+						"h": 239
+					}
+				},
+				{
+					"filename": "buttons/left_button-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 417,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 326,
+						"w": 118,
+						"h": 211
+					},
+					"frame": {
+						"x": 1837,
+						"y": 1,
+						"w": 118,
+						"h": 211
+					}
+				},
+				{
+					"filename": "buttons/left_button-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 417,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 326,
+						"w": 118,
+						"h": 211
+					},
+					"frame": {
+						"x": 1837,
+						"y": 1,
+						"w": 118,
+						"h": 211
+					}
+				},
+				{
+					"filename": "buttons/close-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1832,
+						"y": 1077,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1837,
+						"y": 214,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/close-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1832,
+						"y": 1135,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "buttons/left_button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 417,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1235,
+						"y": 1686,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "buttons/right_button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1235,
+						"y": 1686,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:774fd498c48791a02c985fdbc9fdc5e0:2de7938d5cd613583e6cd37426364db7:b776a1b108a076efae219ded712822fb$"
+	}
+}

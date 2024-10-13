@@ -1,0 +1,70 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/rooms/stage/fairy fables/bluebook.mp3"
+                ],
+                "type": "audio",
+                "key": "bluebook"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/fairy fables/fairyfables.json",
+                "path": "assets/media/rooms/stage/fairy fables",
+                "key": "fairyfables"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/stage/fairy fables/fairyfablesbluefix.json",
+                "path": "assets/media/rooms/stage/fairy fables",
+                "key": "fairyfablesbluefix_1"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/fairy fables/greenbook.mp3"
+                ],
+                "type": "audio",
+                "key": "greenbook"
+            },
+            {
+                "url": "assets/media/rooms/stage/fairy fables/stage-anims.json",
+                "type": "animation",
+                "key": "stage-anims"
+            },
+            {
+                "url": "assets/media/rooms/stage/fairy fables/stage-physics.json",
+                "type": "json",
+                "key": "stage-physics"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/fairy fables/sun_1.mp3"
+                ],
+                "type": "audio",
+                "key": "sun_1"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/fairy fables/treeFall.mp3"
+                ],
+                "type": "audio",
+                "key": "treeFall"
+            },
+            {
+                "url": [
+                    "assets/media/rooms/stage/fairy fables/unicorn.mp3"
+                ],
+                "type": "audio",
+                "key": "unicorn"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

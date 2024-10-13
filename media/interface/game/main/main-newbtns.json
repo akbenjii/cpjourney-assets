@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "main-newbtns-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 34,
+				"h": 65
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fullscreen",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "camera",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 32,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 35,
+						"w": 32,
+						"h": 29
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d88b469ef0cae869e446369ea5dccfd2:da1744cc34cda92633e1cdcfced47b43:6879393ff9f19d15981d1837854abb4a$"
+	}
+}

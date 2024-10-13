@@ -1,0 +1,31 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/sport/apr-24/apr24-sport.json",
+                "path": "assets/media/interface/catalogs/sport/apr-24",
+                "key": "apr24-sport"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/sport/jun-24/jun24-sport.json",
+                "path": "assets/media/interface/catalogs/sport/jun-24",
+                "key": "jun24-sport"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/sport/sport.json",
+                "path": "assets/media/interface/catalogs/sport",
+                "key": "sport"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

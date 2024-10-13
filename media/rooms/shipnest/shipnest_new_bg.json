@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "shipnest_new_bg.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1622,
+				"h": 1052
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ship_nest",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1620,
+						"h": 1050
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1620,
+						"h": 1050
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1620,
+						"h": 1050
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6a7e8821d63fed329bc5665df933e2b6:ce73752227fca7c785a31111d5d06e0f:7af1e684d6d09eef9e34f0705898a56f$"
+	}
+}

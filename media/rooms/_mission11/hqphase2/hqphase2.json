@@ -1,0 +1,431 @@
+{
+	"textures": [
+		{
+			"image": "hqphase2-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1935,
+				"h": 1521
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bottomPopcorn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1690,
+						"h": 551
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1690,
+						"h": 551
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1690,
+						"h": 551
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1536,
+						"h": 966
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1536,
+						"h": 966
+					},
+					"frame": {
+						"x": 1,
+						"y": 554,
+						"w": 1536,
+						"h": 966
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "wiresLeft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 395,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 395,
+						"h": 279
+					},
+					"frame": {
+						"x": 1539,
+						"y": 554,
+						"w": 395,
+						"h": 279
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "crateStuff",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 217,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 217,
+						"h": 265
+					},
+					"frame": {
+						"x": 1693,
+						"y": 1,
+						"w": 217,
+						"h": 265
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "crack",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 207,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 207,
+						"h": 232
+					},
+					"frame": {
+						"x": 1693,
+						"y": 268,
+						"w": 207,
+						"h": 232
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "morePopcorn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 311,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 311,
+						"h": 215
+					},
+					"frame": {
+						"x": 1539,
+						"y": 835,
+						"w": 311,
+						"h": 215
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "trashCan",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 76
+					},
+					"frame": {
+						"x": 1852,
+						"y": 835,
+						"w": 63,
+						"h": 76
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "books",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 81
+					},
+					"frame": {
+						"x": 1852,
+						"y": 913,
+						"w": 46,
+						"h": 81
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "stackOfTVs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 204,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 204,
+						"h": 165
+					},
+					"frame": {
+						"x": 1539,
+						"y": 1052,
+						"w": 204,
+						"h": 165
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "randomMetalThing",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 128
+					},
+					"frame": {
+						"x": 1745,
+						"y": 1052,
+						"w": 148,
+						"h": 128
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "embeddedTV",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 103
+					},
+					"frame": {
+						"x": 1745,
+						"y": 1182,
+						"w": 119,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "loneTV",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 99,
+						"h": 93
+					},
+					"frame": {
+						"x": 1539,
+						"y": 1219,
+						"w": 99,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		},
+		{
+			"image": "hqphase2-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1603,
+				"h": 1504
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "missionCommand",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1578,
+						"h": 816
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1575,
+						"h": 816
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1575,
+						"h": 816
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "lights",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1457,
+						"h": 437
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 0,
+						"w": 1230,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 819,
+						"w": 1230,
+						"h": 425
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "shadows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1341,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1341,
+						"h": 257
+					},
+					"frame": {
+						"x": 1,
+						"y": 1246,
+						"w": 1341,
+						"h": 257
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "closet",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 258,
+						"h": 439
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 258,
+						"h": 439
+					},
+					"frame": {
+						"x": 1344,
+						"y": 819,
+						"w": 258,
+						"h": 439
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a631b71f9e6098bf2cc07f9ab15e619f:34350d75f10dc947ad55dd7d4d80ab4d:c77ac4482117ee6959d5560f58893b6f$"
+	}
+}

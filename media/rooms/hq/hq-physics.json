@@ -1,0 +1,82 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1191, "y":618 }, { "x":1214, "y":518 }, { "x":1009, "y":574 }, { "x":1035, "y":614 } ],
+					[ { "x":7, "y":718 }, { "x":291, "y":523 }, { "x":7, "y":10 } ],
+					[ { "x":332, "y":612 }, { "x":473, "y":612 }, { "x":497, "y":574 }, { "x":291, "y":523 } ],
+					[ { "x":7, "y":10 }, { "x":291, "y":523 }, { "x":497, "y":574 }, { "x":1009, "y":574 }, { "x":1214, "y":518 }, { "x":1510, "y":10 } ],
+					[ { "x":1518, "y":781 }, { "x":1510, "y":10 }, { "x":1360, "y":616 }, { "x":1360, "y":659 } ],
+					[ { "x":838, "y":606 }, { "x":838, "y":574 }, { "x":678, "y":574 }, { "x":680, "y":606 } ],
+					[ { "x":1214, "y":518 }, { "x":1238, "y":518 }, { "x":1510, "y":10 } ],
+					[ { "x":1238, "y":518 }, { "x":1360, "y":616 }, { "x":1510, "y":10 } ]
+				]
+			}
+		]
+	},
+	"sportshop": {
+		"type": "fromPhysicsEditor",
+		"label": "sportshop",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":110, "y":635 }, { "x":197, "y":695 }, { "x":329, "y":577 }, { "x":257, "y":534 } ]
+				]
+			}
+		]
+	},
+	"command": {
+		"type": "fromPhysicsEditor",
+		"label": "command",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1510, "y":761 }, { "x":1367, "y":662 }, { "x":1316, "y":702 }, { "x":1448, "y":815 } ]
+				]
+			}
+		]
+	}
+}

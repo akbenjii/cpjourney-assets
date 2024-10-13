@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "dockcatalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 713,
+				"h": 905
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dock",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 415,
+						"y": 46,
+						"w": 711,
+						"h": 845
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 711,
+						"h": 845
+					}
+				},
+				{
+					"filename": "closebtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 848,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 848,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 848,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f1ba367e4bf3738b52f91a311e541e87:c9bc7cd68df24bf4288deea2a33fdb71:9e4d4300cb3de55e435f2c29f63c2517$"
+	}
+}

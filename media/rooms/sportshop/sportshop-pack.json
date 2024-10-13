@@ -1,0 +1,34 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/sportshop/sportshop.json",
+                "path": "assets/media/rooms/sportshop",
+                "key": "sportshop"
+            },
+            {
+                "url": "assets/media/rooms/sportshop/sportshop img.png",
+                "type": "image",
+                "key": "sportshop img"
+            },
+            {
+                "url": "assets/media/rooms/sportshop/sportshop-anims.json",
+                "type": "animation",
+                "key": "sportshop-anims"
+            },
+            {
+                "url": "assets/media/rooms/sportshop/sportshop-physics.json",
+                "type": "json",
+                "key": "sportshop-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

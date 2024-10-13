@@ -1,0 +1,96 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/maroonlagoonride/marooned-lagoon-ride.json",
+                "path": "assets/media/rooms/_fair/maroonlagoonride",
+                "key": "maroon-lagoon-ride"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/target_popup.mp3"
+                ],
+                "type": "audio",
+                "key": "target_popup"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/barrel_popout.mp3"
+                ],
+                "type": "audio",
+                "key": "barrel_popout"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/cannon_fuse.mp3"
+                ],
+                "type": "audio",
+                "key": "cannon_fuse"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/pirate_song.mp3"
+                ],
+                "type": "audio",
+                "key": "pirate_song"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/shark.mp3"
+                ],
+                "type": "audio",
+                "key": "shark"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/splash.mp3"
+                ],
+                "type": "audio",
+                "key": "splash"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/squid1.mp3"
+                ],
+                "type": "audio",
+                "key": "squid1"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/squid2.mp3"
+                ],
+                "type": "audio",
+                "key": "squid2"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/target_down.mp3"
+                ],
+                "type": "audio",
+                "key": "target_down"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/target_hit.mp3"
+                ],
+                "type": "audio",
+                "key": "target_hit"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/maroonedlagoon/target_shoot.mp3"
+                ],
+                "type": "audio",
+                "key": "target_shoot"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

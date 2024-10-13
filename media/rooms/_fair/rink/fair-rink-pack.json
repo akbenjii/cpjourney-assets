@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/rink/fair-rink.json",
+                "path": "assets/media/rooms/_fair/rink",
+                "key": "fair-rink"
+            },
+            {
+                "url": "assets/media/rooms/_fair/rink/fair-rink-anims.json",
+                "type": "animation",
+                "key": "fair-rink-anims"
+            },
+            {
+                "url": "assets/media/rooms/rink/ice_rink/rink-physics.json",
+                "type": "json",
+                "key": "rink-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

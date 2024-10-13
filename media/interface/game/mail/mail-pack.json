@@ -1,0 +1,42 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/mail.json",
+                "path": "assets/media/interface/game/mail",
+                "key": "mail"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/book/mail-book-sendpopup.json",
+                "path": "assets/media/interface/game/mail/book",
+                "key": "mail-book-sendpopup"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/mail-gothere.json",
+                "path": "assets/media/interface/game/mail",
+                "key": "mail-gothere"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/mail/mail-gotherejitsu.json",
+                "path": "assets/media/interface/game/mail",
+                "key": "mail-gotherejitsu"
+            },
+            {
+                "url": "assets/media/interface/game/mail/testPostcard.png",
+                "type": "image",
+                "key": "testPostcard"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

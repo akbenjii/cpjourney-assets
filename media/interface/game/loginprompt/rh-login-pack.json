@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/loginprompt/holiday/arrow.png",
+                "type": "image",
+                "key": "arrow"
+            },
+            {
+                "url": "assets/media/interface/game/loginprompt/holiday/bakeryscreenshot.png",
+                "type": "image",
+                "key": "bakeryscreenshot"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/loginprompt/psa_softlaunch/psa_softlaunch.json",
+                "path": "assets/media/interface/game/loginprompt/psa_softlaunch",
+                "key": "psa_softlaunch"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/loginprompt/holiday/rh-login.json",
+                "path": "assets/media/interface/game/loginprompt/holiday",
+                "key": "rh-login"
+            },
+            {
+                "url": "assets/media/interface/game/loginprompt/holiday/sledscreenshot.png",
+                "type": "image",
+                "key": "sledscreenshot"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

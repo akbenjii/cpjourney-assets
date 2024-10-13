@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/buttons/newspaper-0.json",
+                "path": "assets/media/interface/game/newspaper/buttons",
+                "key": "newspaperbuttons"
+            },
+            {
+                "url": "assets/media/interface/game/newspaper/sixth edition/party_note.png",
+                "type": "image",
+                "key": "party_note"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/sixth edition/sixth-edition.json",
+                "path": "assets/media/interface/game/newspaper/sixth edition",
+                "key": "sixth-edition"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

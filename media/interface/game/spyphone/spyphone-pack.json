@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/spyphone/spyphone-anims.json",
+                "type": "animation",
+                "key": "spyphone-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/spyphone/spyphone-bw.json",
+                "path": "assets/media/interface/game/spyphone",
+                "key": "spyphone"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

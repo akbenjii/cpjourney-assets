@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/oldboiler/bg.png",
+                "type": "image",
+                "key": "bgOldBoiler"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/oldboiler/boilerandsmoke.json",
+                "path": "assets/media/rooms/oldboiler",
+                "key": "boilerandsmoke"
+            },
+            {
+                "url": "assets/media/rooms/oldboiler/oldboiler-physics.json",
+                "type": "json",
+                "key": "oldboiler-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

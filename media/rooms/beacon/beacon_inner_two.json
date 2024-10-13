@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "beacon_inner_two-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1302,
+				"h": 1182
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "inner0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1300,
+						"h": 589
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1300,
+						"h": 589
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1300,
+						"h": 589
+					}
+				},
+				{
+					"filename": "inner0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1300,
+						"h": 589
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1300,
+						"h": 589
+					},
+					"frame": {
+						"x": 1,
+						"y": 592,
+						"w": 1300,
+						"h": 589
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fe151870b26e06fb642fadb9d5bff52f:52c31847c0b7e85504cf43f7f49fbc09:5932a645ee1dcd9c3e4a7571786dbc59$"
+	}
+}

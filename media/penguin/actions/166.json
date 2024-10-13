@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "166-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 83,
+				"h": 126
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "body/166_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 158,
+						"y": 139,
+						"w": 81,
+						"h": 65
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 81,
+						"h": 65
+					}
+				},
+				{
+					"filename": "penguin/166_1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 164,
+						"y": 155,
+						"w": 74,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 68,
+						"w": 74,
+						"h": 57
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:82bc5e5e825fc8a67879cf19443ad861:accae8ee43499f4249dba3db46f68a8d:c173d65641ee5889d8e8290be172f00b$"
+	}
+}

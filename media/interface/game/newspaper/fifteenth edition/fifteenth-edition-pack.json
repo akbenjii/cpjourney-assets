@@ -1,0 +1,25 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/fifteenth edition/fifteenth-edition.json",
+                "path": "assets/media/interface/game/newspaper/fifteenth edition",
+                "key": "fifteenth-edition"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/_buttons-v2/newspaper-buttons-v2.json",
+                "path": "assets/media/interface/game/newspaper/_buttons-v2",
+                "key": "newspaper-buttons-v2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

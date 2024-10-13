@@ -1,0 +1,1218 @@
+{
+	"textures": [
+		{
+			"image": "villageprizes-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2047
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1649,
+						"h": 1036
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1649,
+						"h": 1036
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1649,
+						"h": 1036
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1552,
+						"h": 1007
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1552,
+						"h": 1007
+					},
+					"frame": {
+						"x": 1,
+						"y": 1039,
+						"w": 1552,
+						"h": 1007
+					}
+				},
+				{
+					"filename": "ticketsign2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 248,
+						"h": 825
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 248,
+						"h": 825
+					},
+					"frame": {
+						"x": 1555,
+						"y": 1039,
+						"w": 248,
+						"h": 825
+					}
+				},
+				{
+					"filename": "fishfeet0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 492,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 492,
+						"h": 168
+					},
+					"frame": {
+						"x": 1555,
+						"y": 1866,
+						"w": 492,
+						"h": 168
+					}
+				},
+				{
+					"filename": "fancysign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 287
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 287
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1,
+						"w": 372,
+						"h": 287
+					}
+				},
+				{
+					"filename": "shrimplei0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 368,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 368,
+						"h": 219
+					},
+					"frame": {
+						"x": 1652,
+						"y": 290,
+						"w": 368,
+						"h": 219
+					}
+				},
+				{
+					"filename": "shrimplei0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 368,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 366,
+						"h": 217
+					},
+					"frame": {
+						"x": 1652,
+						"y": 511,
+						"w": 366,
+						"h": 217
+					}
+				},
+				{
+					"filename": "squidstick0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 251
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 251
+					},
+					"frame": {
+						"x": 1652,
+						"y": 730,
+						"w": 270,
+						"h": 251
+					}
+				},
+				{
+					"filename": "candyapplestand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 245,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 30
+					},
+					"frame": {
+						"x": 1652,
+						"y": 983,
+						"w": 245,
+						"h": 30
+					}
+				},
+				{
+					"filename": "cottoncandy10002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 253
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 253
+					},
+					"frame": {
+						"x": 1899,
+						"y": 983,
+						"w": 139,
+						"h": 253
+					}
+				},
+				{
+					"filename": "egg0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 80
+					},
+					"frame": {
+						"x": 1924,
+						"y": 730,
+						"w": 73,
+						"h": 80
+					}
+				},
+				{
+					"filename": "signstand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 79
+					},
+					"frame": {
+						"x": 1924,
+						"y": 812,
+						"w": 62,
+						"h": 79
+					}
+				},
+				{
+					"filename": "egg0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 73,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 64,
+						"h": 70
+					},
+					"frame": {
+						"x": 1924,
+						"y": 893,
+						"w": 64,
+						"h": 70
+					}
+				},
+				{
+					"filename": "rope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 469
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 469
+					},
+					"frame": {
+						"x": 1805,
+						"y": 1015,
+						"w": 62,
+						"h": 469
+					}
+				},
+				{
+					"filename": "cottoncandy10001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 139,
+						"h": 253
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 137,
+						"h": 251
+					},
+					"frame": {
+						"x": 1805,
+						"y": 1486,
+						"w": 137,
+						"h": 251
+					}
+				},
+				{
+					"filename": "corndog20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 224,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 220,
+						"h": 122
+					},
+					"frame": {
+						"x": 1805,
+						"y": 1739,
+						"w": 220,
+						"h": 122
+					}
+				},
+				{
+					"filename": "nuggets0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 128
+					},
+					"frame": {
+						"x": 1869,
+						"y": 1238,
+						"w": 168,
+						"h": 128
+					}
+				},
+				{
+					"filename": "seaweed0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 179,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 178,
+						"h": 75
+					},
+					"frame": {
+						"x": 1869,
+						"y": 1368,
+						"w": 178,
+						"h": 75
+					}
+				},
+				{
+					"filename": "ticketicon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 62
+					},
+					"frame": {
+						"x": 1944,
+						"y": 1445,
+						"w": 62,
+						"h": 62
+					}
+				}
+			]
+		},
+		{
+			"image": "villageprizes-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2041,
+				"h": 2030
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ref2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "bigsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 495,
+						"h": 437
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 495,
+						"h": 437
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 495,
+						"h": 437
+					}
+				},
+				{
+					"filename": "cheeseskirt0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 189
+					},
+					"frame": {
+						"x": 1523,
+						"y": 440,
+						"w": 453,
+						"h": 189
+					}
+				},
+				{
+					"filename": "cheeseskirt0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 453,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 451,
+						"h": 188
+					},
+					"frame": {
+						"x": 1523,
+						"y": 631,
+						"w": 451,
+						"h": 188
+					}
+				},
+				{
+					"filename": "fishfeet0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 492,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 490,
+						"h": 166
+					},
+					"frame": {
+						"x": 1523,
+						"y": 821,
+						"w": 490,
+						"h": 166
+					}
+				},
+				{
+					"filename": "nuggetpile",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1196,
+						"h": 777
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1196,
+						"h": 777
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1196,
+						"h": 777
+					}
+				},
+				{
+					"filename": "squid0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 234
+					},
+					"frame": {
+						"x": 1199,
+						"y": 963,
+						"w": 278,
+						"h": 234
+					}
+				},
+				{
+					"filename": "bignugget0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 575,
+						"h": 694
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 561,
+						"h": 680
+					},
+					"frame": {
+						"x": 1479,
+						"y": 989,
+						"w": 561,
+						"h": 680
+					}
+				},
+				{
+					"filename": "squidstick0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 270,
+						"h": 251
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 265,
+						"h": 245
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1199,
+						"w": 265,
+						"h": 245
+					}
+				},
+				{
+					"filename": "squid0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 278,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 276,
+						"h": 232
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1446,
+						"w": 276,
+						"h": 232
+					}
+				},
+				{
+					"filename": "saucehands0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 565,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 563,
+						"h": 133
+					},
+					"frame": {
+						"x": 1477,
+						"y": 1671,
+						"w": 563,
+						"h": 133
+					}
+				},
+				{
+					"filename": "candyapples0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 261,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 261,
+						"h": 189
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1680,
+						"w": 261,
+						"h": 189
+					}
+				},
+				{
+					"filename": "saucehands0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 565,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 565,
+						"h": 135
+					},
+					"frame": {
+						"x": 1462,
+						"y": 1806,
+						"w": 565,
+						"h": 135
+					}
+				},
+				{
+					"filename": "shelf3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 478,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 478,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 1943,
+						"w": 478,
+						"h": 86
+					}
+				},
+				{
+					"filename": "corndogtray",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 322,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 322,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1871,
+						"w": 322,
+						"h": 60
+					}
+				},
+				{
+					"filename": "shelf2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 65
+					},
+					"frame": {
+						"x": 325,
+						"y": 1871,
+						"w": 256,
+						"h": 65
+					}
+				},
+				{
+					"filename": "shelf",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 306,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 306,
+						"h": 86
+					},
+					"frame": {
+						"x": 481,
+						"y": 1938,
+						"w": 306,
+						"h": 86
+					}
+				},
+				{
+					"filename": "cottonstand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 55
+					},
+					"frame": {
+						"x": 583,
+						"y": 1871,
+						"w": 256,
+						"h": 55
+					}
+				},
+				{
+					"filename": "ticketsign1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 205,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 205,
+						"h": 94
+					},
+					"frame": {
+						"x": 789,
+						"y": 1928,
+						"w": 205,
+						"h": 94
+					}
+				},
+				{
+					"filename": "candyapples0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 261,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 255,
+						"h": 184
+					},
+					"frame": {
+						"x": 841,
+						"y": 1742,
+						"w": 255,
+						"h": 184
+					}
+				},
+				{
+					"filename": "corndogs0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 130
+					},
+					"frame": {
+						"x": 1098,
+						"y": 1871,
+						"w": 278,
+						"h": 130
+					}
+				},
+				{
+					"filename": "corndog10002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 76
+					},
+					"frame": {
+						"x": 1378,
+						"y": 1943,
+						"w": 236,
+						"h": 76
+					}
+				},
+				{
+					"filename": "corndog10001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 236,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 232,
+						"h": 72
+					},
+					"frame": {
+						"x": 1616,
+						"y": 1943,
+						"w": 232,
+						"h": 72
+					}
+				},
+				{
+					"filename": "seaweed0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 179,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 76
+					},
+					"frame": {
+						"x": 1850,
+						"y": 1943,
+						"w": 179,
+						"h": 76
+					}
+				},
+				{
+					"filename": "corndogs0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 278,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 273,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1742,
+						"w": 273,
+						"h": 124
+					}
+				},
+				{
+					"filename": "corndog20002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 127
+					},
+					"frame": {
+						"x": 276,
+						"y": 1742,
+						"w": 224,
+						"h": 127
+					}
+				},
+				{
+					"filename": "nuggets0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 166,
+						"h": 126
+					},
+					"frame": {
+						"x": 502,
+						"y": 1742,
+						"w": 166,
+						"h": 126
+					}
+				},
+				{
+					"filename": "jar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 146,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 146,
+						"h": 72
+					},
+					"frame": {
+						"x": 670,
+						"y": 1742,
+						"w": 146,
+						"h": 72
+					}
+				}
+			]
+		},
+		{
+			"image": "villageprizes-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1182,
+				"h": 1005
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "nuggetmann",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 603,
+						"h": 752
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 603,
+						"h": 752
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 603,
+						"h": 752
+					}
+				},
+				{
+					"filename": "cottoncandy20002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 755,
+						"w": 136,
+						"h": 249
+					}
+				},
+				{
+					"filename": "cottoncandy20001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 134,
+						"h": 247
+					},
+					"frame": {
+						"x": 139,
+						"y": 755,
+						"w": 134,
+						"h": 247
+					}
+				},
+				{
+					"filename": "corn0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 183
+					},
+					"frame": {
+						"x": 275,
+						"y": 755,
+						"w": 250,
+						"h": 183
+					}
+				},
+				{
+					"filename": "corn0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 245,
+						"h": 177
+					},
+					"frame": {
+						"x": 527,
+						"y": 755,
+						"w": 245,
+						"h": 177
+					}
+				},
+				{
+					"filename": "bignugget0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 575,
+						"h": 694
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 575,
+						"h": 694
+					},
+					"frame": {
+						"x": 606,
+						"y": 1,
+						"w": 575,
+						"h": 694
+					}
+				},
+				{
+					"filename": "lollipop0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 191,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 191,
+						"h": 171
+					},
+					"frame": {
+						"x": 774,
+						"y": 697,
+						"w": 191,
+						"h": 171
+					}
+				},
+				{
+					"filename": "ticketsign3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 245,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 132
+					},
+					"frame": {
+						"x": 774,
+						"y": 870,
+						"w": 245,
+						"h": 132
+					}
+				},
+				{
+					"filename": "lollipop0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 185,
+						"h": 165
+					},
+					"frame": {
+						"x": 967,
+						"y": 697,
+						"w": 185,
+						"h": 165
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:27b1c594430cdf57ad8e0d1ea589be71:187fb0fb0d211ad6e9648409ce2d21a6:cd0a8db2612534e42b84e53bd6656afc$"
+	}
+}

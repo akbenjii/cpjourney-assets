@@ -1,0 +1,556 @@
+{
+	"textures": [
+		{
+			"image": "cjcardbuy-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1901,
+				"h": 2020
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1522,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1522,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1522,
+						"h": 960
+					}
+				},
+				{
+					"filename": "1card",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1522,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 775,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 775,
+						"h": 960
+					}
+				},
+				{
+					"filename": "1kanim/light",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 885,
+						"h": 906
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 386,
+						"w": 675,
+						"h": 520
+					},
+					"frame": {
+						"x": 778,
+						"y": 963,
+						"w": 675,
+						"h": 520
+					}
+				},
+				{
+					"filename": "5cardfront",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1522,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 932,
+						"y": 180,
+						"w": 338,
+						"h": 534
+					},
+					"frame": {
+						"x": 778,
+						"y": 1485,
+						"w": 338,
+						"h": 534
+					}
+				},
+				{
+					"filename": "2cardfront",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1522,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 932,
+						"y": 180,
+						"w": 338,
+						"h": 535
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1,
+						"w": 338,
+						"h": 535
+					}
+				},
+				{
+					"filename": "1cardfront",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1522,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 936,
+						"y": 180,
+						"w": 331,
+						"h": 537
+					},
+					"frame": {
+						"x": 1525,
+						"y": 538,
+						"w": 331,
+						"h": 537
+					}
+				},
+				{
+					"filename": "1kanim/cardbeginning",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 445,
+						"h": 551
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 445,
+						"h": 551
+					},
+					"frame": {
+						"x": 1455,
+						"y": 1077,
+						"w": 445,
+						"h": 551
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 255,
+						"w": 494,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1925,
+						"w": 494,
+						"h": 62
+					}
+				},
+				{
+					"filename": "buybtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 112
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1485,
+						"w": 237,
+						"h": 112
+					}
+				},
+				{
+					"filename": "buybtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 112
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1485,
+						"w": 237,
+						"h": 112
+					}
+				},
+				{
+					"filename": "buybtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 112
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1599,
+						"w": 237,
+						"h": 112
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 255,
+						"w": 492,
+						"h": 62
+					},
+					"frame": {
+						"x": 1357,
+						"y": 1630,
+						"w": 492,
+						"h": 62
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 255,
+						"w": 486,
+						"h": 59
+					},
+					"frame": {
+						"x": 1357,
+						"y": 1694,
+						"w": 486,
+						"h": 59
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 376,
+						"y": 245,
+						"w": 259,
+						"h": 68
+					},
+					"frame": {
+						"x": 497,
+						"y": 1925,
+						"w": 259,
+						"h": 68
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 255,
+						"w": 479,
+						"h": 62
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1755,
+						"w": 479,
+						"h": 62
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 255,
+						"w": 447,
+						"h": 44
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1819,
+						"w": 447,
+						"h": 44
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 251,
+						"w": 191,
+						"h": 43
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1755,
+						"w": 191,
+						"h": 43
+					}
+				},
+				{
+					"filename": "btnleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 140
+					},
+					"frame": {
+						"x": 1357,
+						"y": 1485,
+						"w": 74,
+						"h": 140
+					}
+				},
+				{
+					"filename": "btnright",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 140
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1865,
+						"w": 74,
+						"h": 140
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 642,
+						"y": 210,
+						"w": 77,
+						"h": 42
+					},
+					"frame": {
+						"x": 1194,
+						"y": 1865,
+						"w": 77,
+						"h": 42
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 881,
+						"y": 0,
+						"w": 77,
+						"h": 41
+					},
+					"frame": {
+						"x": 1194,
+						"y": 1909,
+						"w": 77,
+						"h": 41
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 46
+					},
+					"frame": {
+						"x": 1455,
+						"y": 963,
+						"w": 46,
+						"h": 46
+					}
+				},
+				{
+					"filename": "1kanim/slicetopoff0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1269,
+						"h": 925
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		},
+		{
+			"image": "cjcardbuy-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 962
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "2card",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1522,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 775,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 775,
+						"h": 960
+					}
+				},
+				{
+					"filename": "5card",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1522,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 775,
+						"h": 960
+					},
+					"frame": {
+						"x": 778,
+						"y": 1,
+						"w": 775,
+						"h": 960
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e7e89fcbcddb612b30d30feb37b0e777:ff23eb1d17d9aaed67418f09eb62ea0a:c4ec5575fe616910b61a9f8084f8f549$"
+	}
+}

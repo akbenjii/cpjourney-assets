@@ -1,0 +1,231 @@
+{
+	"textures": [
+		{
+			"image": "decemberfurniture-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1888,
+				"h": 1682
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dcpgcandy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "pg0sticky",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 373,
+						"y": 33,
+						"w": 705,
+						"h": 865
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 705,
+						"h": 865
+					}
+				},
+				{
+					"filename": "decpgindoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "decpg1111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 600,
+						"h": 813
+					},
+					"frame": {
+						"x": 1182,
+						"y": 868,
+						"w": 600,
+						"h": 813
+					}
+				}
+			]
+		},
+		{
+			"image": "decemberfurniture-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1783,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "decpgitem",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "pg0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 33,
+						"w": 600,
+						"h": 814
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 600,
+						"h": 814
+					}
+				},
+				{
+					"filename": "decpgitemtwo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				}
+			]
+		},
+		{
+			"image": "decemberfurniture-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1181,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "decpgoutdoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "decpgsnowman",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ee573ec48ef8582bf9e83fc411bd6dd0:e2143d9a1837e489dd259117edfbb292:7ba82a71574963af3e72a2bab75b5f09$"
+	}
+}

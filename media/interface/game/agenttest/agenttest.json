@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "agenttest.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 338,
+				"h": 608
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "agent",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 336,
+						"h": 534
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 534
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 336,
+						"h": 534
+					}
+				},
+				{
+					"filename": "spyphoneicon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 537,
+						"w": 80,
+						"h": 70
+					}
+				},
+				{
+					"filename": "headquartersicon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 68
+					},
+					"frame": {
+						"x": 83,
+						"y": 537,
+						"w": 63,
+						"h": 68
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:71750c2f4f70f7ba89b5043d5ecfc2d8:044b4afceb9d1c162f22c1edf6c7d43d:1543456ef7e77494cfe2b3da2b005bbe$"
+	}
+}

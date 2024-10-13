@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "august-igloocatalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1796,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pg2_aug_igloo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "shipwreck-secret",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 660,
+						"h": 459
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 0,
+						"w": 613,
+						"h": 459
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 613,
+						"h": 459
+					}
+				},
+				{
+					"filename": "pg1_aug_igloo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 600,
+						"h": 813
+					},
+					"frame": {
+						"x": 1182,
+						"y": 462,
+						"w": 600,
+						"h": 813
+					}
+				},
+				{
+					"filename": "pg3_aug_igloo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:01ea51810bf0197a8b0f3245624739c9:ec6b71e9d4f1e2dbb6675041fce7dd43:94e919d973fd109808161f6092a3dedb$"
+	}
+}

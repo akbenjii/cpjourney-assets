@@ -1,0 +1,6249 @@
+{
+	"textures": [
+		{
+			"image": "binoculars-cove-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1958,
+				"h": 2045
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blackspace",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1533,
+						"h": 966
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1533,
+						"h": 966
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1533,
+						"h": 966
+					}
+				},
+				{
+					"filename": "blue0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1491,
+						"h": 947
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1491,
+						"h": 947
+					},
+					"frame": {
+						"x": 1,
+						"y": 969,
+						"w": 1491,
+						"h": 947
+					}
+				},
+				{
+					"filename": "blue0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1491,
+						"h": 947
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1491,
+						"h": 947
+					},
+					"frame": {
+						"x": 1,
+						"y": 969,
+						"w": 1491,
+						"h": 947
+					}
+				},
+				{
+					"filename": "blue0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1491,
+						"h": 947
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1491,
+						"h": 947
+					},
+					"frame": {
+						"x": 1,
+						"y": 969,
+						"w": 1491,
+						"h": 947
+					}
+				},
+				{
+					"filename": "blue0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1491,
+						"h": 947
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1491,
+						"h": 947
+					},
+					"frame": {
+						"x": 1,
+						"y": 969,
+						"w": 1491,
+						"h": 947
+					}
+				},
+				{
+					"filename": "anim_bino0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1673,
+						"y": 8,
+						"w": 617,
+						"h": 126
+					},
+					"frame": {
+						"x": 1,
+						"y": 1918,
+						"w": 617,
+						"h": 126
+					}
+				},
+				{
+					"filename": "anim_bino0186",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 0,
+						"w": 421,
+						"h": 318
+					},
+					"frame": {
+						"x": 1536,
+						"y": 1,
+						"w": 421,
+						"h": 318
+					}
+				},
+				{
+					"filename": "anim_bino0187",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 0,
+						"w": 421,
+						"h": 318
+					},
+					"frame": {
+						"x": 1536,
+						"y": 321,
+						"w": 421,
+						"h": 318
+					}
+				},
+				{
+					"filename": "anim_bino0188",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 0,
+						"w": 421,
+						"h": 318
+					},
+					"frame": {
+						"x": 1536,
+						"y": 641,
+						"w": 421,
+						"h": 318
+					}
+				},
+				{
+					"filename": "anim_bino0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 620,
+						"y": 1918,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0185",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 3,
+						"w": 421,
+						"h": 315
+					},
+					"frame": {
+						"x": 1536,
+						"y": 961,
+						"w": 421,
+						"h": 315
+					}
+				},
+				{
+					"filename": "anim_bino0181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 49,
+						"w": 421,
+						"h": 269
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1278,
+						"w": 421,
+						"h": 269
+					}
+				},
+				{
+					"filename": "anim_bino0200",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1061,
+						"y": 136,
+						"w": 429,
+						"h": 182
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1549,
+						"w": 429,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0199",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1068,
+						"y": 136,
+						"w": 422,
+						"h": 182
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1733,
+						"w": 422,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 280,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1254,
+						"y": 1918,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1911,
+						"y": 76,
+						"w": 53,
+						"h": 54
+					},
+					"frame": {
+						"x": 1888,
+						"y": 1917,
+						"w": 53,
+						"h": 54
+					}
+				},
+				{
+					"filename": "binocularwaves0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "binocularwaves0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 1494,
+						"y": 969,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		},
+		{
+			"image": "binoculars-cove-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1969,
+				"h": 2032
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "excellentart",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1111,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1111,
+						"h": 800
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1111,
+						"h": 800
+					}
+				},
+				{
+					"filename": "anim_bino0189",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 3,
+						"w": 421,
+						"h": 315
+					},
+					"frame": {
+						"x": 1114,
+						"y": 1,
+						"w": 421,
+						"h": 315
+					}
+				},
+				{
+					"filename": "anim_bino0190",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 5,
+						"w": 421,
+						"h": 313
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1,
+						"w": 421,
+						"h": 313
+					}
+				},
+				{
+					"filename": "anim_bino0191",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 6,
+						"w": 421,
+						"h": 312
+					},
+					"frame": {
+						"x": 1537,
+						"y": 316,
+						"w": 421,
+						"h": 312
+					}
+				},
+				{
+					"filename": "anim_bino0184",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 10,
+						"w": 421,
+						"h": 308
+					},
+					"frame": {
+						"x": 1114,
+						"y": 318,
+						"w": 421,
+						"h": 308
+					}
+				},
+				{
+					"filename": "anim_bino0192",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 15,
+						"w": 421,
+						"h": 303
+					},
+					"frame": {
+						"x": 1114,
+						"y": 628,
+						"w": 421,
+						"h": 303
+					}
+				},
+				{
+					"filename": "anim_bino0183",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 20,
+						"w": 421,
+						"h": 298
+					},
+					"frame": {
+						"x": 1537,
+						"y": 630,
+						"w": 421,
+						"h": 298
+					}
+				},
+				{
+					"filename": "anim_bino0193",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 27,
+						"w": 421,
+						"h": 291
+					},
+					"frame": {
+						"x": 1537,
+						"y": 930,
+						"w": 421,
+						"h": 291
+					}
+				},
+				{
+					"filename": "anim_bino0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1651,
+						"y": 8,
+						"w": 648,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 803,
+						"w": 648,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1564,
+						"y": 8,
+						"w": 648,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 928,
+						"w": 648,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1477,
+						"y": 8,
+						"w": 648,
+						"h": 122
+					},
+					"frame": {
+						"x": 651,
+						"y": 933,
+						"w": 648,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1390,
+						"y": 8,
+						"w": 647,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 1053,
+						"w": 647,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1303,
+						"y": 8,
+						"w": 647,
+						"h": 121
+					},
+					"frame": {
+						"x": 650,
+						"y": 1057,
+						"w": 647,
+						"h": 121
+					}
+				},
+				{
+					"filename": "anim_bino0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1216,
+						"y": 8,
+						"w": 647,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1177,
+						"w": 647,
+						"h": 120
+					}
+				},
+				{
+					"filename": "binocularwaves0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 2,
+						"w": 730,
+						"h": 24
+					},
+					"frame": {
+						"x": 650,
+						"y": 1180,
+						"w": 730,
+						"h": 24
+					}
+				},
+				{
+					"filename": "binocularwaves0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 2,
+						"w": 730,
+						"h": 24
+					},
+					"frame": {
+						"x": 650,
+						"y": 1180,
+						"w": 730,
+						"h": 24
+					}
+				},
+				{
+					"filename": "binocularwaves0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 1,
+						"w": 730,
+						"h": 24
+					},
+					"frame": {
+						"x": 650,
+						"y": 1206,
+						"w": 730,
+						"h": 24
+					}
+				},
+				{
+					"filename": "binocularwaves0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 1,
+						"w": 730,
+						"h": 24
+					},
+					"frame": {
+						"x": 650,
+						"y": 1206,
+						"w": 730,
+						"h": 24
+					}
+				},
+				{
+					"filename": "binocularwaves0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 0,
+						"w": 986,
+						"h": 80
+					},
+					"frame": {
+						"x": 650,
+						"y": 1232,
+						"w": 986,
+						"h": 80
+					}
+				},
+				{
+					"filename": "binocularwaves0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 0,
+						"w": 986,
+						"h": 80
+					},
+					"frame": {
+						"x": 650,
+						"y": 1232,
+						"w": 986,
+						"h": 80
+					}
+				},
+				{
+					"filename": "binocularwaves0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 0,
+						"w": 978,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 1314,
+						"w": 978,
+						"h": 77
+					}
+				},
+				{
+					"filename": "binocularwaves0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 0,
+						"w": 978,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 1314,
+						"w": 978,
+						"h": 77
+					}
+				},
+				{
+					"filename": "binocularwaves0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 2,
+						"w": 959,
+						"h": 78
+					},
+					"frame": {
+						"x": 981,
+						"y": 1314,
+						"w": 959,
+						"h": 78
+					}
+				},
+				{
+					"filename": "binocularwaves0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 2,
+						"w": 959,
+						"h": 78
+					},
+					"frame": {
+						"x": 981,
+						"y": 1314,
+						"w": 959,
+						"h": 78
+					}
+				},
+				{
+					"filename": "binocularwaves0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 4,
+						"w": 948,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 1393,
+						"w": 948,
+						"h": 77
+					}
+				},
+				{
+					"filename": "binocularwaves0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 4,
+						"w": 948,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 1393,
+						"w": 948,
+						"h": 77
+					}
+				},
+				{
+					"filename": "binocularwaves0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 1,
+						"w": 980,
+						"h": 76
+					},
+					"frame": {
+						"x": 951,
+						"y": 1394,
+						"w": 980,
+						"h": 76
+					}
+				},
+				{
+					"filename": "binocularwaves0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 1,
+						"w": 980,
+						"h": 76
+					},
+					"frame": {
+						"x": 951,
+						"y": 1394,
+						"w": 980,
+						"h": 76
+					}
+				},
+				{
+					"filename": "binocularwaves0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 0,
+						"w": 982,
+						"h": 75
+					},
+					"frame": {
+						"x": 1,
+						"y": 1472,
+						"w": 982,
+						"h": 75
+					}
+				},
+				{
+					"filename": "binocularwaves0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 0,
+						"w": 982,
+						"h": 75
+					},
+					"frame": {
+						"x": 1,
+						"y": 1472,
+						"w": 982,
+						"h": 75
+					}
+				},
+				{
+					"filename": "binocularwaves0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 0,
+						"w": 983,
+						"h": 74
+					},
+					"frame": {
+						"x": 985,
+						"y": 1472,
+						"w": 983,
+						"h": 74
+					}
+				},
+				{
+					"filename": "binocularwaves0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 0,
+						"w": 983,
+						"h": 74
+					},
+					"frame": {
+						"x": 985,
+						"y": 1472,
+						"w": 983,
+						"h": 74
+					}
+				},
+				{
+					"filename": "binocularwaves0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 156,
+						"y": 5,
+						"w": 930,
+						"h": 74
+					},
+					"frame": {
+						"x": 985,
+						"y": 1548,
+						"w": 930,
+						"h": 74
+					}
+				},
+				{
+					"filename": "binocularwaves0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 156,
+						"y": 5,
+						"w": 930,
+						"h": 74
+					},
+					"frame": {
+						"x": 985,
+						"y": 1548,
+						"w": 930,
+						"h": 74
+					}
+				},
+				{
+					"filename": "binocularwaves0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 6,
+						"w": 919,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 1549,
+						"w": 919,
+						"h": 74
+					}
+				},
+				{
+					"filename": "binocularwaves0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 6,
+						"w": 919,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 1549,
+						"w": 919,
+						"h": 74
+					}
+				},
+				{
+					"filename": "binocularwaves0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 995,
+						"h": 69
+					},
+					"frame": {
+						"x": 922,
+						"y": 1624,
+						"w": 995,
+						"h": 69
+					}
+				},
+				{
+					"filename": "binocularwaves0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 995,
+						"h": 69
+					},
+					"frame": {
+						"x": 922,
+						"y": 1624,
+						"w": 995,
+						"h": 69
+					}
+				},
+				{
+					"filename": "binocularwaves0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 912,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 1625,
+						"w": 912,
+						"h": 43
+					}
+				},
+				{
+					"filename": "binocularwaves0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 912,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 1625,
+						"w": 912,
+						"h": 43
+					}
+				},
+				{
+					"filename": "binocularwaves0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 1,
+						"w": 730,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 1670,
+						"w": 730,
+						"h": 23
+					}
+				},
+				{
+					"filename": "binocularwaves0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 1,
+						"w": 730,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 1670,
+						"w": 730,
+						"h": 23
+					}
+				},
+				{
+					"filename": "binocularwaves0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 2,
+						"w": 995,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 1695,
+						"w": 995,
+						"h": 66
+					}
+				},
+				{
+					"filename": "binocularwaves0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 2,
+						"w": 995,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 1695,
+						"w": 995,
+						"h": 66
+					}
+				},
+				{
+					"filename": "binocularwaves0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 1,
+						"w": 967,
+						"h": 57
+					},
+					"frame": {
+						"x": 998,
+						"y": 1695,
+						"w": 967,
+						"h": 57
+					}
+				},
+				{
+					"filename": "binocularwaves0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 1,
+						"w": 967,
+						"h": 57
+					},
+					"frame": {
+						"x": 998,
+						"y": 1695,
+						"w": 967,
+						"h": 57
+					}
+				},
+				{
+					"filename": "binocularwaves0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 956,
+						"h": 56
+					},
+					"frame": {
+						"x": 998,
+						"y": 1754,
+						"w": 956,
+						"h": 56
+					}
+				},
+				{
+					"filename": "binocularwaves0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 956,
+						"h": 56
+					},
+					"frame": {
+						"x": 998,
+						"y": 1754,
+						"w": 956,
+						"h": 56
+					}
+				},
+				{
+					"filename": "binocularwaves0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 0,
+						"w": 992,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1763,
+						"w": 992,
+						"h": 64
+					}
+				},
+				{
+					"filename": "binocularwaves0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 0,
+						"w": 992,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1763,
+						"w": 992,
+						"h": 64
+					}
+				},
+				{
+					"filename": "binocularwaves0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 951,
+						"h": 52
+					},
+					"frame": {
+						"x": 995,
+						"y": 1812,
+						"w": 951,
+						"h": 52
+					}
+				},
+				{
+					"filename": "binocularwaves0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 951,
+						"h": 52
+					},
+					"frame": {
+						"x": 995,
+						"y": 1812,
+						"w": 951,
+						"h": 52
+					}
+				},
+				{
+					"filename": "binocularwaves0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 1,
+						"w": 980,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1829,
+						"w": 980,
+						"h": 60
+					}
+				},
+				{
+					"filename": "binocularwaves0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 1,
+						"w": 980,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 1829,
+						"w": 980,
+						"h": 60
+					}
+				},
+				{
+					"filename": "binocularwaves0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 938,
+						"h": 47
+					},
+					"frame": {
+						"x": 983,
+						"y": 1866,
+						"w": 938,
+						"h": 47
+					}
+				},
+				{
+					"filename": "binocularwaves0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 938,
+						"h": 47
+					},
+					"frame": {
+						"x": 983,
+						"y": 1866,
+						"w": 938,
+						"h": 47
+					}
+				},
+				{
+					"filename": "binocularwaves0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 941,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 1891,
+						"w": 941,
+						"h": 45
+					}
+				},
+				{
+					"filename": "binocularwaves0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 941,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 1891,
+						"w": 941,
+						"h": 45
+					}
+				},
+				{
+					"filename": "binocularwaves0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 936,
+						"h": 45
+					},
+					"frame": {
+						"x": 944,
+						"y": 1915,
+						"w": 936,
+						"h": 45
+					}
+				},
+				{
+					"filename": "binocularwaves0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 936,
+						"h": 45
+					},
+					"frame": {
+						"x": 944,
+						"y": 1915,
+						"w": 936,
+						"h": 45
+					}
+				},
+				{
+					"filename": "binocularwaves0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 931,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 1938,
+						"w": 931,
+						"h": 44
+					}
+				},
+				{
+					"filename": "binocularwaves0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 931,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 1938,
+						"w": 931,
+						"h": 44
+					}
+				},
+				{
+					"filename": "binocularwaves0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 2,
+						"w": 723,
+						"h": 23
+					},
+					"frame": {
+						"x": 934,
+						"y": 1962,
+						"w": 723,
+						"h": 23
+					}
+				},
+				{
+					"filename": "binocularwaves0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 2,
+						"w": 723,
+						"h": 23
+					},
+					"frame": {
+						"x": 934,
+						"y": 1962,
+						"w": 723,
+						"h": 23
+					}
+				},
+				{
+					"filename": "binocularwaves0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 2,
+						"w": 720,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 1984,
+						"w": 720,
+						"h": 23
+					}
+				},
+				{
+					"filename": "binocularwaves0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 5,
+						"w": 728,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 2009,
+						"w": 728,
+						"h": 22
+					}
+				},
+				{
+					"filename": "binocularwaves0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 5,
+						"w": 728,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 2009,
+						"w": 728,
+						"h": 22
+					}
+				},
+				{
+					"filename": "binocularwaves0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 9,
+						"w": 719,
+						"h": 19
+					},
+					"frame": {
+						"x": 723,
+						"y": 1987,
+						"w": 719,
+						"h": 19
+					}
+				},
+				{
+					"filename": "binocularwaves0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 9,
+						"w": 719,
+						"h": 19
+					},
+					"frame": {
+						"x": 723,
+						"y": 1987,
+						"w": 719,
+						"h": 19
+					}
+				},
+				{
+					"filename": "binocularwaves0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 2,
+						"w": 726,
+						"h": 22
+					},
+					"frame": {
+						"x": 731,
+						"y": 2008,
+						"w": 726,
+						"h": 22
+					}
+				},
+				{
+					"filename": "binocularwaves0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1095,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 2,
+						"w": 726,
+						"h": 22
+					},
+					"frame": {
+						"x": 731,
+						"y": 2008,
+						"w": 726,
+						"h": 22
+					}
+				}
+			]
+		},
+		{
+			"image": "binoculars-cove-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1946,
+				"h": 2046
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "anim_bino0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1129,
+						"y": 8,
+						"w": 647,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 647,
+						"h": 120
+					}
+				},
+				{
+					"filename": "anim_bino0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1042,
+						"y": 8,
+						"w": 647,
+						"h": 119
+					},
+					"frame": {
+						"x": 650,
+						"y": 1,
+						"w": 647,
+						"h": 119
+					}
+				},
+				{
+					"filename": "anim_bino0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 956,
+						"y": 8,
+						"w": 646,
+						"h": 119
+					},
+					"frame": {
+						"x": 1299,
+						"y": 1,
+						"w": 646,
+						"h": 119
+					}
+				},
+				{
+					"filename": "anim_bino0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 869,
+						"y": 8,
+						"w": 646,
+						"h": 118
+					},
+					"frame": {
+						"x": 650,
+						"y": 122,
+						"w": 646,
+						"h": 118
+					}
+				},
+				{
+					"filename": "anim_bino0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 782,
+						"y": 8,
+						"w": 646,
+						"h": 117
+					},
+					"frame": {
+						"x": 1,
+						"y": 123,
+						"w": 646,
+						"h": 117
+					}
+				},
+				{
+					"filename": "anim_bino0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 695,
+						"y": 8,
+						"w": 646,
+						"h": 117
+					},
+					"frame": {
+						"x": 1298,
+						"y": 122,
+						"w": 646,
+						"h": 117
+					}
+				},
+				{
+					"filename": "anim_bino0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 608,
+						"y": 8,
+						"w": 646,
+						"h": 116
+					},
+					"frame": {
+						"x": 1298,
+						"y": 241,
+						"w": 646,
+						"h": 116
+					}
+				},
+				{
+					"filename": "anim_bino0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 521,
+						"y": 8,
+						"w": 646,
+						"h": 116
+					},
+					"frame": {
+						"x": 1,
+						"y": 242,
+						"w": 646,
+						"h": 116
+					}
+				},
+				{
+					"filename": "anim_bino0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 434,
+						"y": 8,
+						"w": 646,
+						"h": 115
+					},
+					"frame": {
+						"x": 649,
+						"y": 242,
+						"w": 646,
+						"h": 115
+					}
+				},
+				{
+					"filename": "anim_bino0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 347,
+						"y": 8,
+						"w": 646,
+						"h": 114
+					},
+					"frame": {
+						"x": 649,
+						"y": 359,
+						"w": 646,
+						"h": 114
+					}
+				},
+				{
+					"filename": "anim_bino0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 8,
+						"w": 645,
+						"h": 114
+					},
+					"frame": {
+						"x": 1,
+						"y": 360,
+						"w": 645,
+						"h": 114
+					}
+				},
+				{
+					"filename": "anim_bino0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 173,
+						"y": 8,
+						"w": 645,
+						"h": 113
+					},
+					"frame": {
+						"x": 1297,
+						"y": 359,
+						"w": 645,
+						"h": 113
+					}
+				},
+				{
+					"filename": "anim_bino0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 8,
+						"w": 645,
+						"h": 113
+					},
+					"frame": {
+						"x": 1297,
+						"y": 474,
+						"w": 645,
+						"h": 113
+					}
+				},
+				{
+					"filename": "anim_bino0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 644,
+						"h": 112
+					},
+					"frame": {
+						"x": 648,
+						"y": 475,
+						"w": 644,
+						"h": 112
+					}
+				},
+				{
+					"filename": "anim_bino0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 370,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 642,
+						"y": 589,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 563,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 600,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 948,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 1283,
+						"y": 589,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1141,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 642,
+						"y": 713,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1334,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 724,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1527,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 1283,
+						"y": 713,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1912,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 642,
+						"y": 837,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2105,
+						"y": 10,
+						"w": 639,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 848,
+						"w": 639,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 1283,
+						"y": 837,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 395,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 642,
+						"y": 961,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 588,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 972,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1166,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 1282,
+						"y": 962,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1359,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 641,
+						"y": 1086,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1552,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 1097,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1745,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1087,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2130,
+						"y": 10,
+						"w": 638,
+						"h": 123
+					},
+					"frame": {
+						"x": 641,
+						"y": 1211,
+						"w": 638,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 347,
+						"y": 10,
+						"w": 638,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 1222,
+						"w": 638,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 540,
+						"y": 10,
+						"w": 638,
+						"h": 122
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1212,
+						"w": 638,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 33,
+						"w": 421,
+						"h": 285
+					},
+					"frame": {
+						"x": 1,
+						"y": 1346,
+						"w": 421,
+						"h": 285
+					}
+				},
+				{
+					"filename": "anim_bino0194",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 42,
+						"w": 421,
+						"h": 276
+					},
+					"frame": {
+						"x": 1,
+						"y": 1633,
+						"w": 421,
+						"h": 276
+					}
+				},
+				{
+					"filename": "anim_bino0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 473,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 1911,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0195",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 59,
+						"w": 421,
+						"h": 259
+					},
+					"frame": {
+						"x": 424,
+						"y": 1346,
+						"w": 421,
+						"h": 259
+					}
+				},
+				{
+					"filename": "anim_bino0180",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 67,
+						"w": 421,
+						"h": 251
+					},
+					"frame": {
+						"x": 424,
+						"y": 1607,
+						"w": 421,
+						"h": 251
+					}
+				},
+				{
+					"filename": "anim_bino0198",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 133,
+						"w": 421,
+						"h": 185
+					},
+					"frame": {
+						"x": 635,
+						"y": 1860,
+						"w": 421,
+						"h": 185
+					}
+				},
+				{
+					"filename": "anim_bino0196",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 80,
+						"w": 421,
+						"h": 238
+					},
+					"frame": {
+						"x": 847,
+						"y": 1336,
+						"w": 421,
+						"h": 238
+					}
+				},
+				{
+					"filename": "anim_bino0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 88,
+						"w": 421,
+						"h": 230
+					},
+					"frame": {
+						"x": 847,
+						"y": 1576,
+						"w": 421,
+						"h": 230
+					}
+				},
+				{
+					"filename": "anim_bino0197",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 107,
+						"w": 421,
+						"h": 211
+					},
+					"frame": {
+						"x": 1058,
+						"y": 1808,
+						"w": 421,
+						"h": 211
+					}
+				},
+				{
+					"filename": "anim_bino0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 756,
+						"y": 10,
+						"w": 638,
+						"h": 122
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1336,
+						"w": 638,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1311,
+						"y": 10,
+						"w": 638,
+						"h": 122
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1460,
+						"w": 638,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 112,
+						"w": 421,
+						"h": 206
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1584,
+						"w": 421,
+						"h": 206
+					}
+				},
+				{
+					"filename": "anim_bino0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0202",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0209",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0210",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0211",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0212",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0213",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0214",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0215",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0216",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0217",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0218",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0219",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0220",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0221",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1792,
+						"w": 421,
+						"h": 182
+					}
+				}
+			]
+		},
+		{
+			"image": "binoculars-cove-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1914,
+				"h": 1995
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "anim_bino0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1504,
+						"y": 10,
+						"w": 638,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 638,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1720,
+						"y": 10,
+						"w": 638,
+						"h": 122
+					},
+					"frame": {
+						"x": 641,
+						"y": 1,
+						"w": 638,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 666,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 806,
+						"y": 10,
+						"w": 637,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 125,
+						"w": 637,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1770,
+						"y": 10,
+						"w": 637,
+						"h": 124
+					},
+					"frame": {
+						"x": 640,
+						"y": 125,
+						"w": 637,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 859,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1279,
+						"y": 128,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 781,
+						"y": 10,
+						"w": 637,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 251,
+						"w": 637,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 974,
+						"y": 10,
+						"w": 637,
+						"h": 123
+					},
+					"frame": {
+						"x": 640,
+						"y": 251,
+						"w": 637,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1368,
+						"y": 8,
+						"w": 628,
+						"h": 121
+					},
+					"frame": {
+						"x": 1279,
+						"y": 255,
+						"w": 628,
+						"h": 121
+					}
+				},
+				{
+					"filename": "anim_bino0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1938,
+						"y": 10,
+						"w": 637,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 376,
+						"w": 637,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 155,
+						"y": 10,
+						"w": 637,
+						"h": 122
+					},
+					"frame": {
+						"x": 640,
+						"y": 376,
+						"w": 637,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0201",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1279,
+						"y": 378,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 733,
+						"y": 10,
+						"w": 637,
+						"h": 122
+					},
+					"frame": {
+						"x": 640,
+						"y": 500,
+						"w": 637,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 926,
+						"y": 10,
+						"w": 637,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 501,
+						"w": 637,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0203",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1279,
+						"y": 562,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1119,
+						"y": 10,
+						"w": 637,
+						"h": 122
+					},
+					"frame": {
+						"x": 640,
+						"y": 624,
+						"w": 637,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1697,
+						"y": 10,
+						"w": 637,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 625,
+						"w": 637,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0204",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1279,
+						"y": 746,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1890,
+						"y": 10,
+						"w": 637,
+						"h": 122
+					},
+					"frame": {
+						"x": 640,
+						"y": 748,
+						"w": 637,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2083,
+						"y": 10,
+						"w": 637,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 749,
+						"w": 637,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 640,
+						"y": 872,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 518,
+						"y": 10,
+						"w": 635,
+						"h": 124
+					},
+					"frame": {
+						"x": 1278,
+						"y": 930,
+						"w": 635,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 873,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 639,
+						"y": 998,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1056,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 421,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 999,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 614,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 639,
+						"y": 1124,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 710,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1182,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 903,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1125,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 999,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 639,
+						"y": 1250,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1096,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1308,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1192,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1251,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1289,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 639,
+						"y": 1376,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1385,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1434,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1578,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1377,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1674,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 639,
+						"y": 1502,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1867,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1560,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1963,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1503,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2060,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 639,
+						"y": 1628,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2156,
+						"y": 10,
+						"w": 636,
+						"h": 124
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1686,
+						"w": 636,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1482,
+						"y": 10,
+						"w": 635,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1629,
+						"w": 635,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0205",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1,
+						"y": 1812,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0206",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 424,
+						"y": 1812,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0207",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 847,
+						"y": 1812,
+						"w": 421,
+						"h": 182
+					}
+				},
+				{
+					"filename": "anim_bino0208",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1069,
+						"y": 136,
+						"w": 421,
+						"h": 182
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1812,
+						"w": 421,
+						"h": 182
+					}
+				}
+			]
+		},
+		{
+			"image": "binoculars-cove-4.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1908,
+				"h": 1988
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "anim_bino0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 499,
+						"y": 8,
+						"w": 626,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 626,
+						"h": 115
+					}
+				},
+				{
+					"filename": "anim_bino0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 586,
+						"y": 8,
+						"w": 626,
+						"h": 116
+					},
+					"frame": {
+						"x": 629,
+						"y": 1,
+						"w": 626,
+						"h": 116
+					}
+				},
+				{
+					"filename": "anim_bino0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 760,
+						"y": 8,
+						"w": 626,
+						"h": 117
+					},
+					"frame": {
+						"x": 1257,
+						"y": 1,
+						"w": 626,
+						"h": 117
+					}
+				},
+				{
+					"filename": "anim_bino0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 673,
+						"y": 8,
+						"w": 626,
+						"h": 117
+					},
+					"frame": {
+						"x": 1,
+						"y": 118,
+						"w": 626,
+						"h": 117
+					}
+				},
+				{
+					"filename": "anim_bino0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 934,
+						"y": 8,
+						"w": 626,
+						"h": 118
+					},
+					"frame": {
+						"x": 629,
+						"y": 119,
+						"w": 626,
+						"h": 118
+					}
+				},
+				{
+					"filename": "anim_bino0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 847,
+						"y": 8,
+						"w": 626,
+						"h": 118
+					},
+					"frame": {
+						"x": 1257,
+						"y": 120,
+						"w": 626,
+						"h": 118
+					}
+				},
+				{
+					"filename": "anim_bino0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1021,
+						"y": 8,
+						"w": 626,
+						"h": 119
+					},
+					"frame": {
+						"x": 1,
+						"y": 237,
+						"w": 626,
+						"h": 119
+					}
+				},
+				{
+					"filename": "anim_bino0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1195,
+						"y": 8,
+						"w": 626,
+						"h": 120
+					},
+					"frame": {
+						"x": 629,
+						"y": 239,
+						"w": 626,
+						"h": 120
+					}
+				},
+				{
+					"filename": "anim_bino0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1108,
+						"y": 8,
+						"w": 626,
+						"h": 120
+					},
+					"frame": {
+						"x": 1257,
+						"y": 240,
+						"w": 626,
+						"h": 120
+					}
+				},
+				{
+					"filename": "anim_bino0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1281,
+						"y": 8,
+						"w": 628,
+						"h": 121
+					},
+					"frame": {
+						"x": 1,
+						"y": 361,
+						"w": 628,
+						"h": 121
+					}
+				},
+				{
+					"filename": "anim_bino0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 832,
+						"y": 10,
+						"w": 635,
+						"h": 122
+					},
+					"frame": {
+						"x": 631,
+						"y": 362,
+						"w": 635,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1796,
+						"y": 10,
+						"w": 635,
+						"h": 122
+					},
+					"frame": {
+						"x": 1268,
+						"y": 362,
+						"w": 635,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1455,
+						"y": 8,
+						"w": 628,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 484,
+						"w": 628,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1989,
+						"y": 10,
+						"w": 635,
+						"h": 122
+					},
+					"frame": {
+						"x": 631,
+						"y": 486,
+						"w": 635,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 1268,
+						"y": 486,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1629,
+						"y": 8,
+						"w": 628,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 608,
+						"w": 628,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 631,
+						"y": 610,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 447,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 1267,
+						"y": 610,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 640,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 734,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1025,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 637,
+						"y": 734,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1218,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 1273,
+						"y": 734,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1411,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 858,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1604,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 637,
+						"y": 858,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2182,
+						"y": 10,
+						"w": 634,
+						"h": 122
+					},
+					"frame": {
+						"x": 1273,
+						"y": 858,
+						"w": 634,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 982,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 637,
+						"y": 982,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 495,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 1273,
+						"y": 982,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 688,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 1107,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 881,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 637,
+						"y": 1107,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1074,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 1273,
+						"y": 1107,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1267,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 1232,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1459,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 637,
+						"y": 1232,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1652,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 1273,
+						"y": 1232,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1845,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 1357,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2038,
+						"y": 10,
+						"w": 634,
+						"h": 123
+					},
+					"frame": {
+						"x": 637,
+						"y": 1357,
+						"w": 634,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1542,
+						"y": 8,
+						"w": 628,
+						"h": 123
+					},
+					"frame": {
+						"x": 1273,
+						"y": 1357,
+						"w": 628,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1607,
+						"y": 8,
+						"w": 618,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1482,
+						"w": 618,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1520,
+						"y": 8,
+						"w": 618,
+						"h": 124
+					},
+					"frame": {
+						"x": 621,
+						"y": 1482,
+						"w": 618,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1412,
+						"y": 8,
+						"w": 617,
+						"h": 124
+					},
+					"frame": {
+						"x": 1241,
+						"y": 1482,
+						"w": 617,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1052,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 1608,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1244,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 635,
+						"y": 1608,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1437,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1269,
+						"y": 1608,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1630,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 1735,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1823,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 635,
+						"y": 1735,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 2016,
+						"y": 7,
+						"w": 632,
+						"h": 125
+					},
+					"frame": {
+						"x": 1269,
+						"y": 1735,
+						"w": 632,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1694,
+						"y": 8,
+						"w": 618,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 1862,
+						"w": 618,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1586,
+						"y": 8,
+						"w": 617,
+						"h": 125
+					},
+					"frame": {
+						"x": 621,
+						"y": 1862,
+						"w": 617,
+						"h": 125
+					}
+				},
+				{
+					"filename": "anim_bino0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1499,
+						"y": 8,
+						"w": 617,
+						"h": 125
+					},
+					"frame": {
+						"x": 1240,
+						"y": 1862,
+						"w": 617,
+						"h": 125
+					}
+				}
+			]
+		},
+		{
+			"image": "binoculars-cove-5.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1864,
+				"h": 1555
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "anim_bino0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1325,
+						"y": 8,
+						"w": 617,
+						"h": 124
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 617,
+						"h": 124
+					}
+				},
+				{
+					"filename": "anim_bino0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1434,
+						"y": 8,
+						"w": 617,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 127,
+						"w": 617,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 412,
+						"y": 8,
+						"w": 626,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 252,
+						"w": 626,
+						"h": 115
+					}
+				},
+				{
+					"filename": "anim_bino0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 325,
+						"y": 8,
+						"w": 626,
+						"h": 114
+					},
+					"frame": {
+						"x": 620,
+						"y": 1,
+						"w": 626,
+						"h": 114
+					}
+				},
+				{
+					"filename": "anim_bino0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 8,
+						"w": 626,
+						"h": 114
+					},
+					"frame": {
+						"x": 620,
+						"y": 117,
+						"w": 626,
+						"h": 114
+					}
+				},
+				{
+					"filename": "anim_bino0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1238,
+						"y": 8,
+						"w": 617,
+						"h": 123
+					},
+					"frame": {
+						"x": 629,
+						"y": 233,
+						"w": 617,
+						"h": 123
+					}
+				},
+				{
+					"filename": "anim_bino0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1347,
+						"y": 8,
+						"w": 617,
+						"h": 122
+					},
+					"frame": {
+						"x": 629,
+						"y": 358,
+						"w": 617,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1260,
+						"y": 8,
+						"w": 617,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 369,
+						"w": 617,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1151,
+						"y": 8,
+						"w": 616,
+						"h": 122
+					},
+					"frame": {
+						"x": 620,
+						"y": 482,
+						"w": 616,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1064,
+						"y": 8,
+						"w": 616,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 493,
+						"w": 616,
+						"h": 122
+					}
+				},
+				{
+					"filename": "anim_bino0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1173,
+						"y": 8,
+						"w": 617,
+						"h": 121
+					},
+					"frame": {
+						"x": 619,
+						"y": 606,
+						"w": 617,
+						"h": 121
+					}
+				},
+				{
+					"filename": "anim_bino0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 977,
+						"y": 8,
+						"w": 616,
+						"h": 121
+					},
+					"frame": {
+						"x": 1,
+						"y": 617,
+						"w": 616,
+						"h": 121
+					}
+				},
+				{
+					"filename": "anim_bino0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 1086,
+						"y": 8,
+						"w": 617,
+						"h": 121
+					},
+					"frame": {
+						"x": 619,
+						"y": 729,
+						"w": 617,
+						"h": 121
+					}
+				},
+				{
+					"filename": "anim_bino0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 890,
+						"y": 8,
+						"w": 616,
+						"h": 121
+					},
+					"frame": {
+						"x": 1,
+						"y": 740,
+						"w": 616,
+						"h": 121
+					}
+				},
+				{
+					"filename": "anim_bino0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 8,
+						"w": 625,
+						"h": 113
+					},
+					"frame": {
+						"x": 619,
+						"y": 852,
+						"w": 625,
+						"h": 113
+					}
+				},
+				{
+					"filename": "anim_bino0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 999,
+						"y": 8,
+						"w": 617,
+						"h": 120
+					},
+					"frame": {
+						"x": 1238,
+						"y": 482,
+						"w": 617,
+						"h": 120
+					}
+				},
+				{
+					"filename": "anim_bino0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 912,
+						"y": 8,
+						"w": 617,
+						"h": 120
+					},
+					"frame": {
+						"x": 1238,
+						"y": 604,
+						"w": 617,
+						"h": 120
+					}
+				},
+				{
+					"filename": "anim_bino0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 803,
+						"y": 8,
+						"w": 616,
+						"h": 120
+					},
+					"frame": {
+						"x": 1238,
+						"y": 726,
+						"w": 616,
+						"h": 120
+					}
+				},
+				{
+					"filename": "anim_bino0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 717,
+						"y": 8,
+						"w": 615,
+						"h": 119
+					},
+					"frame": {
+						"x": 1248,
+						"y": 1,
+						"w": 615,
+						"h": 119
+					}
+				},
+				{
+					"filename": "anim_bino0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 630,
+						"y": 8,
+						"w": 615,
+						"h": 119
+					},
+					"frame": {
+						"x": 1248,
+						"y": 122,
+						"w": 615,
+						"h": 119
+					}
+				},
+				{
+					"filename": "anim_bino0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 543,
+						"y": 8,
+						"w": 615,
+						"h": 118
+					},
+					"frame": {
+						"x": 1248,
+						"y": 243,
+						"w": 615,
+						"h": 118
+					}
+				},
+				{
+					"filename": "anim_bino0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 369,
+						"y": 8,
+						"w": 615,
+						"h": 117
+					},
+					"frame": {
+						"x": 1248,
+						"y": 363,
+						"w": 615,
+						"h": 117
+					}
+				},
+				{
+					"filename": "anim_bino0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 825,
+						"y": 8,
+						"w": 616,
+						"h": 119
+					},
+					"frame": {
+						"x": 1,
+						"y": 863,
+						"w": 616,
+						"h": 119
+					}
+				},
+				{
+					"filename": "anim_bino0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 738,
+						"y": 8,
+						"w": 616,
+						"h": 118
+					},
+					"frame": {
+						"x": 1246,
+						"y": 848,
+						"w": 616,
+						"h": 118
+					}
+				},
+				{
+					"filename": "anim_bino0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 651,
+						"y": 8,
+						"w": 616,
+						"h": 118
+					},
+					"frame": {
+						"x": 619,
+						"y": 967,
+						"w": 616,
+						"h": 118
+					}
+				},
+				{
+					"filename": "anim_bino0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 456,
+						"y": 8,
+						"w": 615,
+						"h": 118
+					},
+					"frame": {
+						"x": 1,
+						"y": 984,
+						"w": 615,
+						"h": 118
+					}
+				},
+				{
+					"filename": "anim_bino0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 564,
+						"y": 8,
+						"w": 616,
+						"h": 117
+					},
+					"frame": {
+						"x": 1237,
+						"y": 968,
+						"w": 616,
+						"h": 117
+					}
+				},
+				{
+					"filename": "anim_bino0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 8,
+						"w": 625,
+						"h": 112
+					},
+					"frame": {
+						"x": 618,
+						"y": 1087,
+						"w": 625,
+						"h": 112
+					}
+				},
+				{
+					"filename": "anim_bino0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 391,
+						"y": 8,
+						"w": 615,
+						"h": 116
+					},
+					"frame": {
+						"x": 1,
+						"y": 1104,
+						"w": 615,
+						"h": 116
+					}
+				},
+				{
+					"filename": "anim_bino0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 477,
+						"y": 8,
+						"w": 616,
+						"h": 117
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1087,
+						"w": 616,
+						"h": 117
+					}
+				},
+				{
+					"filename": "anim_bino0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 282,
+						"y": 8,
+						"w": 615,
+						"h": 116
+					},
+					"frame": {
+						"x": 618,
+						"y": 1201,
+						"w": 615,
+						"h": 116
+					}
+				},
+				{
+					"filename": "anim_bino0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 195,
+						"y": 8,
+						"w": 615,
+						"h": 116
+					},
+					"frame": {
+						"x": 1,
+						"y": 1222,
+						"w": 615,
+						"h": 116
+					}
+				},
+				{
+					"filename": "anim_bino0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 304,
+						"y": 8,
+						"w": 615,
+						"h": 115
+					},
+					"frame": {
+						"x": 1235,
+						"y": 1206,
+						"w": 615,
+						"h": 115
+					}
+				},
+				{
+					"filename": "anim_bino0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 217,
+						"y": 8,
+						"w": 615,
+						"h": 115
+					},
+					"frame": {
+						"x": 618,
+						"y": 1319,
+						"w": 615,
+						"h": 115
+					}
+				},
+				{
+					"filename": "anim_bino0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 8,
+						"w": 615,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 1340,
+						"w": 615,
+						"h": 115
+					}
+				},
+				{
+					"filename": "anim_bino0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 8,
+						"w": 614,
+						"h": 115
+					},
+					"frame": {
+						"x": 1235,
+						"y": 1323,
+						"w": 614,
+						"h": 115
+					}
+				},
+				{
+					"filename": "anim_bino0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 8,
+						"w": 615,
+						"h": 114
+					},
+					"frame": {
+						"x": 618,
+						"y": 1436,
+						"w": 615,
+						"h": 114
+					}
+				},
+				{
+					"filename": "anim_bino0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2816,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 8,
+						"w": 615,
+						"h": 114
+					},
+					"frame": {
+						"x": 1235,
+						"y": 1440,
+						"w": 615,
+						"h": 114
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a42466562b53f6e4188be80e36b8287f:d10a9fbccc98e7143bc162d974628729:3432206ebcbdacbff07616caab95a64a$"
+	}
+}

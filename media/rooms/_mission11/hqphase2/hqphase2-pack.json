@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_mission11/hqphase2/hqphase2.json",
+                "path": "assets/media/rooms/_mission11/hqphase2",
+                "key": "hqphase2"
+            },
+            {
+                "url": "assets/media/rooms/_mission11/hqphase2/hqphase2-physics.json",
+                "type": "json",
+                "key": "hqphase2-physics"
+            },
+            {
+                "url": "assets/media/rooms/_mission11/hqphase2/HQPhase2Preview.png",
+                "type": "image",
+                "key": "HQPhase2Preview"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

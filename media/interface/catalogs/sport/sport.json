@@ -1,0 +1,210 @@
+{
+	"textures": [
+		{
+			"image": "sport-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1783,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sport-pg2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "sport-pg1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 600,
+						"h": 813
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 600,
+						"h": 813
+					}
+				},
+				{
+					"filename": "sport-pg3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "sport-pg7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 34,
+						"w": 600,
+						"h": 813
+					},
+					"frame": {
+						"x": 1182,
+						"y": 816,
+						"w": 600,
+						"h": 813
+					}
+				}
+			]
+		},
+		{
+			"image": "sport-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1181,
+				"h": 1630
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sport-pg4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "sport-pg5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 816,
+						"w": 1179,
+						"h": 813
+					}
+				}
+			]
+		},
+		{
+			"image": "sport-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1674,
+				"h": 815
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sport-pg6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 36,
+						"w": 1179,
+						"h": 813
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1179,
+						"h": 813
+					}
+				},
+				{
+					"filename": "sport-bgs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 491,
+						"h": 481
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 491,
+						"h": 481
+					},
+					"frame": {
+						"x": 1182,
+						"y": 1,
+						"w": 491,
+						"h": 481
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:638108a4027980c1ad0576bf477077f2:8521da0e44c485ba07e669ff172c4aec:9bf150d462c153f6d28132474efc9e7d$"
+	}
+}

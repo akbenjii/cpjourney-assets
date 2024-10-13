@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/_fair/coaster/beach_tracks.webp",
+                "type": "image",
+                "key": "beach_tracks"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/beach/fair-beach.json",
+                "path": "assets/media/rooms/_fair/beach",
+                "key": "fair-beach"
+            },
+            {
+                "url": "assets/media/rooms/_fair/beach/fair-beach-physics.json",
+                "type": "json",
+                "key": "fair-beach-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

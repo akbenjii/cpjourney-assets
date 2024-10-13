@@ -1,0 +1,1081 @@
+{
+	"textures": [
+		{
+			"image": "fair-forts-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2010,
+				"h": 2016
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1933,
+						"h": 1179
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1933,
+						"h": 1179
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1933,
+						"h": 1179
+					}
+				},
+				{
+					"filename": "clockSign-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 61,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 59,
+						"h": 101
+					},
+					"frame": {
+						"x": 1936,
+						"y": 1,
+						"w": 59,
+						"h": 101
+					}
+				},
+				{
+					"filename": "clockSign-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 61,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 59,
+						"h": 101
+					},
+					"frame": {
+						"x": 1936,
+						"y": 1,
+						"w": 59,
+						"h": 101
+					}
+				},
+				{
+					"filename": "clockSign",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 61,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 61,
+						"h": 89
+					},
+					"frame": {
+						"x": 1936,
+						"y": 104,
+						"w": 61,
+						"h": 89
+					}
+				},
+				{
+					"filename": "clickCode",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 83,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 43,
+						"h": 23
+					},
+					"frame": {
+						"x": 1936,
+						"y": 195,
+						"w": 43,
+						"h": 23
+					}
+				},
+				{
+					"filename": "fortTwoLeft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 309
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 309
+					},
+					"frame": {
+						"x": 1,
+						"y": 1182,
+						"w": 797,
+						"h": 309
+					}
+				},
+				{
+					"filename": "fortOneMid",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 478,
+						"h": 374
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 478,
+						"h": 349
+					},
+					"frame": {
+						"x": 800,
+						"y": 1182,
+						"w": 478,
+						"h": 349
+					}
+				},
+				{
+					"filename": "clockTower0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 1493,
+						"w": 372,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 400
+					},
+					"frame": {
+						"x": 375,
+						"y": 1493,
+						"w": 366,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 400
+					},
+					"frame": {
+						"x": 375,
+						"y": 1493,
+						"w": 366,
+						"h": 400
+					}
+				},
+				{
+					"filename": "fenceRight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 441,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1895,
+						"w": 441,
+						"h": 120
+					}
+				},
+				{
+					"filename": "clockShadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 277,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 277,
+						"h": 81
+					},
+					"frame": {
+						"x": 444,
+						"y": 1895,
+						"w": 277,
+						"h": 81
+					}
+				},
+				{
+					"filename": "fortTwoWall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 94
+					},
+					"frame": {
+						"x": 723,
+						"y": 1895,
+						"w": 100,
+						"h": 94
+					}
+				},
+				{
+					"filename": "flagSign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 295,
+						"h": 287
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 287
+					},
+					"frame": {
+						"x": 743,
+						"y": 1533,
+						"w": 295,
+						"h": 287
+					}
+				},
+				{
+					"filename": "fenceLeft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 440,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 440,
+						"h": 122
+					},
+					"frame": {
+						"x": 825,
+						"y": 1822,
+						"w": 440,
+						"h": 122
+					}
+				},
+				{
+					"filename": "clockTower0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 400
+					},
+					"frame": {
+						"x": 1267,
+						"y": 1533,
+						"w": 366,
+						"h": 400
+					}
+				},
+				{
+					"filename": "fortOneLeftMid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 244
+					},
+					"frame": {
+						"x": 1040,
+						"y": 1533,
+						"w": 224,
+						"h": 244
+					}
+				},
+				{
+					"filename": "clockTower0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 364,
+						"h": 400
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1182,
+						"w": 364,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 364,
+						"h": 400
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1182,
+						"w": 364,
+						"h": 400
+					}
+				},
+				{
+					"filename": "fortOneLeft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 319
+					},
+					"frame": {
+						"x": 1280,
+						"y": 1182,
+						"w": 239,
+						"h": 319
+					}
+				},
+				{
+					"filename": "fairSign0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1182,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fairSign0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1182,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fairSign0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1182,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fairSign0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1182,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fairSign0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1182,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fairSign0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1182,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fairSign0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1280,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fairSign0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 96
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1280,
+						"w": 86,
+						"h": 96
+					}
+				},
+				{
+					"filename": "fortOneLeftWall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 199,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 225
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1584,
+						"w": 199,
+						"h": 225
+					}
+				},
+				{
+					"filename": "fortTwoRight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 173,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 173,
+						"h": 250
+					},
+					"frame": {
+						"x": 1836,
+						"y": 1584,
+						"w": 173,
+						"h": 250
+					}
+				},
+				{
+					"filename": "fortOneRight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 171,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 171,
+						"h": 200
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1811,
+						"w": 171,
+						"h": 200
+					}
+				},
+				{
+					"filename": "clockScreen",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 158,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 141
+					},
+					"frame": {
+						"x": 1808,
+						"y": 1836,
+						"w": 158,
+						"h": 141
+					}
+				}
+			]
+		},
+		{
+			"image": "fair-forts-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1008,
+				"h": 2010
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "clockTower0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 344,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 344,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 403,
+						"w": 342,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 403,
+						"w": 342,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 805,
+						"w": 342,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 1207,
+						"w": 333,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 400
+					},
+					"frame": {
+						"x": 336,
+						"y": 1207,
+						"w": 333,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 345,
+						"y": 403,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 345,
+						"y": 403,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 347,
+						"y": 1,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 347,
+						"y": 1,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 345,
+						"y": 805,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 671,
+						"y": 1207,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 677,
+						"y": 403,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 677,
+						"y": 403,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 677,
+						"y": 805,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 1,
+						"y": 1609,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 333,
+						"y": 1609,
+						"w": 330,
+						"h": 400
+					}
+				},
+				{
+					"filename": "clockTower0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 372,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 400
+					},
+					"frame": {
+						"x": 665,
+						"y": 1609,
+						"w": 330,
+						"h": 400
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:57c8449fd00d741a47dca06d919131ff:06b8c7163aed15d8dc93eee576ebdd17:5ac4cdb7a1bc9d74b5fa481806ed9ff5$"
+	}
+}

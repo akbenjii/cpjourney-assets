@@ -1,0 +1,51 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/cove/catalog/bg.png",
+                "type": "image",
+                "key": "bg"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/cove/binocularbtn.json",
+                "path": "assets/media/rooms/cove",
+                "key": "binocularbtn"
+            },
+            {
+                "url": "assets/media/rooms/cove/catalog/close.png",
+                "type": "image",
+                "key": "close"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/cove/cove.json",
+                "path": "assets/media/rooms/cove/",
+                "key": "cove"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/cove/cove-catalogbtn.json",
+                "path": "assets/media/rooms/cove",
+                "key": "cove-catalogbtn"
+            },
+            {
+                "url": "assets/media/rooms/cove/cove-physics.json",
+                "type": "json",
+                "key": "cove-physics"
+            },
+            {
+                "url": "assets/media/rooms/cove/catalog/secret.png",
+                "type": "image",
+                "key": "secret"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "mail-gotherejitsu.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 316,
+				"h": 48
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gotherejitsu-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 156,
+						"h": 46
+					}
+				},
+				{
+					"filename": "gotherejitsu-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 156,
+						"h": 46
+					}
+				},
+				{
+					"filename": "gotherejitsu",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 46
+					},
+					"frame": {
+						"x": 159,
+						"y": 1,
+						"w": 156,
+						"h": 46
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0a153f2a172929113be29966289be79e:2713f82d8114ceb9347147025ab80ba6:1f4ec6d5d3d898c071b4a6ed7f77f0a3$"
+	}
+}

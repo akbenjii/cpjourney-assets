@@ -1,0 +1,1207 @@
+{
+	"textures": [
+		{
+			"image": "fair-lookout-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1977,
+				"h": 1867
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dome",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1714,
+						"h": 1066
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1714,
+						"h": 1066
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1714,
+						"h": 1066
+					}
+				},
+				{
+					"filename": "bgterrain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1575,
+						"h": 604
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1575,
+						"h": 604
+					},
+					"frame": {
+						"x": 1,
+						"y": 1069,
+						"w": 1575,
+						"h": 604
+					}
+				},
+				{
+					"filename": "fg_left",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 398,
+						"h": 388
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 398,
+						"h": 388
+					},
+					"frame": {
+						"x": 1578,
+						"y": 1069,
+						"w": 398,
+						"h": 388
+					}
+				},
+				{
+					"filename": "popcornbucket",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 295,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 290
+					},
+					"frame": {
+						"x": 1578,
+						"y": 1459,
+						"w": 295,
+						"h": 290
+					}
+				},
+				{
+					"filename": "beararm2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 108
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1459,
+						"w": 75,
+						"h": 108
+					}
+				},
+				{
+					"filename": "bearleg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 63
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1569,
+						"w": 97,
+						"h": 63
+					}
+				},
+				{
+					"filename": "appleinmouth",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 29
+					},
+					"frame": {
+						"x": 1952,
+						"y": 1459,
+						"w": 24,
+						"h": 29
+					}
+				},
+				{
+					"filename": "whitepuffle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 62
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1634,
+						"w": 64,
+						"h": 62
+					}
+				},
+				{
+					"filename": "puffleplush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 48
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1698,
+						"w": 61,
+						"h": 48
+					}
+				},
+				{
+					"filename": "tickets",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 34
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1748,
+						"w": 44,
+						"h": 34
+					}
+				},
+				{
+					"filename": "bear",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 284
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 284
+					},
+					"frame": {
+						"x": 1717,
+						"y": 1,
+						"w": 236,
+						"h": 284
+					}
+				},
+				{
+					"filename": "stuff",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 229,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 204
+					},
+					"frame": {
+						"x": 1717,
+						"y": 287,
+						"w": 229,
+						"h": 204
+					}
+				},
+				{
+					"filename": "sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 177,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 177,
+						"h": 132
+					},
+					"frame": {
+						"x": 1717,
+						"y": 493,
+						"w": 177,
+						"h": 132
+					}
+				},
+				{
+					"filename": "bg_rink",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 228,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 228,
+						"h": 111
+					},
+					"frame": {
+						"x": 1717,
+						"y": 627,
+						"w": 228,
+						"h": 111
+					}
+				},
+				{
+					"filename": "penguinplush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 111
+					},
+					"frame": {
+						"x": 1717,
+						"y": 740,
+						"w": 109,
+						"h": 111
+					}
+				},
+				{
+					"filename": "pillow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 102
+					},
+					"frame": {
+						"x": 1717,
+						"y": 853,
+						"w": 236,
+						"h": 102
+					}
+				},
+				{
+					"filename": "beararm1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 101
+					},
+					"frame": {
+						"x": 1828,
+						"y": 740,
+						"w": 110,
+						"h": 101
+					}
+				},
+				{
+					"filename": "bg_rink_front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 59
+					},
+					"frame": {
+						"x": 1717,
+						"y": 957,
+						"w": 181,
+						"h": 59
+					}
+				},
+				{
+					"filename": "bg_cars0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 42
+					},
+					"frame": {
+						"x": 1717,
+						"y": 1018,
+						"w": 122,
+						"h": 42
+					}
+				},
+				{
+					"filename": "bg_cars0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 122,
+						"h": 42
+					},
+					"frame": {
+						"x": 1841,
+						"y": 1018,
+						"w": 122,
+						"h": 42
+					}
+				},
+				{
+					"filename": "pillows",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 439,
+						"h": 119
+					},
+					"frame": {
+						"x": 1,
+						"y": 1675,
+						"w": 439,
+						"h": 119
+					}
+				},
+				{
+					"filename": "popcorn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 111
+					},
+					"frame": {
+						"x": 442,
+						"y": 1675,
+						"w": 305,
+						"h": 111
+					}
+				},
+				{
+					"filename": "pillow2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 154
+					},
+					"frame": {
+						"x": 749,
+						"y": 1675,
+						"w": 300,
+						"h": 154
+					}
+				},
+				{
+					"filename": "cards",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 63
+					},
+					"frame": {
+						"x": 442,
+						"y": 1788,
+						"w": 167,
+						"h": 63
+					}
+				},
+				{
+					"filename": "croak",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 58
+					},
+					"frame": {
+						"x": 611,
+						"y": 1788,
+						"w": 129,
+						"h": 58
+					}
+				},
+				{
+					"filename": "bg_cars0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 122,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 1796,
+						"w": 122,
+						"h": 41
+					}
+				},
+				{
+					"filename": "bg_cars0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 122,
+						"h": 40
+					},
+					"frame": {
+						"x": 125,
+						"y": 1796,
+						"w": 122,
+						"h": 40
+					}
+				},
+				{
+					"filename": "bg_cars0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 122,
+						"h": 40
+					},
+					"frame": {
+						"x": 249,
+						"y": 1796,
+						"w": 122,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dog",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 93
+					},
+					"frame": {
+						"x": 1051,
+						"y": 1675,
+						"w": 167,
+						"h": 93
+					}
+				},
+				{
+					"filename": "bg_cars0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 122,
+						"h": 39
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1675,
+						"w": 122,
+						"h": 39
+					}
+				},
+				{
+					"filename": "bg_cars0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 38
+					},
+					"frame": {
+						"x": 1344,
+						"y": 1675,
+						"w": 122,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bg_cars0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 38
+					},
+					"frame": {
+						"x": 1344,
+						"y": 1715,
+						"w": 122,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bg_cars0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 122,
+						"h": 37
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1716,
+						"w": 122,
+						"h": 37
+					}
+				},
+				{
+					"filename": "bg_cars0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 122,
+						"h": 37
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1751,
+						"w": 122,
+						"h": 37
+					}
+				},
+				{
+					"filename": "bg_cars0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 37
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1755,
+						"w": 122,
+						"h": 37
+					}
+				},
+				{
+					"filename": "bg_cars0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 37
+					},
+					"frame": {
+						"x": 1051,
+						"y": 1770,
+						"w": 122,
+						"h": 37
+					}
+				},
+				{
+					"filename": "bg_cars0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 37
+					},
+					"frame": {
+						"x": 1344,
+						"y": 1755,
+						"w": 122,
+						"h": 37
+					}
+				},
+				{
+					"filename": "bg_cars0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 37
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1751,
+						"w": 122,
+						"h": 37
+					}
+				},
+				{
+					"filename": "bg_cars0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 37
+					},
+					"frame": {
+						"x": 1716,
+						"y": 1751,
+						"w": 122,
+						"h": 37
+					}
+				},
+				{
+					"filename": "bg_cars0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 36
+					},
+					"frame": {
+						"x": 1840,
+						"y": 1784,
+						"w": 122,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bg_cars0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 36
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1790,
+						"w": 122,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bg_cars0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 36
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1790,
+						"w": 122,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bg_cars0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 36
+					},
+					"frame": {
+						"x": 1716,
+						"y": 1790,
+						"w": 122,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bg_cars0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 36
+					},
+					"frame": {
+						"x": 1840,
+						"y": 1822,
+						"w": 122,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bg_cars0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 36
+					},
+					"frame": {
+						"x": 1175,
+						"y": 1794,
+						"w": 122,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bg_cars0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 36
+					},
+					"frame": {
+						"x": 1051,
+						"y": 1809,
+						"w": 122,
+						"h": 36
+					}
+				},
+				{
+					"filename": "bg_cars0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 1299,
+						"y": 1794,
+						"w": 122,
+						"h": 35
+					}
+				},
+				{
+					"filename": "bg_cars0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 742,
+						"y": 1831,
+						"w": 122,
+						"h": 35
+					}
+				},
+				{
+					"filename": "bg_cars0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 866,
+						"y": 1831,
+						"w": 122,
+						"h": 35
+					}
+				},
+				{
+					"filename": "bg_cars0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 1423,
+						"y": 1828,
+						"w": 122,
+						"h": 35
+					}
+				},
+				{
+					"filename": "bg_cars0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 1299,
+						"y": 1831,
+						"w": 122,
+						"h": 35
+					}
+				},
+				{
+					"filename": "bg_cars0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 1299,
+						"y": 1831,
+						"w": 122,
+						"h": 35
+					}
+				},
+				{
+					"filename": "bg_cars0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1828,
+						"w": 122,
+						"h": 35
+					}
+				},
+				{
+					"filename": "bg_cars0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 122,
+						"h": 35
+					},
+					"frame": {
+						"x": 1671,
+						"y": 1828,
+						"w": 122,
+						"h": 35
+					}
+				}
+			]
+		},
+		{
+			"image": "fair-lookout-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1162,
+				"h": 472
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg_right",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 676,
+						"h": 470
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 676,
+						"h": 470
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 676,
+						"h": 470
+					}
+				},
+				{
+					"filename": "fountain",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 482,
+						"h": 463
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 482,
+						"h": 463
+					},
+					"frame": {
+						"x": 679,
+						"y": 1,
+						"w": 482,
+						"h": 463
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:73006feb32138e4fe281232aa9058616:51ad3039b5fa6fcc0dfba744dc54a483:bf93e0ebfb7bf07e4a24333a094b08e6$"
+	}
+}

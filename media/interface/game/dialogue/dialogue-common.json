@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "dialogue-common.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1706,
+				"h": 369
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "textBubble",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1500,
+						"h": 386
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 1482,
+						"h": 367
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1482,
+						"h": 367
+					}
+				},
+				{
+					"filename": "button-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 220,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 220,
+						"h": 72
+					},
+					"frame": {
+						"x": 1485,
+						"y": 1,
+						"w": 220,
+						"h": 72
+					}
+				},
+				{
+					"filename": "button-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 220,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 220,
+						"h": 72
+					},
+					"frame": {
+						"x": 1485,
+						"y": 75,
+						"w": 220,
+						"h": 72
+					}
+				},
+				{
+					"filename": "button",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 220,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 220,
+						"h": 72
+					},
+					"frame": {
+						"x": 1485,
+						"y": 149,
+						"w": 220,
+						"h": 72
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:80b229228a6d29db91106f53c82d10e9:30f889f6ed1b595ddfd77befcb31d910:389e52ba5fcc0434ac703b62a059f358$"
+	}
+}

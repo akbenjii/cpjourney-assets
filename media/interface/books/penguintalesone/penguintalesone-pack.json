@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/books/penguintalesone/golden_paint0001.png",
+                "type": "image",
+                "key": "golden_paint0001"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/penguintalesone/onebookinside.json",
+                "path": "assets/media/interface/books/penguintalesone",
+                "key": "onebookinside"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/books/penguintalesone/onebookoutside.json",
+                "path": "assets/media/interface/books/penguintalesone",
+                "key": "onebookoutside"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

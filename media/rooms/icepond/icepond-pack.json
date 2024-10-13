@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/icepond/icepond.json",
+                "path": "assets/media/rooms/icepond",
+                "key": "icepond"
+            },
+            {
+                "url": "assets/media/rooms/icepond/icepond-anims.json",
+                "type": "animation",
+                "key": "icepond-anims"
+            },
+            {
+                "url": "assets/media/rooms/icepond/icepond-physics.json",
+                "type": "json",
+                "key": "icepond-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

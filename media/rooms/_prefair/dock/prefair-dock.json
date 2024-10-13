@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "prefair-dock.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1017,
+				"h": 215
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "crate",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 201
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 196,
+						"h": 201
+					}
+				},
+				{
+					"filename": "crate_shadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 219,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 219,
+						"h": 70
+					},
+					"frame": {
+						"x": 199,
+						"y": 1,
+						"w": 219,
+						"h": 70
+					}
+				},
+				{
+					"filename": "planks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 296,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 213
+					},
+					"frame": {
+						"x": 420,
+						"y": 1,
+						"w": 296,
+						"h": 213
+					}
+				},
+				{
+					"filename": "planks_shadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 298,
+						"h": 201
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 298,
+						"h": 201
+					},
+					"frame": {
+						"x": 718,
+						"y": 1,
+						"w": 298,
+						"h": 201
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:440d5099d6414c71f39569ead182f4f9:90441f7cc31d0b5f01c8da89748c3dd3:6e0fad6e94d1478204a5e2a72e28f916$"
+	}
+}

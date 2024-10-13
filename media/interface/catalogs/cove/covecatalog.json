@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "covecatalog-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 713,
+				"h": 1486
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cove",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 415,
+						"y": 46,
+						"w": 711,
+						"h": 845
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 711,
+						"h": 845
+					}
+				},
+				{
+					"filename": "secret",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 501,
+						"y": 305,
+						"w": 518,
+						"h": 350
+					},
+					"frame": {
+						"x": 1,
+						"y": 848,
+						"w": 518,
+						"h": 350
+					}
+				},
+				{
+					"filename": "surfboard",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 330,
+						"h": 382
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 46,
+						"w": 231,
+						"h": 285
+					},
+					"frame": {
+						"x": 1,
+						"y": 1200,
+						"w": 231,
+						"h": 285
+					}
+				},
+				{
+					"filename": "closebtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 234,
+						"y": 1200,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 234,
+						"y": 1258,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 234,
+						"y": 1316,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "secretclosebtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 46
+					},
+					"frame": {
+						"x": 234,
+						"y": 1374,
+						"w": 46,
+						"h": 46
+					}
+				},
+				{
+					"filename": "secretclosebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 46
+					},
+					"frame": {
+						"x": 282,
+						"y": 1374,
+						"w": 46,
+						"h": 46
+					}
+				},
+				{
+					"filename": "secretclosebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 46
+					},
+					"frame": {
+						"x": 292,
+						"y": 1200,
+						"w": 46,
+						"h": 46
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c8c6e4664e85a7a1fb60fefff2f8890b:e7247d6eb374bfa6899ebb7374710854:0a4aefa4627afcb3963414bbe640e69d$"
+	}
+}

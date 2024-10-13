@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "igloolikes.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 588,
+				"h": 58
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "like-button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 194,
+						"h": 56
+					}
+				},
+				{
+					"filename": "like-button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 56
+					},
+					"frame": {
+						"x": 197,
+						"y": 1,
+						"w": 194,
+						"h": 56
+					}
+				},
+				{
+					"filename": "like-button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 56
+					},
+					"frame": {
+						"x": 393,
+						"y": 1,
+						"w": 194,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0c64f791297d98cb1d36a61a9df2473c:514e65316cfbdf4809e189e4baf8d14a:37165243dc3dbbbd2f3e084e1a838b3c$"
+	}
+}

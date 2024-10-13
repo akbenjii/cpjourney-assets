@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/_fair/party3/fair-party3.json",
+                "path": "assets/media/rooms/_fair/party3",
+                "key": "fair-party3"
+            },
+            {
+                "url": "assets/media/rooms/_fair/party3/party3-physics.json",
+                "type": "json",
+                "key": "party3-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

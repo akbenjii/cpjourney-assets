@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "shadows-shadows.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 463,
+				"h": 180
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shadow0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 138,
+						"h": 178
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 138,
+						"h": 178
+					}
+				},
+				{
+					"filename": "shadow0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 120,
+						"h": 176
+					},
+					"frame": {
+						"x": 141,
+						"y": 1,
+						"w": 120,
+						"h": 176
+					}
+				},
+				{
+					"filename": "shadow0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 161
+					},
+					"frame": {
+						"x": 263,
+						"y": 1,
+						"w": 127,
+						"h": 161
+					}
+				},
+				{
+					"filename": "shadow0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 29,
+						"w": 70,
+						"h": 92
+					},
+					"frame": {
+						"x": 392,
+						"y": 1,
+						"w": 70,
+						"h": 92
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:67ff58057365c4bd1421f22d309ca832:28455c0264b826099599e3a8ec00bdc1:f606ee6ccc3711b1fe9b7731b2292e97$"
+	}
+}

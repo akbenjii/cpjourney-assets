@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "voyager.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2001,
+				"h": 1102
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "gemshop_bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1610,
+						"h": 1079
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1610,
+						"h": 1079
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1610,
+						"h": 1079
+					}
+				},
+				{
+					"filename": "button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 83
+					},
+					"frame": {
+						"x": 1613,
+						"y": 1,
+						"w": 350,
+						"h": 83
+					}
+				},
+				{
+					"filename": "button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 83
+					},
+					"frame": {
+						"x": 1613,
+						"y": 86,
+						"w": 350,
+						"h": 83
+					}
+				},
+				{
+					"filename": "button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 83
+					},
+					"frame": {
+						"x": 1613,
+						"y": 171,
+						"w": 350,
+						"h": 83
+					}
+				},
+				{
+					"filename": "gemshop_fg_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 337,
+						"h": 447
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 16,
+						"w": 315,
+						"h": 419
+					},
+					"frame": {
+						"x": 1613,
+						"y": 256,
+						"w": 315,
+						"h": 419
+					}
+				},
+				{
+					"filename": "gemshop_fg_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 315,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 21,
+						"w": 273,
+						"h": 424
+					},
+					"frame": {
+						"x": 1613,
+						"y": 677,
+						"w": 273,
+						"h": 424
+					}
+				},
+				{
+					"filename": "buy-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 112,
+						"h": 61
+					},
+					"frame": {
+						"x": 1888,
+						"y": 677,
+						"w": 112,
+						"h": 61
+					}
+				},
+				{
+					"filename": "buy-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 112,
+						"h": 61
+					},
+					"frame": {
+						"x": 1888,
+						"y": 740,
+						"w": 112,
+						"h": 61
+					}
+				},
+				{
+					"filename": "buy",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 120,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 112,
+						"h": 61
+					},
+					"frame": {
+						"x": 1888,
+						"y": 803,
+						"w": 112,
+						"h": 61
+					}
+				},
+				{
+					"filename": "gem_icon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 72,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 66,
+						"h": 54
+					},
+					"frame": {
+						"x": 1930,
+						"y": 256,
+						"w": 66,
+						"h": 54
+					}
+				},
+				{
+					"filename": "close_btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1930,
+						"y": 312,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "close_btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1930,
+						"y": 370,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "close_btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1930,
+						"y": 428,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "arrow-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 55
+					},
+					"frame": {
+						"x": 1930,
+						"y": 486,
+						"w": 54,
+						"h": 55
+					}
+				},
+				{
+					"filename": "arrow-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 55
+					},
+					"frame": {
+						"x": 1930,
+						"y": 543,
+						"w": 54,
+						"h": 55
+					}
+				},
+				{
+					"filename": "arrow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 55
+					},
+					"frame": {
+						"x": 1930,
+						"y": 600,
+						"w": 54,
+						"h": 55
+					}
+				},
+				{
+					"filename": "spinner",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 72,
+						"h": 63
+					},
+					"frame": {
+						"x": 1888,
+						"y": 866,
+						"w": 72,
+						"h": 63
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:00f16345713c383afaa13790e13f3a6f:2afb608985d59053992d59aa0deebdc1:8fff46599b61fc5da8a95bcf2a8fa52c$"
+	}
+}
