@@ -1,0 +1,251 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/interface/game/loginprompt/holiday/arrow.png",
+                "type": "image",
+                "key": "arrow"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/preload/ball_fire.json",
+                "path": "assets/media/preload",
+                "key": "ball_fire"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/preload/ball-herbert.json",
+                "path": "assets/media/preload",
+                "key": "ball-herbert"
+            },
+            {
+                "url": "assets/media/preload/closebtn.png",
+                "type": "image",
+                "key": "closebtn"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/coin.json",
+                "path": "assets/media/interface/game/main",
+                "key": "coin"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/common/commonbook1.json",
+                "path": "assets/media/interface/catalogs/common",
+                "key": "commonbook"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/common/commonbook-old.json",
+                "path": "assets/media/interface/catalogs/common",
+                "key": "commonbook-old"
+            },
+            {
+                "url": "assets/media/crumbs/en/crumbs.json",
+                "type": "json",
+                "key": "crumbs"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/disabledicon.json",
+                "path": "assets/media/interface/game/main",
+                "key": "disabledicon"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/_fair/emotes/fair-emotes.json",
+                "path": "assets/media/interface/game/_fair/emotes",
+                "key": "fair-emotes"
+            },
+            {
+                "url": "assets/media/preload/fair-ticket-indicator.png",
+                "type": "image",
+                "key": "fair-ticket-indicator"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/iglooedit.json",
+                "path": "assets/media/interface/game/iglooedit/",
+                "key": "iglooedit"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/igloolikes/igloolikes.json",
+                "path": "assets/media/interface/menus/igloolikes",
+                "key": "igloolikes"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/igloomap/igloomap.json",
+                "path": "assets/media/interface/menus/igloomap",
+                "key": "igloomap"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/iglooslots/iglooslots.json",
+                "path": "assets/media/interface/menus/iglooslots",
+                "key": "iglooslots"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/login/login.json",
+                "path": "assets/media/interface/menus/login/",
+                "key": "login"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/main.json",
+                "path": "assets/media/interface/game/main/",
+                "key": "main"
+            },
+            {
+                "url": "assets/media/interface/game/main/main-anims.json",
+                "type": "animation",
+                "key": "main-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/main-broadcast.json",
+                "path": "assets/media/interface/game/main",
+                "key": "main-broadcast"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/main-stampcoins.json",
+                "path": "assets/media/interface/game/main",
+                "key": "main-stampcoins"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/mascot-headshots.json",
+                "path": "assets/media/interface/game/main",
+                "key": "mascot-headshots"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/mpop.json",
+                "path": "assets/media/interface/game/main",
+                "key": "mpop"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/msicons.json",
+                "path": "assets/media/interface/game/main",
+                "key": "msicons"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/iglooedit/new-iglooedit.json",
+                "path": "assets/media/interface/game/iglooedit",
+                "key": "new-iglooedit"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/start/newstart.json",
+                "path": "assets/media/interface/menus/start",
+                "key": "newstart"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/other_sprites.json",
+                "path": "assets/media/penguin",
+                "key": "other_sprites"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/penguin/penguin_base.json",
+                "path": "assets/media/penguin/",
+                "key": "penguin_base"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/windows/prompt/prompt.json",
+                "path": "assets/media/interface/windows/prompt/",
+                "key": "prompt"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/quest.mp3"
+                ],
+                "type": "audio",
+                "key": "quest"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/main/quest-reward.json",
+                "path": "assets/media/interface/game/main",
+                "key": "quest-reward"
+            },
+            {
+                "url": "assets/media/interface/game/main/quest-rewards.json",
+                "type": "animation",
+                "key": "quest-rewards"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/menus/servers/servers.json",
+                "path": "assets/media/interface/menus/servers/",
+                "key": "servers"
+            },
+            {
+                "url": "assets/media/preload/special-ball-anims.json",
+                "type": "animation",
+                "key": "special-ball-anims"
+            },
+            {
+                "url": "assets/media/interface/game/spyphone/spyphone-anims.json",
+                "type": "animation",
+                "key": "spyphone-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/stampbook/main/stampbook-inside.json",
+                "path": "assets/media/interface/game/stampbook/main",
+                "key": "stampbook-inside"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/stampEarned.mp3"
+                ],
+                "type": "audio",
+                "key": "stampEarned"
+            },
+            {
+                "url": "assets/media/misc/steamhappy.png",
+                "type": "image",
+                "key": "steamhappy"
+            },
+            {
+                "url": "assets/media/preload/stickynote.png",
+                "type": "image",
+                "key": "stickynote"
+            },
+            {
+                "url": "assets/media/preload/ticket.png",
+                "type": "image",
+                "key": "ticket"
+            },
+            {
+                "url": [
+                    "assets/media/sounds/toot.mp3"
+                ],
+                "type": "audio",
+                "key": "toot"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": true
+    }
+}

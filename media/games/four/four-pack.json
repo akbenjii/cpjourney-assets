@@ -1,0 +1,33 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/games/four/drop.mp3"
+                ],
+                "type": "audio",
+                "key": "drop"
+            },
+            {
+                "url": [
+                    "assets/media/games/four/error.mp3"
+                ],
+                "type": "audio",
+                "key": "error"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/four/four.json",
+                "path": "assets/media/games/four",
+                "key": "four"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

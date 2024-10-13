@@ -1,0 +1,944 @@
+{
+	"textures": [
+		{
+			"image": "ball_fire.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 508,
+				"h": 1706
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "land0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 207,
+						"h": 241
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 207,
+						"h": 241
+					}
+				},
+				{
+					"filename": "land0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 207,
+						"h": 237
+					},
+					"frame": {
+						"x": 210,
+						"y": 1,
+						"w": 207,
+						"h": 237
+					}
+				},
+				{
+					"filename": "midair0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 57,
+						"h": 90
+					},
+					"frame": {
+						"x": 419,
+						"y": 1,
+						"w": 57,
+						"h": 90
+					}
+				},
+				{
+					"filename": "land0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 51,
+						"w": 10,
+						"h": 9
+					},
+					"frame": {
+						"x": 478,
+						"y": 1,
+						"w": 10,
+						"h": 9
+					}
+				},
+				{
+					"filename": "land0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 56,
+						"w": 9,
+						"h": 9
+					},
+					"frame": {
+						"x": 490,
+						"y": 1,
+						"w": 9,
+						"h": 9
+					}
+				},
+				{
+					"filename": "land0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 45,
+						"w": 8,
+						"h": 9
+					},
+					"frame": {
+						"x": 478,
+						"y": 12,
+						"w": 8,
+						"h": 9
+					}
+				},
+				{
+					"filename": "midair0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 30,
+						"w": 57,
+						"h": 88
+					},
+					"frame": {
+						"x": 419,
+						"y": 93,
+						"w": 57,
+						"h": 88
+					}
+				},
+				{
+					"filename": "midair0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 55,
+						"h": 110
+					},
+					"frame": {
+						"x": 419,
+						"y": 183,
+						"w": 55,
+						"h": 110
+					}
+				},
+				{
+					"filename": "land0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 204,
+						"h": 237
+					},
+					"frame": {
+						"x": 210,
+						"y": 240,
+						"w": 204,
+						"h": 237
+					}
+				},
+				{
+					"filename": "land0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 204,
+						"h": 234
+					},
+					"frame": {
+						"x": 1,
+						"y": 244,
+						"w": 204,
+						"h": 234
+					}
+				},
+				{
+					"filename": "midair0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 54,
+						"h": 108
+					},
+					"frame": {
+						"x": 416,
+						"y": 295,
+						"w": 54,
+						"h": 108
+					}
+				},
+				{
+					"filename": "midair0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 53,
+						"h": 118
+					},
+					"frame": {
+						"x": 416,
+						"y": 405,
+						"w": 53,
+						"h": 118
+					}
+				},
+				{
+					"filename": "land0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 19,
+						"w": 194,
+						"h": 230
+					},
+					"frame": {
+						"x": 207,
+						"y": 479,
+						"w": 194,
+						"h": 230
+					}
+				},
+				{
+					"filename": "land0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 16,
+						"w": 188,
+						"h": 233
+					},
+					"frame": {
+						"x": 1,
+						"y": 480,
+						"w": 188,
+						"h": 233
+					}
+				},
+				{
+					"filename": "midair0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 53,
+						"h": 114
+					},
+					"frame": {
+						"x": 403,
+						"y": 525,
+						"w": 53,
+						"h": 114
+					}
+				},
+				{
+					"filename": "midair0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 49,
+						"h": 107
+					},
+					"frame": {
+						"x": 458,
+						"y": 525,
+						"w": 49,
+						"h": 107
+					}
+				},
+				{
+					"filename": "midair0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 16,
+						"w": 49,
+						"h": 97
+					},
+					"frame": {
+						"x": 458,
+						"y": 634,
+						"w": 49,
+						"h": 97
+					}
+				},
+				{
+					"filename": "midair0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 52,
+						"h": 115
+					},
+					"frame": {
+						"x": 403,
+						"y": 641,
+						"w": 52,
+						"h": 115
+					}
+				},
+				{
+					"filename": "midair0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 50,
+						"h": 115
+					},
+					"frame": {
+						"x": 457,
+						"y": 733,
+						"w": 50,
+						"h": 115
+					}
+				},
+				{
+					"filename": "land0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 38,
+						"w": 179,
+						"h": 175
+					},
+					"frame": {
+						"x": 191,
+						"y": 711,
+						"w": 179,
+						"h": 175
+					}
+				},
+				{
+					"filename": "land0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 40,
+						"w": 178,
+						"h": 183
+					},
+					"frame": {
+						"x": 1,
+						"y": 715,
+						"w": 178,
+						"h": 183
+					}
+				},
+				{
+					"filename": "land0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 69,
+						"w": 114,
+						"h": 154
+					},
+					"frame": {
+						"x": 372,
+						"y": 850,
+						"w": 114,
+						"h": 154
+					}
+				},
+				{
+					"filename": "land0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 36,
+						"w": 177,
+						"h": 182
+					},
+					"frame": {
+						"x": 181,
+						"y": 888,
+						"w": 177,
+						"h": 182
+					}
+				},
+				{
+					"filename": "land0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 29,
+						"w": 173,
+						"h": 209
+					},
+					"frame": {
+						"x": 1,
+						"y": 900,
+						"w": 173,
+						"h": 209
+					}
+				},
+				{
+					"filename": "midair0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 52,
+						"h": 115
+					},
+					"frame": {
+						"x": 360,
+						"y": 1006,
+						"w": 52,
+						"h": 115
+					}
+				},
+				{
+					"filename": "land0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 34,
+						"w": 173,
+						"h": 196
+					},
+					"frame": {
+						"x": 176,
+						"y": 1072,
+						"w": 173,
+						"h": 196
+					}
+				},
+				{
+					"filename": "land0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 40,
+						"w": 155,
+						"h": 146
+					},
+					"frame": {
+						"x": 351,
+						"y": 1123,
+						"w": 155,
+						"h": 146
+					}
+				},
+				{
+					"filename": "midair0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 50,
+						"h": 113
+					},
+					"frame": {
+						"x": 414,
+						"y": 1006,
+						"w": 50,
+						"h": 113
+					}
+				},
+				{
+					"filename": "land0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 45,
+						"w": 165,
+						"h": 202
+					},
+					"frame": {
+						"x": 1,
+						"y": 1111,
+						"w": 165,
+						"h": 202
+					}
+				},
+				{
+					"filename": "land0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 39,
+						"w": 162,
+						"h": 164
+					},
+					"frame": {
+						"x": 168,
+						"y": 1270,
+						"w": 162,
+						"h": 164
+					}
+				},
+				{
+					"filename": "land0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 62,
+						"w": 160,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 1315,
+						"w": 160,
+						"h": 98
+					}
+				},
+				{
+					"filename": "land0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 34,
+						"w": 158,
+						"h": 175
+					},
+					"frame": {
+						"x": 1,
+						"y": 1415,
+						"w": 158,
+						"h": 175
+					}
+				},
+				{
+					"filename": "midair0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 51,
+						"h": 111
+					},
+					"frame": {
+						"x": 1,
+						"y": 1592,
+						"w": 51,
+						"h": 111
+					}
+				},
+				{
+					"filename": "midair0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 11,
+						"w": 52,
+						"h": 106
+					},
+					"frame": {
+						"x": 54,
+						"y": 1592,
+						"w": 52,
+						"h": 106
+					}
+				},
+				{
+					"filename": "midair0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 50,
+						"h": 106
+					},
+					"frame": {
+						"x": 108,
+						"y": 1592,
+						"w": 50,
+						"h": 106
+					}
+				},
+				{
+					"filename": "midair0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 11,
+						"w": 47,
+						"h": 103
+					},
+					"frame": {
+						"x": 160,
+						"y": 1592,
+						"w": 47,
+						"h": 103
+					}
+				},
+				{
+					"filename": "land0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 47,
+						"w": 153,
+						"h": 145
+					},
+					"frame": {
+						"x": 161,
+						"y": 1436,
+						"w": 153,
+						"h": 145
+					}
+				},
+				{
+					"filename": "land0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 57,
+						"w": 154,
+						"h": 122
+					},
+					"frame": {
+						"x": 209,
+						"y": 1583,
+						"w": 154,
+						"h": 122
+					}
+				},
+				{
+					"filename": "land0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 67,
+						"w": 158,
+						"h": 100
+					},
+					"frame": {
+						"x": 332,
+						"y": 1271,
+						"w": 158,
+						"h": 100
+					}
+				},
+				{
+					"filename": "land0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 207,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 75,
+						"w": 157,
+						"h": 99
+					},
+					"frame": {
+						"x": 332,
+						"y": 1373,
+						"w": 157,
+						"h": 99
+					}
+				},
+				{
+					"filename": "midair0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 17,
+						"w": 52,
+						"h": 101
+					},
+					"frame": {
+						"x": 316,
+						"y": 1474,
+						"w": 52,
+						"h": 101
+					}
+				},
+				{
+					"filename": "midair0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 15,
+						"w": 48,
+						"h": 101
+					},
+					"frame": {
+						"x": 365,
+						"y": 1577,
+						"w": 48,
+						"h": 101
+					}
+				},
+				{
+					"filename": "midair0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 18,
+						"w": 50,
+						"h": 99
+					},
+					"frame": {
+						"x": 370,
+						"y": 1474,
+						"w": 50,
+						"h": 99
+					}
+				},
+				{
+					"filename": "midair0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 48,
+						"h": 98
+					},
+					"frame": {
+						"x": 422,
+						"y": 1474,
+						"w": 48,
+						"h": 98
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:dd02a9ca29f8646eca5fd9b029b4be3d:c6938503f8cd9ec111f3dc2a09d7a475:b947779eab7d9828f418797e0baad845$"
+	}
+}

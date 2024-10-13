@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "cadence-widget.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 620,
+				"h": 189
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cadence",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 156,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 156,
+						"h": 187
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 156,
+						"h": 187
+					}
+				},
+				{
+					"filename": "bubble",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 460,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 460,
+						"h": 135
+					},
+					"frame": {
+						"x": 159,
+						"y": 1,
+						"w": 460,
+						"h": 135
+					}
+				},
+				{
+					"filename": "greybtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 47
+					},
+					"frame": {
+						"x": 159,
+						"y": 138,
+						"w": 151,
+						"h": 47
+					}
+				},
+				{
+					"filename": "greybtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 47
+					},
+					"frame": {
+						"x": 312,
+						"y": 138,
+						"w": 151,
+						"h": 47
+					}
+				},
+				{
+					"filename": "close",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 34
+					},
+					"frame": {
+						"x": 465,
+						"y": 138,
+						"w": 34,
+						"h": 34
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:98391bf89def43215f3a40c6ae65bd99:676e46b45c383ecbc3b3e555ce998f18:19d1ddc4322709b1ac1fe863fd5d64e7$"
+	}
+}

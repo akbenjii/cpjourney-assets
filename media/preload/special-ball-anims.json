@@ -1,0 +1,602 @@
+{
+    "anims": [
+        {
+            "key": "ball_fire_midair",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "midair0020",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "ball_fire_land",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ball_fire",
+                    "frame": "land0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball_fire",
+                    "frame": "land0024",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false,
+            "hideOnComplete": true
+        },
+        {
+            "key": "ball-herbert-midair",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ball-herbert",
+                    "frame": "midair",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "ball-herbert-land",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ball-herbert",
+                    "frame": "land",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "ball-herbert-hit",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-herbert",
+                    "frame": "hit0044",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

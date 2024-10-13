@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/sensei/sensei.json",
+                "path": "assets/media/games/sensei",
+                "key": "sensei"
+            },
+            {
+                "url": "assets/media/games/sensei/sensei-anims.json",
+                "type": "animation",
+                "key": "sensei-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "sensay-menu-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 734,
+				"h": 501
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "menu",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 674,
+						"h": 499
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 674,
+						"h": 499
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 674,
+						"h": 499
+					}
+				},
+				{
+					"filename": "beltIcon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 677,
+						"y": 1,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "instructionsIcon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 677,
+						"y": 59,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "senseiIcon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 677,
+						"y": 117,
+						"w": 56,
+						"h": 56
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:53662b28c973cb5a645591576189da26:8c9c2c35bb9915186c12fbd132f3dbbd:5d4c9da6b77c2c65d049c63dfb3fee57$"
+	}
+}

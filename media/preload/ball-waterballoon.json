@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "ball-waterballoon.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 537,
+				"h": 122
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "splash0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 146,
+						"h": 99
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 146,
+						"h": 99
+					}
+				},
+				{
+					"filename": "splash0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 11,
+						"w": 124,
+						"h": 84
+					},
+					"frame": {
+						"x": 149,
+						"y": 1,
+						"w": 124,
+						"h": 84
+					}
+				},
+				{
+					"filename": "midair0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 33
+					},
+					"frame": {
+						"x": 149,
+						"y": 87,
+						"w": 33,
+						"h": 33
+					}
+				},
+				{
+					"filename": "midair0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 33
+					},
+					"frame": {
+						"x": 184,
+						"y": 87,
+						"w": 33,
+						"h": 33
+					}
+				},
+				{
+					"filename": "midair0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 33
+					},
+					"frame": {
+						"x": 219,
+						"y": 87,
+						"w": 33,
+						"h": 33
+					}
+				},
+				{
+					"filename": "midair0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 33
+					},
+					"frame": {
+						"x": 254,
+						"y": 87,
+						"w": 33,
+						"h": 33
+					}
+				},
+				{
+					"filename": "splash0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 154,
+						"h": 75
+					},
+					"frame": {
+						"x": 275,
+						"y": 1,
+						"w": 154,
+						"h": 75
+					}
+				},
+				{
+					"filename": "splash0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 13,
+						"w": 105,
+						"h": 74
+					},
+					"frame": {
+						"x": 431,
+						"y": 1,
+						"w": 105,
+						"h": 74
+					}
+				},
+				{
+					"filename": "splash0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 29,
+						"w": 54,
+						"h": 44
+					},
+					"frame": {
+						"x": 431,
+						"y": 77,
+						"w": 54,
+						"h": 44
+					}
+				},
+				{
+					"filename": "midair0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 289,
+						"y": 78,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "midair0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 30,
+						"h": 31
+					},
+					"frame": {
+						"x": 321,
+						"y": 78,
+						"w": 30,
+						"h": 31
+					}
+				},
+				{
+					"filename": "midair0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 30
+					},
+					"frame": {
+						"x": 353,
+						"y": 78,
+						"w": 31,
+						"h": 30
+					}
+				},
+				{
+					"filename": "midair0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 33,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 31,
+						"h": 30
+					},
+					"frame": {
+						"x": 386,
+						"y": 78,
+						"w": 31,
+						"h": 30
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:79474b471b1d5dbdad9446c49bdcc8a8:7bd713d1a25a92e55b074fa158ea03c3:cf242f021caec9028be4da9346d04bf9$"
+	}
+}

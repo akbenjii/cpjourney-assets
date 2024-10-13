@@ -1,0 +1,693 @@
+{
+	"1": {
+		"name": "Experimental Penguin",
+		"ball_delay": 250,
+		"frames": {
+			"25": {
+				"end": 10
+			},
+			"26": {
+				"end": 90,
+				"repeat": -1
+			},
+			"27": {
+				"end": 1
+			},
+			"28": {
+				"end": 1
+			},
+			"29": {
+				"end": 1
+			},
+			"30": {
+				"end": 1
+			}
+		}
+	},
+	"2": {
+		"name": "Snowcat",
+		"ball_delay": 50,
+		"frames": {
+			"9": {
+				"end": 1
+			},
+			"10": {
+				"end": 1
+			},
+			"11": {
+				"end": 1
+			},
+			"12": {
+				"end": 1
+			},
+			"13": {
+				"end": 1
+			},
+			"14": {
+				"end": 1
+			},
+			"15": {
+				"end": 1
+			},
+			"16": {
+				"end": 1
+			},
+			"17": {
+				"end": 1
+			},
+			"18": {
+				"end": 1
+			},
+			"19": {
+				"end": 1
+			},
+			"20": {
+				"end": 1
+			},
+			"21": {
+				"end": 1
+			},
+			"22": {
+				"end": 1
+			},
+			"23": {
+				"end": 1
+			},
+			"24": {
+				"end": 1
+			},
+			"25": {
+				"end": 1
+			},
+			"26": {
+				"end": 1
+			},
+			"27": {
+				"end": 1
+			},
+			"28": {
+				"end": 1
+			},
+			"29": {
+				"end": 1
+			},
+			"30": {
+				"end": 1
+			},
+			"31": {
+				"end": 1
+			}
+		}
+	},
+	"3": {
+		"name": "Dragon",
+		"ball_delay": 300,
+		"special_ball": true,
+		"sounds": ["dragon_dance","dragon_snowball","dragon_wave"],
+		"frames": {
+			"9": {
+				"end": 28,
+				"repeat": -1
+			},
+			"10": {
+				"end": 28,
+				"repeat": -1
+			},
+			"11": {
+				"end": 28,
+				"repeat": -1
+			},
+			"12": {
+				"end": 28,
+				"repeat": -1
+			},
+			"13": {
+				"end": 28,
+				"repeat": -1
+			},
+			"14": {
+				"end": 28,
+				"repeat": -1
+			},
+			"15": {
+				"end": 28,
+				"repeat": -1
+			},
+			"16": {
+				"end": 28,
+				"repeat": -1
+			},
+			"25": {
+				"end": 110,
+				"sounds": [
+					{
+						"subframe": 2,
+						"sound": "dragon_wave"
+					}
+				]
+			},
+			"26": {
+				"end": 69,
+				"sounds": [
+					{
+						"subframe": 3,
+						"sound": "dragon_dance"
+					}
+				]
+			},
+			"27": {
+				"end": 44,
+				"sounds": [
+					{
+						"subframe": 6,
+						"sound": "dragon_snowball"
+					}
+				]
+			},
+			"28": {
+				"end": 44,
+				"sounds": [
+					{
+						"subframe": 6,
+						"sound": "dragon_snowball"
+					}
+				]
+			},
+			"29": {
+				"end": 44,
+				"sounds": [
+					{
+						"subframe": 6,
+						"sound": "dragon_snowball"
+					}
+				]
+			},
+			"30": {
+				"end": 44,
+				"sounds": [
+					{
+						"subframe": 6,
+						"sound": "dragon_snowball"
+					}
+				]
+			},
+			"31": {
+				"end": 44,
+				"sounds": [
+					{
+						"subframe": 6,
+						"sound": "dragon_snowball"
+					}
+				]
+			}
+		}
+	},
+	"4": {
+		"name": "Snail",
+		"no_paper": true,
+		"dont_hide_doll": true,
+		"frames": {
+			"1": {
+				"end": 280,
+				"repeat": -1
+			},
+			"2": {
+				"end": 280,
+				"repeat": -1
+			},
+			"3": {
+				"end": 280,
+				"repeat": -1
+			},
+			"4": {
+				"end": 1
+			},
+			"5": {
+				"end": 1
+			},
+			"6": {
+				"end": 1
+			},
+			"7": {
+				"end": 280,
+				"repeat": -1
+			},
+			"8": {
+				"end": 280,
+				"repeat": -1
+			},
+			"9": {
+				"end": 8,
+				"repeat": -1
+			},
+			"10": {
+				"end": 8,
+				"repeat": -1
+			},
+			"11": {
+				"end": 8,
+				"repeat": -1
+			},
+			"12": {
+				"end": 8,
+				"repeat": -1
+			},
+			"13": {
+				"end": 8,
+				"repeat": -1
+			},
+			"14": {
+				"end": 8,
+				"repeat": -1
+			},
+			"15": {
+				"end": 8,
+				"repeat": -1
+			},
+			"16": {
+				"end": 8,
+				"repeat": -1
+			},
+			"17": {
+				"end": 280,
+				"repeat": -1
+			},
+			"18": {
+				"end": 1
+			},
+			"19": {
+				"end": 1
+			},
+			"20": {
+				"end": 280,
+				"repeat": -1
+			},
+			"21": {
+				"end": 280,
+				"repeat": -1
+			},
+			"22": {
+				"end": 280,
+				"repeat": -1
+			},
+			"23": {
+				"end": 280,
+				"repeat": -1
+			},
+			"24": {
+				"end": 280,
+				"repeat": -1
+			},
+			"25": {
+				"end": 280,
+				"repeat": -1
+			},
+			"26": {
+				"end": 280,
+				"repeat": -1
+			},
+			"27": {
+				"end": 280,
+				"repeat": -1
+			},
+			"28": {
+				"end": 280,
+				"repeat": -1
+			},
+			"29": {
+				"end": 280,
+				"repeat": -1
+			},
+			"30": {
+				"end": 280,
+				"repeat": -1
+			},
+			"31": {
+				"end": 1
+			}
+		}
+	},
+	"5": {
+		"name": "Herbert",
+		"ball_delay": 2500,
+		"special_ball": true,
+		"balloon_offset": { "y": -130 },
+		"frames": {
+			"9": {
+				"end": 40,
+				"repeat": -1
+			},
+			"10": {
+				"end": 40,
+				"repeat": -1
+			},
+			"11": {
+				"end": 40,
+				"repeat": -1
+			},
+			"12": {
+				"end": 40,
+				"repeat": -1
+			},
+			"13": {
+				"end": 40,
+				"repeat": -1
+			},
+			"14": {
+				"end": 40,
+				"repeat": -1
+			},
+			"15": {
+				"end": 40,
+				"repeat": -1
+			},
+			"16": {
+				"end": 40,
+				"repeat": -1
+			},
+			"17": {
+				"end": 280,
+				"repeat": -1
+			},
+			"25": {
+				"end": 165,
+				"repeat": -1
+			},
+			"26": {
+				"end": 151,
+				"repeat": -1
+			},
+			"27": {
+				"end": 90
+			},
+			"28": {
+				"end": 90
+			},
+			"29": {
+				"end": 90
+			},
+			"30": {
+				"end": 90
+			}
+		}
+	},
+	"6": {
+		"name": "Fairy",
+		"tinted": true,
+		"ball_delay": 250,
+		"paper_colors": true,
+		"dont_hide_doll": true,
+		"frames": {
+			"9": {
+				"end": 8,
+				"repeat": -1
+			},
+			"10": {
+				"end": 8,
+				"repeat": -1
+			},
+			"11": {
+				"end": 8,
+				"repeat": -1
+			},
+			"12": {
+				"end": 8,
+				"repeat": -1
+			},
+			"13": {
+				"end": 8,
+				"repeat": -1
+			},
+			"14": {
+				"end": 8,
+				"repeat": -1
+			},
+			"15": {
+				"end": 8,
+				"repeat": -1
+			},
+			"16": {
+				"end": 8,
+				"repeat": -1
+			},
+			"25": {
+				"end": 8,
+				"repeat": -1
+			},
+			"26": {
+				"end": 8,
+				"repeat": -1
+			},
+			"27": {
+				"end": 1
+			},
+			"28": {
+				"end": 1
+			},
+			"29": {
+				"end": 1
+			},
+			"30": {
+				"end": 1
+			}
+		}
+	},
+	"7": {
+		"name": "Crewmate",
+		"no_paper": true,
+		"dont_hide_doll": true,
+		"tinted_sprite": true,
+		"frames": {
+			"9": {
+				"end": 12,
+				"repeat": -1
+			},
+			"10": {
+				"end": 12,
+				"repeat": -1
+			},
+			"11": {
+				"end": 12,
+				"repeat": -1
+			},
+			"12": {
+				"end": 12,
+				"repeat": -1
+			},
+			"13": {
+				"end": 12,
+				"repeat": -1
+			},
+			"14": {
+				"end": 12,
+				"repeat": -1
+			},
+			"15": {
+				"end": 12,
+				"repeat": -1
+			},
+			"16": {
+				"end": 12,
+				"repeat": -1
+			},
+			"25": {
+				"end": 67
+			},
+			"26": {
+				"end": 33
+			},
+			"27": {
+				"end": 28
+			},
+			"28": {
+				"end": 28
+			},
+			"29": {
+				"end": 28
+			},
+			"30": {
+				"end": 28
+			}
+		}
+	},
+	"8": {
+		"name": "Merry Walrus",
+		"sounds": ["walrus_laugh", "walrus_present"],
+		"ball_delay": 460,
+		"balloon_offset": { "y": -100 },
+		"frames": {
+			"9": {
+				"end": 29,
+				"repeat": -1
+			},
+			"10": {
+				"end": 29,
+				"repeat": -1
+			},
+			"11": {
+				"end": 29,
+				"repeat": -1
+			},
+			"12": {
+				"end": 29,
+				"repeat": -1
+			},
+			"13": {
+				"end": 29,
+				"repeat": -1
+			},
+			"14": {
+				"end": 29,
+				"repeat": -1
+			},
+			"15": {
+				"end": 29,
+				"repeat": -1
+			},
+			"16": {
+				"end": 29,
+				"repeat": -1
+			},
+			"25": {
+				"end": 40
+			},
+			"26": {
+				"end": 60,
+				"repeat": 0,
+				"sounds": [
+					{
+						"subframe": 9,
+						"sound": "walrus_present"
+					},
+					{
+						"subframe": 29,
+						"sound": "walrus_laugh"
+					}
+				]
+			},
+			"27": {
+				"end": 20
+			},
+			"28": {
+				"end": 20
+			},
+			"29": {
+				"end": 20
+			},
+			"30": {
+				"end": 209
+			}
+		}
+	},
+	"9": {
+		"name": "Klutzy",
+		"ball_delay": 0,
+		"balloon_offset": { "y": -70 },
+		"frames": {
+			"1": {
+				"end": 39,
+				"repeat": -1
+			},
+			"2": {
+				"end": 39,
+				"repeat": -1
+			},
+			"3": {
+				"end": 39,
+				"repeat": -1
+			},
+			"4": {
+				"end": 39,
+				"repeat": -1
+			},
+			"5": {
+				"end": 39,
+				"repeat": -1
+			},
+			"6": {
+				"end": 39,
+				"repeat": -1
+			},
+			"7": {
+				"end": 39,
+				"repeat": -1
+			},
+			"8": {
+				"end": 39,
+				"repeat": -1
+			},
+			"9": {
+				"end": 40,
+				"repeat": -1
+			},
+			"10": {
+				"end": 40,
+				"repeat": -1
+			},
+			"11": {
+				"end": 40,
+				"repeat": -1
+			},
+			"12": {
+				"end": 40,
+				"repeat": -1
+			},
+			"13": {
+				"end": 40,
+				"repeat": -1
+			},
+			"14": {
+				"end": 40,
+				"repeat": -1
+			},
+			"15": {
+				"end": 40,
+				"repeat": -1
+			},
+			"16": {
+				"end": 40,
+				"repeat": -1
+			},
+			"17": {
+				"end": 39,
+				"repeat": -1
+			},
+			"18": {
+				"end": 39,
+				"repeat": -1
+			},
+			"19": {
+				"end": 39,
+				"repeat": -1
+			},
+			"20": {
+				"end": 39,
+				"repeat": -1
+			},
+			"21": {
+				"end": 39,
+				"repeat": -1
+			},
+			"22": {
+				"end": 39,
+				"repeat": -1
+			},
+			"23": {
+				"end": 39,
+				"repeat": -1
+			},
+			"24": {
+				"end": 39,
+				"repeat": -1
+			},
+			"25": {
+				"end": 35,
+				"repeat": -1
+			},
+			"26": {
+				"end": 16,
+				"repeat": -1
+			}
+		}
+	}
+}

@@ -1,0 +1,112 @@
+{
+    "anims": [
+        {
+            "key": "ball-waterballoon-midair",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "midair0008",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "ball-waterballoon-splash",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "splash0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "splash0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "splash0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "splash0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ball-waterballoon",
+                    "frame": "splash0005",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false,
+            "hideOnComplete": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

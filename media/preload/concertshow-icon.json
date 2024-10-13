@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "concertshow-icon.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 106,
+				"h": 144
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "concertshow-icon-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 104,
+						"h": 74
+					}
+				},
+				{
+					"filename": "concertshow-icon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 97,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 77,
+						"w": 97,
+						"h": 66
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:28ec0dfde2622f4f84d958505ebaf924:c3d9397c63f257cd1a1e79277d4c953d:32fc73659cb059e55a9654eaa2dc7c2f$"
+	}
+}

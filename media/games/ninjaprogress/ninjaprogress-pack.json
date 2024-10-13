@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/ninjaprogress/ninjaprogress.json",
+                "path": "assets/media/games/ninjaprogress",
+                "key": "ninjaprogress"
+            },
+            {
+                "url": "assets/media/games/ninjaprogress/ninjaprogress-anims.json",
+                "type": "animation",
+                "key": "ninjaprogress-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/media/music/116.mp3"
+                ],
+                "type": "audio",
+                "key": "116"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/cardjitsu.json",
+                "path": "assets/media/games/card",
+                "key": "cardjitsu"
+            },
+            {
+                "url": "assets/media/games/card/cardjitsu-anims.json",
+                "type": "animation",
+                "key": "cardjitsu-anims"
+            },
+            {
+                "url": [
+                    "assets/media/games/card/end.mp3"
+                ],
+                "type": "audio",
+                "key": "end"
+            },
+            {
+                "url": [
+                    "assets/media/games/card/explosion.mp3"
+                ],
+                "type": "audio",
+                "key": "explosion"
+            },
+            {
+                "url": [
+                    "assets/media/games/card/switch.mp3"
+                ],
+                "type": "audio",
+                "key": "switch"
+            },
+            {
+                "url": [
+                    "assets/media/games/card/tie.mp3"
+                ],
+                "type": "audio",
+                "key": "tie"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

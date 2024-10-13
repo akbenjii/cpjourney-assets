@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "boxhunt-icon.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 125,
+				"h": 215
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "boxhunt-icon-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 107
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 123,
+						"h": 107
+					}
+				},
+				{
+					"filename": "boxhunt-icon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 120,
+						"h": 104
+					},
+					"frame": {
+						"x": 1,
+						"y": 110,
+						"w": 120,
+						"h": 104
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:402eda68022b8f80490ccb279319e888:b548f38db496d9d55adffc64780a67ee:21f3ba9a2414fbf55977c0ed2cb1acf5$"
+	}
+}

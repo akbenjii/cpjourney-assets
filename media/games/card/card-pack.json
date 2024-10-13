@@ -1,0 +1,70 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/games/card/703.png",
+                "type": "image",
+                "key": "703"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/card.json",
+                "path": "assets/media/games/card",
+                "key": "card"
+            },
+            {
+                "url": "assets/media/games/card/card-anims.json",
+                "type": "animation",
+                "key": "card-anims"
+            },
+            {
+                "url": "assets/media/games/card/cjback.png",
+                "type": "image",
+                "key": "cjback"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/cjcard.json",
+                "path": "assets/media/games/card",
+                "key": "cjcard"
+            },
+            {
+                "url": [
+                    "assets/media/games/card/explosion.mp3"
+                ],
+                "type": "audio",
+                "key": "explosion"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/games/card/explosion.json",
+                "path": "assets/media/games/card",
+                "key": "explosion_1"
+            },
+            {
+                "url": "assets/media/games/card/reffff.png",
+                "type": "image",
+                "key": "reffff"
+            },
+            {
+                "url": "assets/media/games/card/Symbol 2.png",
+                "type": "image",
+                "key": "Symbol 2"
+            },
+            {
+                "url": [
+                    "assets/media/games/card/win.mp3"
+                ],
+                "type": "audio",
+                "key": "win"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

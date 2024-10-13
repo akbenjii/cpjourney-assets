@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "watercatalog-icon.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 148,
+				"h": 169
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "watercatalog-icon-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 148,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 10,
+						"w": 146,
+						"h": 84
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 146,
+						"h": 84
+					}
+				},
+				{
+					"filename": "watercatalog-icon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 148,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 141,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 87,
+						"w": 141,
+						"h": 81
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fb5a1e921f11e51cf33a7fa3afa74a56:bcaf13159baa1ebdefd6fdb4b1321446:568f0e93a1c8f0b42fb3431cf5b0655b$"
+	}
+}

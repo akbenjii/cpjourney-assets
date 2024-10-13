@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "camp-catalogicon.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 95,
+				"h": 226
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ccicon-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 108,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 93,
+						"h": 113
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 93,
+						"h": 113
+					}
+				},
+				{
+					"filename": "ccicon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 104,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 90,
+						"h": 109
+					},
+					"frame": {
+						"x": 1,
+						"y": 116,
+						"w": 90,
+						"h": 109
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6fd5d6dcffdd3edd54a13ed0441d770b:7d2902bde4b42f4d63556d33ab9957b8:2e9573d33187c9820263939527f42fdd$"
+	}
+}

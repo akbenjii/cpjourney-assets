@@ -1,0 +1,103 @@
+@font-face {
+	font-family: 'MyriadWebProBold';
+	src: url('/assets/sites/default/themes/club_penguinmyriadpro2-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinmyriadpro2-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinmyriadpro2-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinmyriadpro2-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinmyriadpro2-webfont.svg#MyriadProBold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadWebProItalic';
+	src: url('/assets/sites/default/themes/club_penguinmyriadproit2-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinmyriadproit2-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinmyriadproit2-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinmyriadproit2-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinmyriadproit2-webfont.svg#MyriadProItalic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadWebProRegular';
+	src: url('/assets/sites/default/themes/club_penguinmyriad2-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinmyriad2-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinmyriad2-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinmyriad2-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinmyriad2-webfont.svg#Myriad-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_regular';
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-Reg-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-Reg-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNova-Reg-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNova-Reg-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNova-Reg-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNova-Reg-webfont.svg#proxima_nova_regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_italic';
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-RegIt-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-RegIt-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNova-RegIt-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNova-RegIt-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNova-RegIt-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNova-RegIt-webfont.svg#proxima_nova_italic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_semibold';
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-Sbold-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-Sbold-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNova-Sbold-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNova-Sbold-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNova-Sbold-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNova-Sbold-webfont.svg#proxima_nova_semibold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_bold';
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-Bold-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNova-Bold-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNova-Bold-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNova-Bold-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNova-Bold-webfont.svg#proxima_nova_bold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_bold_italic';
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-BoldIt-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNova-BoldIt-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNova-BoldIt-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNova-BoldIt-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNova-BoldIt-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNova-BoldIt-webfont.svg#proxima_nova_bold_italic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_cn_regular';
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-Reg-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-Reg-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Reg-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Reg-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Reg-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Reg-webfont.svg#proxima_nova_cn_regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_cn_italic';
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-RegIt-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-RegIt-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-RegIt-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-RegIt-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-RegIt-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-RegIt-webfont.svg#proxima_nova_cn_italic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_cn_semibold';
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-SBold-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-SBold-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-SBold-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-SBold-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-SBold-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-SBold-webfont.svg#proxima_nova_cn_semibold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_cn_bold';
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-Bold-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Bold-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Bold-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Bold-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-Bold-webfont.svg#proxima_nova_cn_bold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_cn_bold_italic';
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-BoldIt-webfont.eot');
+	src: url('/assets/sites/default/themes/club_penguinProximaNovaCond-BoldIt-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-BoldIt-webfont.woff2') format('woff2'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-BoldIt-webfont.woff') format('woff'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-BoldIt-webfont.ttf') format('truetype'), url('/assets/sites/default/themes/club_penguinProximaNovaCond-BoldIt-webfont.svg#proxima_nova_condensedBdIt') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
